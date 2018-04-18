@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>true</applies_req_item>
+        <applies_sc_task>true</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
+        <applies_to>item</applies_to>
+        <cat_item display_value="Remote Connectivity To Equipments">912defe6db15574003a29ea3db961936</cat_item>
+        <cat_variable>IO:cd9de32adb15574003a29ea3db961976</cat_variable>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <messages/>
+        <name>to validate start date</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+   if (isLoading || newValue == '') {
+      return;
+   }
+
+     //Type appropriate comment here, and begin script below
+	var today = new Date();  
+  var end = new Date(newValue);  
+  var intToday = (today.getUTCFullYear() * 10000) + (today.getUTCMonth() * 100) + today.getUTCDate();  
+  var intEnd = (end.getUTCFullYear() * 10000) + (end.getUTCMonth() * 100) + end.getUTCDate();  
+  //clear the message  
+  //g_form.hideFieldMsg(control.hire_start_date);  
+  
+  //Use UTC conversion, and verify each part is appropriate  
+  if (intEnd >= intToday) {  
+  //this is valid, do nothing  
+  } else { 
+	  alert("'Start Date' should be either present or future date");
+	  g_form.setValue('start_date','');
+  } 
+   
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>sushil</sys_created_by>
+        <sys_created_on>2018-04-16 08:26:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>58eb6af8db2d130004bf6f048a9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>to validate start date</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>catalog_script_client_58eb6af8db2d130004bf6f048a9619fe</sys_update_name>
+        <sys_updated_by>sushil</sys_updated_by>
+        <sys_updated_on>2018-04-16 08:26:18</sys_updated_on>
+        <table/>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+</record_update>

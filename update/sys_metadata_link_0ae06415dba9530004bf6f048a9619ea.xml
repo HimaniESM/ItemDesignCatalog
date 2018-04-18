@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>2b7d8c15db69530004bf6f048a96193b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_group">
+    <sys_user_group action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cost_center/>
+        <default_assignee/>
+        <description>Local Space Anchor for ESM cafe item</description>
+        <email/>
+        <exclude_manager>false</exclude_manager>
+        <hourly_rate>0</hourly_rate>
+        <include_members>false</include_members>
+        <manager/>
+        <name>Esm Local Space Anchor</name>
+        <parent/>
+        <roles/>
+        <source/>
+        <sys_created_by>suganya_nagarajan</sys_created_by>
+        <sys_created_on>2018-04-17 10:13:04</sys_created_on>
+        <sys_id>2b7d8c15db69530004bf6f048a96193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>suganya_nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-17 10:13:04</sys_updated_on>
+        <type/>
+    </sys_user_group>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>suganya_nagarajan</sys_created_by>
+        <sys_created_on>2018-04-17 11:35:22</sys_created_on>
+        <sys_id>0ae06415dba9530004bf6f048a9619ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Esm Local Space Anchor</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sys_metadata_link_0ae06415dba9530004bf6f048a9619ea</sys_update_name>
+        <sys_updated_by>suganya_nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-17 11:35:22</sys_updated_on>
+        <tablename>sys_user_group</tablename>
+    </sys_metadata_link>
+</record_update>

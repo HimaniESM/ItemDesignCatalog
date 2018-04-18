@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_task_defn">
+    <sc_ic_task_defn action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assignment_details>Group: Esm Local Space Anchor</assignment_details>
+        <assignment_group display_value="Esm Local Space Anchor" name="Esm Local Space Anchor">2b7d8c15db69530004bf6f048a96193b</assignment_group>
+        <assignment_type>custom_assignment</assignment_type>
+        <assignment_user/>
+        <description/>
+        <order>100</order>
+        <sc_cat_item display_value="Space allocation in new location">d3a6e0cbdb9157403b0936cb7c961989</sc_cat_item>
+        <sc_ic_task_assign_defn_staging/>
+        <sc_ic_task_defn_staging display_value="Local Space Anchor">df96e0cbdb9157403b0936cb7c961985</sc_ic_task_defn_staging>
+        <short_description>Local Space Anchor</short_description>
+        <sys_class_name>sc_ic_task_defn</sys_class_name>
+        <sys_created_by>suganya_nagarajan</sys_created_by>
+        <sys_created_on>2018-04-17 10:29:23</sys_created_on>
+        <sys_id>2bc11019db69530004bf6f048a96196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Local Space Anchor</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_ic_task_defn_2bc11019db69530004bf6f048a96196d</sys_update_name>
+        <sys_updated_by>suganya_nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-17 10:29:23</sys_updated_on>
+    </sc_ic_task_defn>
+    <sys_translated_text action="delete_multiple" query="documentkey=2bc11019db69530004bf6f048a96196d"/>
+</record_update>

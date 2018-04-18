@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_section">
+    <sc_ic_section action="INSERT_OR_UPDATE">
+        <index>0</index>
+        <label/>
+        <name>Section 1</name>
+        <sc_ic_item_staging display_value="Apple iPhone X">379c3876dbd5574003a29ea3db961919</sc_ic_item_staging>
+        <sys_class_name>sc_ic_section</sys_class_name>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-09 19:13:18</sys_created_on>
+        <sys_id>900db0b6dbd5574003a29ea3db961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Section 0</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_ic_section_900db0b6dbd5574003a29ea3db961904</sys_update_name>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-09 19:13:18</sys_updated_on>
+    </sc_ic_section>
+    <sys_translated_text action="delete_multiple" query="documentkey=900db0b6dbd5574003a29ea3db961904"/>
+</record_update>

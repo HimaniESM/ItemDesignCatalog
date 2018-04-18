@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="SAP Access">270134cfdbdd574003a29ea3db96197b</catalog_item>
+        <catalog_variable>IO:dd123003db11974003a29ea3db9619a9</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>sushil</sys_created_by>
+        <sys_created_on>2018-04-12 12:40:06</sys_created_on>
+        <sys_id>27bff2abdb55d74003a29ea3db961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sap_application</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_27bff2abdb55d74003a29ea3db961935</sys_update_name>
+        <sys_updated_by>sushil</sys_updated_by>
+        <sys_updated_on>2018-04-12 12:40:06</sys_updated_on>
+        <table/>
+        <ui_policy display_value="making field mandatory onload">709f72abdb55d74003a29ea3db96198e</ui_policy>
+        <variable>sap_application</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

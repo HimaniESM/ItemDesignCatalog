@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_item_staging">
+    <sc_ic_item_staging action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aprvl_defn_changed>false</aprvl_defn_changed>
+        <availability>on_both</availability>
+        <cost>25</cost>
+        <counter>0</counter>
+        <description><![CDATA[<p style="box-sizing: border-box; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &#39;Helvetica Neue&#39;, Arial; font-size: 13px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif; font-size: 12pt;">SnagIt for MAC (v2) and Windows (v11). </span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &#39;Helvetica Neue&#39;, Arial; font-size: 13px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif; font-size: 10pt;">Image capture software for Mac &amp; PC</span></p>
+<p> </p>]]></description>
+        <desktop_image/>
+        <entitlements>{'cmn_department':[],'cmn_location':[],'sys_user_group':[]}</entitlements>
+        <fulfillment_group/>
+        <fulfillment_user/>
+        <item_type>sc_cat_item</item_type>
+        <layout_changed>false</layout_changed>
+        <mobile_image/>
+        <name>Snagit</name>
+        <recurring_cost>0</recurring_cost>
+        <recurring_frequency/>
+        <sc_cat_item display_value="Snagit">5615449bdb5957403b0936cb7c9619ea</sc_cat_item>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_categories>b0d0efb2db1157403b0936cb7c961964</sc_categories>
+        <short_description>Image capture software for Mac &amp; PC</short_description>
+        <state>published</state>
+        <submission_message/>
+        <sys_class_name>sc_ic_item_staging</sys_class_name>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-11 04:24:57</sys_created_on>
+        <sys_id>6994009bdb5957403b0936cb7c9619eb</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Snagit</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_ic_item_staging_6994009bdb5957403b0936cb7c9619eb</sys_update_name>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-11 04:25:36</sys_updated_on>
+        <table_name/>
+        <task_defn_changed>false</task_defn_changed>
+        <var_defn_changed>false</var_defn_changed>
+        <var_meta_changed>false</var_meta_changed>
+        <version>4.0</version>
+        <workflow/>
+    </sc_ic_item_staging>
+    <fx_price action="delete_multiple" query="id=6994009bdb5957403b0936cb7c9619eb"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>25</amount>
+        <currency display_value="USD">USD</currency>
+        <field>cost</field>
+        <id>6994009bdb5957403b0936cb7c9619eb</id>
+        <parent/>
+        <reference_amount>25</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-11 04:24:57</sys_created_on>
+        <sys_id>e2d4c09bdb5957403b0936cb7c96194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-11 04:24:57</sys_updated_on>
+        <table>sc_ic_item_staging</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_cost</field>
+        <id>6994009bdb5957403b0936cb7c9619eb</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-11 04:24:57</sys_created_on>
+        <sys_id>2ed4c09bdb5957403b0936cb7c96194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-11 04:24:57</sys_updated_on>
+        <table>sc_ic_item_staging</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_translated_text action="delete_multiple" query="documentkey=6994009bdb5957403b0936cb7c9619eb"/>
+</record_update>

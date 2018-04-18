@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_item_staging">
+    <sc_ic_item_staging action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aprvl_defn_changed>false</aprvl_defn_changed>
+        <availability>on_both</availability>
+        <cost>0</cost>
+        <counter>0</counter>
+        <description><![CDATA[<div id="d0be8a2e37703000158bbfc8bcbe5d86" class="section-content" style="box-sizing: border-box; overflow: hidden; margin-bottom: 5px; padding-top: 10px; padding-left: 15px; padding-right: 15px;">
+<div class="row" style="box-sizing: border-box; margin-left: -15px; margin-right: -15px;">
+<div class="col-xs-12" style="box-sizing: border-box; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; float: left; width: 1022px;">
+<div id="element.pc_software_cat_item.description" class="form-group " style="box-sizing: border-box; margin-bottom: 8px; margin-left: -15px; margin-right: -15px;">
+<div class="col-xs-10 col-md-9 col-lg-8 form-field input_controls" style="box-sizing: border-box; position: relative; min-height: 32px; padding-left: 15px; padding-right: 0px; float: left; width: 766.5px;">
+<p style="box-sizing: border-box; margin: 0px 0px 9px;"><span style="box-sizing: border-box; font-size: 10pt;">Software license for Microsoft Visio. Microsoft Visio lets you simplify complex information through simple, easy-to-understand diagrams.</span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 9px;"><span style="box-sizing: border-box; font-size: 10pt;">Visio includes stencils for business, basic network diagrams, organization charts, basic flowcharts, and general multi-purpose diagrams.</span></p>
+</div>
+<div class="col-xs-2 col-md-1_5 col-lg-2 form-field-addons" style="box-sizing: border-box; position: relative; min-height: 1px; padding: 0px 5px; float: left; width: 127.75px;"> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="form_action_button_container" style="box-sizing: border-box; color: #343d47; font-family: SourceSansPro, &#39;Helvetica Neue&#39;, Arial; font-size: 13px;"><button id="368d20f0c0a8010a00aa4c7caeb13143" class="form_action_button  action_context btn btn-default" style="vertical-align: middle; color: #343d47; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: 13px; line-height: 1.42857; font-family: inherit; margin: 1px 4px; overflow: visible; cursor: pointer; background-image: none; white-space: nowrap; padding: 6px 9px; border-radius: 3px; user-select: none; background-color: rgba(255, 255, 255, 0.45); border: 1px solid #bdc0c4;" name="not_important" type="submit" value="368d20f0c0a8010a00aa4c7caeb13143">Copy</button></div>
+<p><button class="form_action_button  action_context btn btn-default" style="vertical-align: middle; color: #343d47; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: 13px; line-height: 1.42857; font-family: inherit; margin: 1px 4px; overflow: visible; cursor: pointer; background-image: none; white-space: nowrap; padding: 6px 9px; border-radius: 3px; user-select: none; background-color: rgba(255, 255, 255, 0.45); border: 1px solid #bdc0c4;" name="not_important" type="submit" value="368d20f0c0a8010a00aa4c7caeb13143"> </button></p>
+<p> </p>
+<p> </p>]]></description>
+        <desktop_image/>
+        <entitlements>{'cmn_department':[],'cmn_location':[],'sys_user_group':[]}</entitlements>
+        <fulfillment_group/>
+        <fulfillment_user/>
+        <item_type>sc_cat_item</item_type>
+        <layout_changed>false</layout_changed>
+        <mobile_image/>
+        <name>Microsoft Visio Professional(Uninstall)</name>
+        <recurring_cost>0</recurring_cost>
+        <recurring_frequency/>
+        <sc_cat_item display_value="Microsoft Visio Professional(Uninstall)">5b594c1fdb5957403b0936cb7c961975</sc_cat_item>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_categories>b0d0efb2db1157403b0936cb7c961964</sc_categories>
+        <short_description>For PC, Compatible with Win 7 &amp; 8</short_description>
+        <state>published</state>
+        <submission_message/>
+        <sys_class_name>sc_ic_item_staging</sys_class_name>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-11 04:43:27</sys_created_on>
+        <sys_id>cbb8881fdb5957403b0936cb7c9619d6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Microsoft Visio Professional(Uninstall)</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_ic_item_staging_cbb8881fdb5957403b0936cb7c9619d6</sys_update_name>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-11 04:44:26</sys_updated_on>
+        <table_name/>
+        <task_defn_changed>false</task_defn_changed>
+        <var_defn_changed>false</var_defn_changed>
+        <var_meta_changed>false</var_meta_changed>
+        <version>3.0</version>
+        <workflow/>
+    </sc_ic_item_staging>
+    <fx_price action="delete_multiple" query="id=cbb8881fdb5957403b0936cb7c9619d6"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>cost</field>
+        <id>cbb8881fdb5957403b0936cb7c9619d6</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-11 04:43:27</sys_created_on>
+        <sys_id>a5194c1fdb5957403b0936cb7c961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-11 04:43:27</sys_updated_on>
+        <table>sc_ic_item_staging</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_cost</field>
+        <id>cbb8881fdb5957403b0936cb7c9619d6</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-11 04:43:27</sys_created_on>
+        <sys_id>ed194c1fdb5957403b0936cb7c961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-11 04:43:27</sys_updated_on>
+        <table>sc_ic_item_staging</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_translated_text action="delete_multiple" query="documentkey=cbb8881fdb5957403b0936cb7c9619d6"/>
+</record_update>

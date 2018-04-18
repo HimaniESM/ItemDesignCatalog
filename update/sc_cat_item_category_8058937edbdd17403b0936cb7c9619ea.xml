@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Office Desktop">eee9b2badb9d17403b0936cb7c9619ef</sc_cat_item>
+        <sc_category display_value="Desktops">828658bedb55574003a29ea3db96194f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-10 06:31:52</sys_created_on>
+        <sys_id>8058937edbdd17403b0936cb7c9619ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Desktops.Office Desktop</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_cat_item_category_8058937edbdd17403b0936cb7c9619ea</sys_update_name>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-10 06:31:52</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

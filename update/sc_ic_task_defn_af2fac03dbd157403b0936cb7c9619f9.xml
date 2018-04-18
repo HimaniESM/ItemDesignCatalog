@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_task_defn">
+    <sc_ic_task_defn action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assignment_details>Group: Hardware</assignment_details>
+        <assignment_group display_value="">8a5055c9c61122780043563ef53438e3</assignment_group>
+        <assignment_type>custom_assignment</assignment_type>
+        <assignment_user/>
+        <description/>
+        <order>100</order>
+        <sc_cat_item display_value="Brother Network-Ready Color Laser Printer">d72f6c03dbd157403b0936cb7c961946</sc_cat_item>
+        <sc_ic_task_assign_defn_staging/>
+        <sc_ic_task_defn_staging display_value="to allocate Brother Network-Ready Color Laser Printer">950f6c03dbd157403b0936cb7c96193f</sc_ic_task_defn_staging>
+        <short_description>to allocate Brother Network-Ready Color Laser Printer</short_description>
+        <sys_class_name>sc_ic_task_defn</sys_class_name>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-10 12:51:23</sys_created_on>
+        <sys_id>af2fac03dbd157403b0936cb7c9619f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>to allocate Brother Network-Ready Color Laser Printer</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_ic_task_defn_af2fac03dbd157403b0936cb7c9619f9</sys_update_name>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-10 12:51:23</sys_updated_on>
+    </sc_ic_task_defn>
+    <sys_translated_text action="delete_multiple" query="documentkey=af2fac03dbd157403b0936cb7c9619f9"/>
+</record_update>

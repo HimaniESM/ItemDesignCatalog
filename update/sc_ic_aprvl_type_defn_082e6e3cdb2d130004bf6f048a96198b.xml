@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_aprvl_type_defn">
+    <sc_ic_aprvl_type_defn action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approver_script><![CDATA[(function(){
+    var approversList = [];
+	approversList.push(current.variables.equipment.owned_by+"");
+
+    return approversList;
+})();]]></approver_script>
+        <description/>
+        <groups/>
+        <name>Equipment Owner</name>
+        <sc_ic_aprvl_type_defn_staging display_value="Equipment Owner">f37d2e3cdb2d130004bf6f048a961965</sc_ic_aprvl_type_defn_staging>
+        <sc_ic_version>1</sc_ic_version>
+        <script_output>users</script_output>
+        <sys_class_name>sc_ic_aprvl_type_defn</sys_class_name>
+        <sys_created_by>sushil</sys_created_by>
+        <sys_created_on>2018-04-16 08:35:23</sys_created_on>
+        <sys_id>082e6e3cdb2d130004bf6f048a96198b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Equipment Owner</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_ic_aprvl_type_defn_082e6e3cdb2d130004bf6f048a96198b</sys_update_name>
+        <sys_updated_by>sushil</sys_updated_by>
+        <sys_updated_on>2018-04-16 08:35:23</sys_updated_on>
+        <type>script</type>
+        <users/>
+    </sc_ic_aprvl_type_defn>
+    <sys_translated_text action="delete_multiple" query="documentkey=082e6e3cdb2d130004bf6f048a96198b"/>
+</record_update>

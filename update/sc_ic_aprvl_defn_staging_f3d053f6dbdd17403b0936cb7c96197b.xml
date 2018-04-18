@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_aprvl_defn_staging">
+    <sc_ic_aprvl_defn_staging action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <detail>Cost Center Manager</detail>
+        <group/>
+        <order>200</order>
+        <sc_ic_aprvl_type_defn_staging display_value="Cost Center Manager">400f8776dbdd17403b0936cb7c961908</sc_ic_aprvl_type_defn_staging>
+        <sc_ic_item_staging display_value="Server Commissioning">a707472edb9517403b0936cb7c961913</sc_ic_item_staging>
+        <sys_class_name>sc_ic_aprvl_defn_staging</sys_class_name>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-10 05:59:29</sys_created_on>
+        <sys_id>f3d053f6dbdd17403b0936cb7c96197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>predefined_approval</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_ic_aprvl_defn_staging_f3d053f6dbdd17403b0936cb7c96197b</sys_update_name>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-10 05:59:29</sys_updated_on>
+        <type>predefined_approval</type>
+        <user/>
+    </sc_ic_aprvl_defn_staging>
+</record_update>

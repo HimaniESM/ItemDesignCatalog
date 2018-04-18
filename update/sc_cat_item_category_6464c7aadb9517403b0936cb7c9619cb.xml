@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Conference Equipments">e46487aadb9517403b0936cb7c96191e</sc_cat_item>
+        <sc_category display_value="Conference Room">4370432adb9517403b0936cb7c9619ee</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>suganya_nagarajan</sys_created_by>
+        <sys_created_on>2018-04-09 10:26:19</sys_created_on>
+        <sys_id>6464c7aadb9517403b0936cb7c9619cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Conference Room.Conference Equipments</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_cat_item_category_6464c7aadb9517403b0936cb7c9619cb</sys_update_name>
+        <sys_updated_by>suganya_nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-09 10:26:19</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

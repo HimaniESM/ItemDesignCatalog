@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:f549aebedb5d17403b0936cb7c9619bb</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>suganya_nagarajan</sys_created_by>
+        <sys_created_on>2018-04-10 03:16:34</sys_created_on>
+        <sys_id>909ba632db9d17403b0936cb7c9619c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Esm_CAC_BusJust</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_909ba632db9d17403b0936cb7c9619c4</sys_update_name>
+        <sys_updated_by>suganya_nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-10 03:16:34</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Business Justification as Mandatory Field">e97b6632db9d17403b0936cb7c96196e</ui_policy>
+        <variable>Esm_CAC_BusJust</variable>
+        <variable_set display_value="Request Details CAC">59f8eabedb5d17403b0936cb7c9619f2</variable_set>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

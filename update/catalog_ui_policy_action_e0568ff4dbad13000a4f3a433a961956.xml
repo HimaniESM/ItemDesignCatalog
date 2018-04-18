@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Conference Room">cf76e27edb5d17403b0936cb7c9619dc</catalog_item>
+        <catalog_variable>IO:0376e27edb5d17403b0936cb7c9619f1</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>suganya_nagarajan</sys_created_by>
+        <sys_created_on>2018-04-16 10:21:19</sys_created_on>
+        <sys_id>e0568ff4dbad13000a4f3a433a961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>conference_room_00</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_e0568ff4dbad13000a4f3a433a961956</sys_update_name>
+        <sys_updated_by>suganya_nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-16 10:21:19</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Making Conference Room Mandatory">95364ff4dbad13000a4f3a433a96193d</ui_policy>
+        <variable>conference_room_00</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

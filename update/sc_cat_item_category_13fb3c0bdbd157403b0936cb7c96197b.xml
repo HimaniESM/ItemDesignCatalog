@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Revoke  Access">b2927c83dbd157403b0936cb7c9619a6</sc_cat_item>
+        <sc_category display_value="Application Access">5cb6d84fdb9d574003a29ea3db96194b</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-10 13:47:21</sys_created_on>
+        <sys_id>13fb3c0bdbd157403b0936cb7c96197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application Access.Revoke  Access</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_cat_item_category_13fb3c0bdbd157403b0936cb7c96197b</sys_update_name>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-10 13:47:21</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

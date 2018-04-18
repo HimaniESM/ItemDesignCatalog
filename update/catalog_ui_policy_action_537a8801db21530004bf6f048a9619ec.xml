@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:c158c4cddbed130004bf6f048a961927</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-16 15:18:55</sys_created_on>
+        <sys_id>537a8801db21530004bf6f048a9619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>valid_to</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_537a8801db21530004bf6f048a9619ec</sys_update_name>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-16 15:18:55</sys_updated_on>
+        <table/>
+        <ui_policy display_value="to make fields mandatory on load">c24a4801db21530004bf6f048a96194f</ui_policy>
+        <variable>valid_to</variable>
+        <variable_set display_value="Mobile Item Variable Set">34a740cddbed130004bf6f048a9619db</variable_set>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

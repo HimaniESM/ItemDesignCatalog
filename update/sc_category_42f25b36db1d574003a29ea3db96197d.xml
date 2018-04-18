@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>End user peripherals such as mobile phone cases, dongles, and cables</description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <show_in_cms>false</show_in_cms>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>sushil</sys_created_by>
+        <sys_created_on>2018-04-10 06:09:36</sys_created_on>
+        <sys_id>42f25b36db1d574003a29ea3db96197d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Peripherals and Accessories</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_category_42f25b36db1d574003a29ea3db96197d</sys_update_name>
+        <sys_updated_by>sushil</sys_updated_by>
+        <sys_updated_on>2018-04-10 06:09:36</sys_updated_on>
+        <title>Peripherals and Accessories</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=42f25b36db1d574003a29ea3db96197d"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#797979</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>homepage_image</file_name>
+        <image_height>54</image_height>
+        <image_width>54</image_width>
+        <size_bytes>1035</size_bytes>
+        <size_compressed>1008</size_compressed>
+        <sys_created_by>sushil</sys_created_by>
+        <sys_created_on>2018-04-10 10:35:42</sys_created_on>
+        <sys_id>8820d0cbdb9d574003a29ea3db961953</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>sushil</sys_updated_by>
+        <sys_updated_on>2018-04-10 10:35:42</sys_updated_on>
+        <table_name>ZZ_YYsc_category</table_name>
+        <table_sys_id>42f25b36db1d574003a29ea3db96197d</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="homepage_image" sys_id="8820d0cbdb9d574003a29ea3db961953">8820d0cbdb9d574003a29ea3db961953</sys_attachment>
+        <sys_created_by>sushil</sys_created_by>
+        <sys_created_on>2018-04-10 10:35:42</sys_created_on>
+        <sys_id>c820d0cbdb9d574003a29ea3db961953</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>JVJ7TNNXFP61ilIQhjImaeqSqTBTyGZVEAyPUdpJI60VGCALBJHxEAMy6AtKW8qCrS2UylrepQ+7UJQSWFdCMXMrqIMBgbgBXbdJxG00cbJlsUt57O4Y/rjnnvN953z3u/f3k7NZ54MCiAEYhgUx0mgZsMe+Xv57MAw32zsogAJXk3GeilnnSR4o9pamMFMwbEQVuH3FD7gkdnoWHfD+/n6BQABxfHxcr9cLhcK6ujqTyVRfX9/Q0GAwGCCxWCxGoxEo6ARwN4rFYrPZ3NXVBQ0Qd0u1Wi2VSrVabXd3t0QiAc2enp7Gxka32w344ODgLgUKLS0tzc3NHR0dIAsKEIGSyWRyuRxw8KDRaDo7O0FWJBJBAziEEUhAUKFQtLa2AgsjUPb19QGuUqlAFnTsdjvYaGtrA7a6uhqkgIVmPp8/MDAAORwKZgCHpKmpqaSkBCxBA9wCrtnb2wsl6IMyCPJ4PIfDAQngcJBOp9t9IrBKFJ6NgRe8VpvBysQQeqFCHMRJmEaIgFDLYh0KRrV1XuTazxn1omEvOoVQ5ZyXgGbc3psVCIUWlD32LiidyHE4EJXl15CdiPs5zGwSxribti3bRef9r51+HISoHORF33J8eQjB9kbmmaVwOJVwI+1yDYYFT75euMdVA8XwUVcZtJSsuIt/asoznSdDmpe39LeO/jr2VkhY1VToFH9V/rA9jW6m7yDxN3eibZ6TuUc4j9Z8oxsTXbYexigukPKjfznj1DPNaCVNH1Vkq75FUfwjoyr9/So+bE9KVpqKy3wF+4hesfed7SwcmZBsd+kWDpD3K6P1hewbEexR4rlcwi9lkuwvA1gLK6T47Ddvp+4Jkedd4Lzs3qAOkKrjNfjcoCpjWNxEPp5/75UxTFZqxxFPr9+7U64dVmTmfaxWtVK+8DRGbxhGDhouMX5OaB8O3xLGTt7FLJYLNnzg2jFMtJ4atTrUsDfXkZga1cbOf/Fy8VnMoekz+OtPpxYv/7X+E/FBrJKRrln5yJNQqVZaDj1N1B777ASJOk+J0C9eEQR/dYQ5pH3EdvuCrppSQw2f/JBMqiplFoq1d107HzBLXQVZzS0pkqH3rA47tu+s8rn7ePCrQUd4zoiDvLNwfU0jmB5zCEXW7aSciv8epmVH8ujftd9Oj3x/JT7ycPrxDRcjdkss4D4hm12+IhPt+adBT2aqdL8v1jK/H/6bt+Qs9swNzRbtTE7WJF7VE063ytavcW/mnPNa3z1qvBSzmTw38y+r4o+tpVXuxG+xs3HGBxHhB96mSJc7fVHYffzwPG8pbNmwCT8AxqCzaFZqofR/P8FZvwsEAAA=</data>
+        <length>1332</length>
+        <position>1</position>
+        <sys_attachment display_value="homepage_image" sys_id="8820d0cbdb9d574003a29ea3db961953">8820d0cbdb9d574003a29ea3db961953</sys_attachment>
+        <sys_created_by>sushil</sys_created_by>
+        <sys_created_on>2018-04-10 10:35:42</sys_created_on>
+        <sys_id>4c20d0cbdb9d574003a29ea3db961953</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#797979</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>mobile_picture</file_name>
+        <image_height>54</image_height>
+        <image_width>54</image_width>
+        <size_bytes>1035</size_bytes>
+        <size_compressed>1008</size_compressed>
+        <sys_created_by>sushil</sys_created_by>
+        <sys_created_on>2018-04-10 10:35:55</sys_created_on>
+        <sys_id>972014cbdb9d574003a29ea3db961904</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>sushil</sys_updated_by>
+        <sys_updated_on>2018-04-10 10:35:56</sys_updated_on>
+        <table_name>ZZ_YYsc_category</table_name>
+        <table_sys_id>42f25b36db1d574003a29ea3db96197d</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mobile_picture" sys_id="972014cbdb9d574003a29ea3db961904">972014cbdb9d574003a29ea3db961904</sys_attachment>
+        <sys_created_by>sushil</sys_created_by>
+        <sys_created_on>2018-04-10 10:35:55</sys_created_on>
+        <sys_id>d72014cbdb9d574003a29ea3db961904</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>JVJ7TNNXFP61ilIQhjImaeqSqTBTyGZVEAyPUdpJI60VGCALBJHxEAMy6AtKW8qCrS2UylrepQ+7UJQSWFdCMXMrqIMBgbgBXbdJxG00cbJlsUt57O4Y/rjnnvN953z3u/f3k7NZ54MCiAEYhgUx0mgZsMe+Xv57MAw32zsogAJXk3GeilnnSR4o9pamMFMwbEQVuH3FD7gkdnoWHfD+/n6BQABxfHxcr9cLhcK6ujqTyVRfX9/Q0GAwGCCxWCxGoxEo6ARwN4rFYrPZ3NXVBQ0Qd0u1Wi2VSrVabXd3t0QiAc2enp7Gxka32w344ODgLgUKLS0tzc3NHR0dIAsKEIGSyWRyuRxw8KDRaDo7O0FWJBJBAziEEUhAUKFQtLa2AgsjUPb19QGuUqlAFnTsdjvYaGtrA7a6uhqkgIVmPp8/MDAAORwKZgCHpKmpqaSkBCxBA9wCrtnb2wsl6IMyCPJ4PIfDAQngcJBOp9t9IrBKFJ6NgRe8VpvBysQQeqFCHMRJmEaIgFDLYh0KRrV1XuTazxn1omEvOoVQ5ZyXgGbc3psVCIUWlD32LiidyHE4EJXl15CdiPs5zGwSxribti3bRef9r51+HISoHORF33J8eQjB9kbmmaVwOJVwI+1yDYYFT75euMdVA8XwUVcZtJSsuIt/asoznSdDmpe39LeO/jr2VkhY1VToFH9V/rA9jW6m7yDxN3eibZ6TuUc4j9Z8oxsTXbYexigukPKjfznj1DPNaCVNH1Vkq75FUfwjoyr9/So+bE9KVpqKy3wF+4hesfed7SwcmZBsd+kWDpD3K6P1hewbEexR4rlcwi9lkuwvA1gLK6T47Ddvp+4Jkedd4Lzs3qAOkKrjNfjcoCpjWNxEPp5/75UxTFZqxxFPr9+7U64dVmTmfaxWtVK+8DRGbxhGDhouMX5OaB8O3xLGTt7FLJYLNnzg2jFMtJ4atTrUsDfXkZga1cbOf/Fy8VnMoekz+OtPpxYv/7X+E/FBrJKRrln5yJNQqVZaDj1N1B777ASJOk+J0C9eEQR/dYQ5pH3EdvuCrppSQw2f/JBMqiplFoq1d107HzBLXQVZzS0pkqH3rA47tu+s8rn7ePCrQUd4zoiDvLNwfU0jmB5zCEXW7aSciv8epmVH8ujftd9Oj3x/JT7ycPrxDRcjdkss4D4hm12+IhPt+adBT2aqdL8v1jK/H/6bt+Qs9swNzRbtTE7WJF7VE063ytavcW/mnPNa3z1qvBSzmTw38y+r4o+tpVXuxG+xs3HGBxHhB96mSJc7fVHYffzwPG8pbNmwCT8AxqCzaFZqofR/P8FZvwsEAAA=</data>
+        <length>1332</length>
+        <position>1</position>
+        <sys_attachment display_value="mobile_picture" sys_id="972014cbdb9d574003a29ea3db961904">972014cbdb9d574003a29ea3db961904</sys_attachment>
+        <sys_created_by>sushil</sys_created_by>
+        <sys_created_on>2018-04-10 10:35:55</sys_created_on>
+        <sys_id>5b2014cbdb9d574003a29ea3db961904</sys_id>
+    </sys_attachment_doc>
+</record_update>

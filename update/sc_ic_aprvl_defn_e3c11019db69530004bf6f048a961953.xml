@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_aprvl_defn">
+    <sc_ic_aprvl_defn action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <detail>Esm Local Space Anchor</detail>
+        <group display_value="Esm Local Space Anchor" name="Esm Local Space Anchor">2b7d8c15db69530004bf6f048a96193b</group>
+        <order>300</order>
+        <sc_cat_item display_value="Space allocation in new location">d3a6e0cbdb9157403b0936cb7c961989</sc_cat_item>
+        <sc_ic_aprvl_type_defn_staging/>
+        <sys_class_name>sc_ic_aprvl_defn</sys_class_name>
+        <sys_created_by>suganya_nagarajan</sys_created_by>
+        <sys_created_on>2018-04-17 10:29:22</sys_created_on>
+        <sys_id>e3c11019db69530004bf6f048a961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>group</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_ic_aprvl_defn_e3c11019db69530004bf6f048a961953</sys_update_name>
+        <sys_updated_by>suganya_nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-17 10:29:22</sys_updated_on>
+        <type>group</type>
+        <user/>
+    </sc_ic_aprvl_defn>
+</record_update>

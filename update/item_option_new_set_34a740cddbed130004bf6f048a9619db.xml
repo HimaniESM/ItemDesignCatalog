@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <description>Variable set used to ask the details regarding the start and end date, reason for allocation and type of request for mobile catalog items.</description>
+        <display_title>false</display_title>
+        <layout>normal</layout>
+        <name>Mobile Item Variable Set</name>
+        <order>100</order>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-16 15:07:59</sys_created_on>
+        <sys_id>34a740cddbed130004bf6f048a9619db</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Mobile Item Variable Set</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>item_option_new_set_34a740cddbed130004bf6f048a9619db</sys_update_name>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-16 15:32:56</sys_updated_on>
+        <title/>
+    </item_option_new_set>
+</record_update>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_item_staging">
+    <sc_ic_item_staging action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aprvl_defn_changed>false</aprvl_defn_changed>
+        <availability>on_both</availability>
+        <cost>824</cost>
+        <counter>0</counter>
+        <description><![CDATA[<p style="box-sizing: border-box; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &#39;Helvetica Neue&#39;, Arial; font-size: 13px;"><span style="box-sizing: border-box; color: #808080; font-size: small;"><span style="box-sizing: border-box; font-size: medium;">The Galaxy S8&#43; offers a multitude of features packaged within cutting edge design.</span></span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &#39;Helvetica Neue&#39;, Arial; font-size: 13px;"><span style="box-sizing: border-box; color: #808080; font-size: small;">This phone will be part of the corporate mobile contract, and you will not be billed for its use. The phone has the following technical specifications:</span></p>
+<ul style="box-sizing: border-box; padding: 0px; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &#39;Helvetica Neue&#39;, Arial; font-size: 13px; list-style-position: inside;"><li style="box-sizing: border-box; color: #808080; font-size: small;">Android OS</li><li style="box-sizing: border-box; color: #808080; font-size: small;">Face detection</li><li style="box-sizing: border-box; color: #808080; font-size: small;">4GB RAM (LPDDR4)</li><li style="box-sizing: border-box; color: #808080; font-size: small;">8MP AF Camera Resolution Front</li><li style="box-sizing: border-box; color: #808080; font-size: small;">Dual Pixel 12MP AF Camera Resolution Back</li><li style="box-sizing: border-box; color: #808080; font-size: small;">6.2&#34; Quad HD&#43; Super AMOLED (2960x1440) 529 ppi</li></ul>]]></description>
+        <desktop_image/>
+        <entitlements>{'cmn_department':[],'cmn_location':[],'sys_user_group':[]}</entitlements>
+        <fulfillment_group/>
+        <fulfillment_user/>
+        <item_type>sc_cat_item</item_type>
+        <layout_changed>false</layout_changed>
+        <mobile_image/>
+        <name>Samsung Galaxy S8+</name>
+        <recurring_cost>0</recurring_cost>
+        <recurring_frequency/>
+        <sc_cat_item display_value="Samsung Galaxy S8+">d29b36fadb9d17403b0936cb7c961918</sc_cat_item>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_categories>a1a714fedb55574003a29ea3db961931</sc_categories>
+        <short_description>Samsung Galaxy S8</short_description>
+        <state>published</state>
+        <submission_message/>
+        <sys_class_name>sc_ic_item_staging</sys_class_name>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-10 04:25:47</sys_created_on>
+        <sys_id>c83bfebadb9d17403b0936cb7c961987</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Samsung Galaxy S8+</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_ic_item_staging_c83bfebadb9d17403b0936cb7c961987</sys_update_name>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-10 06:35:17</sys_updated_on>
+        <table_name/>
+        <task_defn_changed>false</task_defn_changed>
+        <var_defn_changed>false</var_defn_changed>
+        <var_meta_changed>false</var_meta_changed>
+        <version>5.0</version>
+        <workflow/>
+    </sc_ic_item_staging>
+    <fx_price action="delete_multiple" query="id=c83bfebadb9d17403b0936cb7c961987"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>824</amount>
+        <currency display_value="USD">USD</currency>
+        <field>cost</field>
+        <id>c83bfebadb9d17403b0936cb7c961987</id>
+        <parent/>
+        <reference_amount>824</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-10 04:25:47</sys_created_on>
+        <sys_id>5d7bf2fadb9d17403b0936cb7c96191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-10 04:25:47</sys_updated_on>
+        <table>sc_ic_item_staging</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_cost</field>
+        <id>c83bfebadb9d17403b0936cb7c961987</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-10 04:25:47</sys_created_on>
+        <sys_id>957bf2fadb9d17403b0936cb7c96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-10 04:25:47</sys_updated_on>
+        <table>sc_ic_item_staging</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_translated_text action="delete_multiple" query="documentkey=c83bfebadb9d17403b0936cb7c961987"/>
+</record_update>

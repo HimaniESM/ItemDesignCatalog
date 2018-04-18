@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Revoke Access from SAP">7fb7f0c3db11974003a29ea3db961987</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>sushil</sys_created_by>
+        <sys_created_on>2018-04-10 13:28:48</sys_created_on>
+        <sys_id>f7b7f0c3db11974003a29ea3db96198a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Revoke Access from SAP</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_f7b7f0c3db11974003a29ea3db96198a</sys_update_name>
+        <sys_updated_by>sushil</sys_updated_by>
+        <sys_updated_on>2018-04-10 13:28:48</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

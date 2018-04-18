@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="1127b27e6f111340d69dc8c17c3ee475" sys_domain="global" table="pc_hardware_cat_item" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>divya</sys_created_by>
+            <sys_created_on>2018-04-17 09:41:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0f68411db69530004bf6f048a961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="pc_hardware_cat_item" name="pc_hardware_cat_item" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">1127b27e6f111340d69dc8c17c3ee475</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="pc_hardware_cat_item" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">5927b27e6f111340d69dc8c17c3ee476</sys_ui_section>
+            <sys_updated_by>divya</sys_updated_by>
+            <sys_updated_on>2018-04-17 09:41:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>divya</sys_created_by>
+            <sys_created_on>2018-04-17 09:41:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0f68411db69530004bf6f048a961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="pc_hardware_cat_item" name="pc_hardware_cat_item" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">1127b27e6f111340d69dc8c17c3ee475</sys_ui_form>
+            <sys_ui_section caption="Details" display_value="Details" name="pc_hardware_cat_item" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">d527b27e6f111340d69dc8c17c3ee47a</sys_ui_section>
+            <sys_updated_by>divya</sys_updated_by>
+            <sys_updated_on>2018-04-17 09:41:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>divya</sys_created_by>
+            <sys_created_on>2018-04-17 09:41:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5cf68411db69530004bf6f048a961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="pc_hardware_cat_item" name="pc_hardware_cat_item" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">1127b27e6f111340d69dc8c17c3ee475</sys_ui_form>
+            <sys_ui_section caption="Costs" display_value="Costs" name="pc_hardware_cat_item" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">9527b27e6f111340d69dc8c17c3ee47c</sys_ui_section>
+            <sys_updated_by>divya</sys_updated_by>
+            <sys_updated_on>2018-04-17 09:41:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>pc_hardware_cat_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>divya</sys_created_by>
+            <sys_created_on>2018-04-17 09:41:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1127b27e6f111340d69dc8c17c3ee475</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>pc_hardware_cat_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1127b27e6f111340d69dc8c17c3ee475</sys_update_name>
+            <sys_updated_by>divya</sys_updated_by>
+            <sys_updated_on>2018-04-17 09:41:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="Item Designer" name="sc_cat_item_designer">f5a795fceb3211003623666cd206fe19</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

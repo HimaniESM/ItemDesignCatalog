@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:6d15d003db9157403b0936cb7c961924</catalog_variable>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-10 11:07:40</sys_created_on>
+        <sys_id>d0675c43db9157403b0936cb7c96198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>type_of_software</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_d0675c43db9157403b0936cb7c96198e</sys_update_name>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-10 11:07:40</sys_updated_on>
+        <table/>
+        <ui_policy display_value="To make type of sotware field read only">8d37d843db9157403b0936cb7c96195f</ui_policy>
+        <variable>type_of_software</variable>
+        <variable_set display_value="Software Services Set(Uninstall)">82e218cfdb5157403b0936cb7c961970</variable_set>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

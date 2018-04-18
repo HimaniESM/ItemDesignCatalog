@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_aprvl_type_defn">
+    <sc_ic_aprvl_type_defn action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approver_script><![CDATA[(function(){
+    var approversList = [];
+	//gs.addInfoMessage(current.request.employee_type_00);
+	//gs.log(current.request.employee_type_00 + "boss");
+	if(current.variables.employee_type_00 == 'Full Time Employee'){
+
+	}
+	else{
+		//gs.log("approval definintion");
+		approversList.push(current.request.requested_for.manager+"");
+		return approversList;
+	}
+})();
+]]></approver_script>
+        <description/>
+        <groups/>
+        <name>Manager approval for temporary user</name>
+        <sc_ic_aprvl_type_defn_staging display_value="Manager approval for temporary user">f1f997eadbd1574003a29ea3db96195e</sc_ic_aprvl_type_defn_staging>
+        <sc_ic_version>2</sc_ic_version>
+        <script_output>users</script_output>
+        <sys_class_name>sc_ic_aprvl_type_defn</sys_class_name>
+        <sys_created_by>sushil</sys_created_by>
+        <sys_created_on>2018-04-10 10:24:50</sys_created_on>
+        <sys_id>f0ad084bdb9d574003a29ea3db961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manager approval for temporary user</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_ic_aprvl_type_defn_f0ad084bdb9d574003a29ea3db961929</sys_update_name>
+        <sys_updated_by>sushil</sys_updated_by>
+        <sys_updated_on>2018-04-10 10:24:50</sys_updated_on>
+        <type>script</type>
+        <users/>
+    </sc_ic_aprvl_type_defn>
+    <sys_translated_text action="delete_multiple" query="documentkey=f0ad084bdb9d574003a29ea3db961929"/>
+</record_update>

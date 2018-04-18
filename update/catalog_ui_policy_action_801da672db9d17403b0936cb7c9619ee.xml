@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="IP Telephony Request">ce2b2efedb5d17403b0936cb7c9619a8</catalog_item>
+        <catalog_variable>IO:5e2b6232db9d17403b0936cb7c96195c</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>suganya_nagarajan</sys_created_by>
+        <sys_created_on>2018-04-10 03:23:04</sys_created_on>
+        <sys_id>801da672db9d17403b0936cb7c9619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>request_type_00</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_801da672db9d17403b0936cb7c9619ee</sys_update_name>
+        <sys_updated_by>suganya_nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-10 03:23:04</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make Request Type Mandatory">32fc6672db9d17403b0936cb7c9619a5</ui_policy>
+        <variable>request_type_00</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="Apple iPhone 8">b541ebbbdb11d7403b0936cb7c9619c1</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-13 10:11:53</sys_created_on>
+        <sys_id>d8776bbfdb11d7403b0936cb7c9619c6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Request Access Set.Apple iPhone 8</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>io_set_item_d8776bbfdb11d7403b0936cb7c9619c6</sys_update_name>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-13 10:11:53</sys_updated_on>
+        <variable_set display_value="Request Access Set">dcb2a836db95574003a29ea3db96195a</variable_set>
+    </io_set_item>
+</record_update>

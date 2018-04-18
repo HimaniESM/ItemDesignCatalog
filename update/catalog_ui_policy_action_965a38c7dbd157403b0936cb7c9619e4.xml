@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Revoke Access from ServiceNow">af04f8c3dbd157403b0936cb7c9619d4</catalog_item>
+        <catalog_variable>IO:3ad6fc07dbd157403b0936cb7c9619f6</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-10 13:40:11</sys_created_on>
+        <sys_id>965a38c7dbd157403b0936cb7c9619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>type_of_access</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_965a38c7dbd157403b0936cb7c9619e4</sys_update_name>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-10 13:40:11</sys_updated_on>
+        <table/>
+        <ui_policy display_value="To Hide Unnecessary fields present in variable set">102a74c7dbd157403b0936cb7c96193a</ui_policy>
+        <variable>type_of_access</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

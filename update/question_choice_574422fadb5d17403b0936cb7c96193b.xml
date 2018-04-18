@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>100</order>
+        <question display_value="Internal or External">b7836abadb5d17403b0936cb7c96196b</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>suganya_nagarajan</sys_created_by>
+        <sys_created_on>2018-04-10 02:44:50</sys_created_on>
+        <sys_id>574422fadb5d17403b0936cb7c96193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Internal</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>question_choice_574422fadb5d17403b0936cb7c96193b</sys_update_name>
+        <sys_updated_by>suganya_nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-10 02:44:50</sys_updated_on>
+        <text>Internal</text>
+        <value>1</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=574422fadb5d17403b0936cb7c96193b"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>574422fadb5d17403b0936cb7c96193b</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>suganya_nagarajan</sys_created_by>
+        <sys_created_on>2018-04-10 02:44:50</sys_created_on>
+        <sys_id>6e54aebadb5d17403b0936cb7c96193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>suganya_nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-10 02:44:50</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>574422fadb5d17403b0936cb7c96193b</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>suganya_nagarajan</sys_created_by>
+        <sys_created_on>2018-04-10 02:44:50</sys_created_on>
+        <sys_id>2654aebadb5d17403b0936cb7c96193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>suganya_nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-10 02:44:50</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

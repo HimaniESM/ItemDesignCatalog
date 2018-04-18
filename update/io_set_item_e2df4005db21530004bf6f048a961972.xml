@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <sc_cat_item display_value="Samsung Galaxy S8+">d29b36fadb9d17403b0936cb7c961918</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>divya</sys_created_by>
+        <sys_created_on>2018-04-16 15:42:21</sys_created_on>
+        <sys_id>e2df4005db21530004bf6f048a961972</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Mobile Item Variable Set.Samsung Galaxy S8+</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>io_set_item_e2df4005db21530004bf6f048a961972</sys_update_name>
+        <sys_updated_by>divya</sys_updated_by>
+        <sys_updated_on>2018-04-16 15:42:32</sys_updated_on>
+        <variable_set display_value="Mobile Item Variable Set">34a740cddbed130004bf6f048a9619db</variable_set>
+    </io_set_item>
+</record_update>

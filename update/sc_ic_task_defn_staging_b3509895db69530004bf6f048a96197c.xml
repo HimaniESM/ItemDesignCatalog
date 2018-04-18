@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_task_defn_staging">
+    <sc_ic_task_defn_staging action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assignment_details>Group: Esm LocalSpace From Anchor</assignment_details>
+        <assignment_group display_value="Esm LocalSpace From Anchor" name="Esm LocalSpace From Anchor">7d3e0455db69530004bf6f048a96192c</assignment_group>
+        <assignment_type>custom_assignment</assignment_type>
+        <assignment_user/>
+        <description/>
+        <order>200</order>
+        <sc_ic_item_staging display_value="Space allocation in new location">91ced772db1157403b0936cb7c96199e</sc_ic_item_staging>
+        <sc_ic_task_assign_defn_staging/>
+        <short_description>Local Space Task</short_description>
+        <sys_class_name>sc_ic_task_defn_staging</sys_class_name>
+        <sys_created_by>suganya_nagarajan</sys_created_by>
+        <sys_created_on>2018-04-17 10:23:55</sys_created_on>
+        <sys_id>b3509895db69530004bf6f048a96197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Local Space Task</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_ic_task_defn_staging_b3509895db69530004bf6f048a96197c</sys_update_name>
+        <sys_updated_by>suganya_nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-17 10:23:55</sys_updated_on>
+    </sc_ic_task_defn_staging>
+    <sys_translated_text action="delete_multiple" query="documentkey=b3509895db69530004bf6f048a96197c"/>
+</record_update>
