@@ -22,11 +22,11 @@
 		return;
 	}
 	
-	var req = g_form.getValue('Esm_CAC_ReqFor');
+	var req = g_form.getValue('requested_for');
 	if(newValue == req && newValue != '')
 		{
 		alert("Requested for and Requestor's Manager cannot be the same");
-		g_form.setValue('Esm_CAC_ReqMgr', ""); //reset manager to empty
+		g_form.setValue('manager', ""); //reset manager to empty
 		return false;
 	}
 }]]></script>
@@ -36,15 +36,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5d88a6bedb5d17403b0936cb7c9619e9</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Esm_CC_ReqMgrValidation</sys_name>
         <sys_overrides/>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>catalog_script_client_5d88a6bedb5d17403b0936cb7c9619e9</sys_update_name>
-        <sys_updated_by>suganya_nagarajan</sys_updated_by>
-        <sys_updated_on>2018-04-17 08:23:52</sys_updated_on>
+        <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-21 11:16:59</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>10</ui_type>

@@ -8,7 +8,7 @@
         <assignment_user/>
         <description/>
         <order>100</order>
-        <sc_cat_item display_value="Conference Room">cf76e27edb5d17403b0936cb7c9619dc</sc_cat_item>
+        <sc_cat_item display_value="Conference Room Booking">cf76e27edb5d17403b0936cb7c9619dc</sc_cat_item>
         <sc_ic_task_assign_defn_staging/>
         <sc_ic_task_defn_staging display_value="Conference Room">0c66a27edb5d17403b0936cb7c9619f4</sc_ic_task_defn_staging>
         <short_description>Conference Room</short_description>

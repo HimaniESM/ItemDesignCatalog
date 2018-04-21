@@ -3,7 +3,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Conference Room">cf76e27edb5d17403b0936cb7c9619dc</cat_item>
+        <cat_item display_value="Conference Room Booking">cf76e27edb5d17403b0936cb7c9619dc</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>

@@ -2,7 +2,7 @@
 <record_update table="sc_ic_item_staging">
     <sc_ic_item_staging action="INSERT_OR_UPDATE">
         <active>true</active>
-        <aprvl_defn_changed>true</aprvl_defn_changed>
+        <aprvl_defn_changed>false</aprvl_defn_changed>
         <availability>on_desktop</availability>
         <cost>0</cost>
         <counter>0</counter>
@@ -21,7 +21,7 @@
         <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_categories>33ada72adb15574003a29ea3db9619c9</sc_categories>
         <short_description>Conferencing Service Request</short_description>
-        <state>draft</state>
+        <state>published</state>
         <submission_message/>
         <sys_class_name>sc_ic_item_staging</sys_class_name>
         <sys_created_by>Amrita.sarkhel</sys_created_by>

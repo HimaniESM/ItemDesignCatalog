@@ -17,7 +17,7 @@
         <name>Conference Room</name>
         <recurring_cost>0</recurring_cost>
         <recurring_frequency/>
-        <sc_cat_item display_value="Conference Room">cf76e27edb5d17403b0936cb7c9619dc</sc_cat_item>
+        <sc_cat_item display_value="Conference Room Booking">cf76e27edb5d17403b0936cb7c9619dc</sc_cat_item>
         <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_categories>4370432adb9517403b0936cb7c9619ee</sc_categories>
         <short_description>Conference Booking</short_description>
