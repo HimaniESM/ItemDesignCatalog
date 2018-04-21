@@ -8,7 +8,7 @@
         <applies_sc_task>true</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
-        <cat_item display_value="Access to building in restricted areas">4ba8727adb9d17403b0936cb7c9619f4</cat_item>
+        <cat_item display_value="Access to restricted areas">4ba8727adb9d17403b0936cb7c9619f4</cat_item>
         <cat_variable>IO:9732a7eadbd517403b0936cb7c961941</cat_variable>
         <condition/>
         <description/>

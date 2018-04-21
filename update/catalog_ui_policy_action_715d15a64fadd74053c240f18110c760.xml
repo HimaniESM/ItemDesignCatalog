@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="New desk space ">d8f6d33edbdd17403b0936cb7c961901</catalog_item>
+        <catalog_item display_value="New hire desk space ">d8f6d33edbdd17403b0936cb7c961901</catalog_item>
         <catalog_variable>IO:50f6173edbdd17403b0936cb7c96194e</catalog_variable>
         <disabled>ignore</disabled>
         <field/>

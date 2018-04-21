@@ -5,7 +5,7 @@
         <detail>Esm Local Space Anchor</detail>
         <group display_value="Esm Local Space Anchor" name="Esm Local Space Anchor">2b7d8c15db69530004bf6f048a96193b</group>
         <order>100</order>
-        <sc_cat_item display_value="Access to building in restricted areas">4ba8727adb9d17403b0936cb7c9619f4</sc_cat_item>
+        <sc_cat_item display_value="Access to restricted areas">4ba8727adb9d17403b0936cb7c9619f4</sc_cat_item>
         <sc_ic_aprvl_type_defn_staging/>
         <sys_class_name>sc_ic_aprvl_defn</sys_class_name>
         <sys_created_by>Suganya_Nagarajan</sys_created_by>

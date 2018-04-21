@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="Access to building in restricted areas">4ba8727adb9d17403b0936cb7c9619f4</catalog_item>
+        <catalog_item display_value="Access to restricted areas">4ba8727adb9d17403b0936cb7c9619f4</catalog_item>
         <catalog_variable>IO:93a8767adb9d17403b0936cb7c96199c</catalog_variable>
         <disabled>ignore</disabled>
         <field/>

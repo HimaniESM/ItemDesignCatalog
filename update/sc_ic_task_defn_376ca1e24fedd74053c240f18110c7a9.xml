@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_task_defn">
+    <sc_ic_task_defn action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assignment_details>Group: Facilities &amp; Logistics</assignment_details>
+        <assignment_group display_value="Facilities &amp; Logistics" name="Facilities &amp; Logistics">bba7e4a24f2dd74053c240f18110c756</assignment_group>
+        <assignment_type>custom_assignment</assignment_type>
+        <assignment_user/>
+        <description/>
+        <order>100</order>
+        <sc_cat_item display_value="Office Stationery ">81911bf6dbdd17403b0936cb7c9619d1</sc_cat_item>
+        <sc_ic_task_assign_defn_staging/>
+        <sc_ic_task_defn_staging display_value="Facilities &amp; Logistics">c56157f6dbdd17403b0936cb7c9619d8</sc_ic_task_defn_staging>
+        <short_description>Facilities &amp; Logistics</short_description>
+        <sys_class_name>sc_ic_task_defn</sys_class_name>
+        <sys_created_by>Suganya_Nagarajan</sys_created_by>
+        <sys_created_on>2018-04-21 14:17:45</sys_created_on>
+        <sys_id>376ca1e24fedd74053c240f18110c7a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Facilities &amp; Logistics</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_ic_task_defn_376ca1e24fedd74053c240f18110c7a9</sys_update_name>
+        <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-21 14:17:45</sys_updated_on>
+    </sc_ic_task_defn>
+    <sys_translated_text action="delete_multiple" query="documentkey=376ca1e24fedd74053c240f18110c7a9"/>
+</record_update>

@@ -17,7 +17,7 @@
         <name>New hire desk space </name>
         <recurring_cost>0</recurring_cost>
         <recurring_frequency/>
-        <sc_cat_item display_value="New desk space ">d8f6d33edbdd17403b0936cb7c961901</sc_cat_item>
+        <sc_cat_item display_value="New hire desk space ">d8f6d33edbdd17403b0936cb7c961901</sc_cat_item>
         <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_categories>a3b413fadbdd17403b0936cb7c961907</sc_categories>
         <short_description>Space Management - New hire desk space </short_description>
@@ -27,19 +27,19 @@
         <sys_created_by>suganya_nagarajan</sys_created_by>
         <sys_created_on>2018-04-10 06:19:31</sys_created_on>
         <sys_id>34845fbadbdd17403b0936cb7c96191b</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>New hire desk space </sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sc_ic_item_staging_34845fbadbdd17403b0936cb7c96191b</sys_update_name>
-        <sys_updated_by>suganya_nagarajan</sys_updated_by>
-        <sys_updated_on>2018-04-17 10:16:51</sys_updated_on>
+        <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-21 14:16:16</sys_updated_on>
         <table_name/>
         <task_defn_changed>false</task_defn_changed>
         <var_defn_changed>false</var_defn_changed>
         <var_meta_changed>false</var_meta_changed>
-        <version>7.0</version>
+        <version>8.0</version>
         <workflow/>
     </sc_ic_item_staging>
     <fx_price action="delete_multiple" query="id=34845fbadbdd17403b0936cb7c96191b"/>

@@ -17,7 +17,7 @@
         <name>Access to building in restricted areas</name>
         <recurring_cost>0</recurring_cost>
         <recurring_frequency/>
-        <sc_cat_item display_value="Access to building in restricted areas">4ba8727adb9d17403b0936cb7c9619f4</sc_cat_item>
+        <sc_cat_item display_value="Access to restricted areas">4ba8727adb9d17403b0936cb7c9619f4</sc_cat_item>
         <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_categories>87f3f2b6db9d17403b0936cb7c961947</sc_categories>
         <short_description>Access to building in restricted areas</short_description>
