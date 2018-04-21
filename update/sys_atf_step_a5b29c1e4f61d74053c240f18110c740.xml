@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Set quantity to 1</description>
+        <display_name>Set Catalog Item Quantity</display_name>
+        <inputs/>
+        <order>3</order>
+        <step_config display_value="Set Catalog Item Quantity">d5d9e7e7c3d7220076173b0ac3d3ae0b</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 13:07:19</sys_created_on>
+        <sys_id>a5b29c1e4f61d74053c240f18110c740</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Catalog Item Quantity</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sys_atf_step_a5b29c1e4f61d74053c240f18110c740</sys_update_name>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 13:07:19</sys_updated_on>
+        <table/>
+        <test display_value="Plantronics Wideband Headset_ServiceCatalog_ItemDesign">a172d81e4f61d74053c240f18110c767</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=a5b29c1e4f61d74053c240f18110c740"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>a5b29c1e4f61d74053c240f18110c740</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 13:07:19</sys_created_on>
+        <sys_id>12b29c1e4f61d74053c240f18110c7eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 13:07:19</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">3c267f6bc3d7220076173b0ac3d3ae56</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>a5b29c1e4f61d74053c240f18110c740</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 13:07:19</sys_created_on>
+        <sys_id>d2b29c1e4f61d74053c240f18110c7eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 13:07:19</sys_updated_on>
+        <value>657d1f3edb1d574003a29ea3db9619c8</value>
+        <variable display_value="">acc08ef4c350320076173b0ac3d3ae21</variable>
+    </sys_variable_value>
+</record_update>

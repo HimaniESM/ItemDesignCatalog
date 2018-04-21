@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <description>Search for 'Shredding' in 'Service Catalog' and confirm that the search returns 'Shredding ' item</description>
+        <display_name>Search for a Catalog Item</display_name>
+        <inputs/>
+        <order>2</order>
+        <step_config display_value="Search for a Catalog Item">96103fdfc3e0320076173b0ac3d3ae57</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 09:56:15</sys_created_on>
+        <sys_id>4a96af8e4fad974053c240f18110c71c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Search for a Catalog Item</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sys_atf_step_4a96af8e4fad974053c240f18110c71c</sys_update_name>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 09:59:39</sys_updated_on>
+        <table/>
+        <test display_value="Shredding_ServiceCatalog_ItemDesign">66e4ab4e4fad974053c240f18110c7a5</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=4a96af8e4fad974053c240f18110c71c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>4a96af8e4fad974053c240f18110c71c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 09:56:15</sys_created_on>
+        <sys_id>27f6a7ce4fad974053c240f18110c723</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 09:56:15</sys_updated_on>
+        <value>Shredding</value>
+        <variable display_value="">4f32f713c324320076173b0ac3d3ae7e</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>4a96af8e4fad974053c240f18110c71c</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 09:56:15</sys_created_on>
+        <sys_id>63f6a7ce4fad974053c240f18110c723</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 09:56:15</sys_updated_on>
+        <value>e0d08b13c3330100c8b837659bba8fb4</value>
+        <variable display_value="">45623b13c324320076173b0ac3d3aefc</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>4a96af8e4fad974053c240f18110c71c</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 09:56:15</sys_created_on>
+        <sys_id>aff6a7ce4fad974053c240f18110c722</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 09:56:15</sys_updated_on>
+        <value>0826688bdb9157403b0936cb7c9619f4</value>
+        <variable display_value="">0ddfbbd3c324320076173b0ac3d3ae07</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>4a96af8e4fad974053c240f18110c71c</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 09:56:15</sys_created_on>
+        <sys_id>aff6a7ce4fad974053c240f18110c72f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 09:56:15</sys_updated_on>
+        <value/>
+        <variable display_value="">82233f13c324320076173b0ac3d3aef7</variable>
+    </sys_variable_value>
+</record_update>

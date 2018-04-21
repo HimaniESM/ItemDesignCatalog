@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Search for 'Brother Network-ready' in 'Service Catalog' and 'Printers' category and confirm that the search returns 'Brother Network-Ready Color Laser Printer' item</description>
+        <display_name>Search for a Catalog Item</display_name>
+        <inputs/>
+        <order>2</order>
+        <step_config display_value="Search for a Catalog Item">96103fdfc3e0320076173b0ac3d3ae57</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 09:19:59</sys_created_on>
+        <sys_id>18be534a4fad974053c240f18110c757</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Search for a Catalog Item</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sys_atf_step_18be534a4fad974053c240f18110c757</sys_update_name>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 09:26:21</sys_updated_on>
+        <table/>
+        <test display_value="Brother Network-ready Color Laser Printer -service catalog copy">54be134a4fad974053c240f18110c7ed</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=18be534a4fad974053c240f18110c757"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>18be534a4fad974053c240f18110c757</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 09:19:59</sys_created_on>
+        <sys_id>18be534a4fad974053c240f18110c758</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 09:21:29</sys_updated_on>
+        <value>cab1e27adb5057407b9b9ea3db96193c</value>
+        <variable display_value="">0ddfbbd3c324320076173b0ac3d3ae07</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>18be534a4fad974053c240f18110c757</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 09:19:59</sys_created_on>
+        <sys_id>50be534a4fad974053c240f18110c759</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 09:21:29</sys_updated_on>
+        <value>bd032dfadb9c17407b9b9ea3db96196a</value>
+        <variable display_value="">82233f13c324320076173b0ac3d3aef7</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>18be534a4fad974053c240f18110c757</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 09:19:59</sys_created_on>
+        <sys_id>9cbe534a4fad974053c240f18110c758</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 09:26:21</sys_updated_on>
+        <value>Brother Network-ready</value>
+        <variable display_value="">4f32f713c324320076173b0ac3d3ae7e</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>18be534a4fad974053c240f18110c757</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 09:19:59</sys_created_on>
+        <sys_id>d8be534a4fad974053c240f18110c758</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 09:19:59</sys_updated_on>
+        <value>e0d08b13c3330100c8b837659bba8fb4</value>
+        <variable display_value="">45623b13c324320076173b0ac3d3aefc</variable>
+    </sys_variable_value>
+</record_update>

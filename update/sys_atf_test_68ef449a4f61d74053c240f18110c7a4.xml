@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Remote Connectivity To Equipments_ServiceCatalog_ItemDesign</name>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 12:55:14</sys_created_on>
+        <sys_id>68ef449a4f61d74053c240f18110c7a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Remote Connectivity To Equipments_ServiceCatalog_ItemDesign</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sys_atf_test_68ef449a4f61d74053c240f18110c7a4</sys_update_name>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 12:55:14</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=68ef449a4f61d74053c240f18110c7a4"/>
+</record_update>

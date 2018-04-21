@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Validate that the answer match the following condition:
+Business Justification = TEST
+and Equipment = Windows Server - Lenovo ThinkServer TD230
+and Employee Type = Full Time Employee
+and Request Type = Grant Access</description>
+        <display_name>Validate Variable Values</display_name>
+        <inputs/>
+        <order>5</order>
+        <step_config display_value="Validate Variable Values">5a36c681c37e220076173b0ac3d3aecf</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 12:58:47</sys_created_on>
+        <sys_id>ed9050da4f61d74053c240f18110c72a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Validate Variable Values</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sys_atf_step_ed9050da4f61d74053c240f18110c72a</sys_update_name>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 12:58:47</sys_updated_on>
+        <table/>
+        <test display_value="Remote Connectivity To Equipments_ServiceCatalog_ItemDesign">68ef449a4f61d74053c240f18110c7a4</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=ed9050da4f61d74053c240f18110c72a"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ed9050da4f61d74053c240f18110c72a</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 12:58:47</sys_created_on>
+        <sys_id>19c050da4f61d74053c240f18110c788</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 12:58:47</sys_updated_on>
+        <value>912defe6db15574003a29ea3db961936</value>
+        <variable display_value="">b46842c1c37e220076173b0ac3d3aebc</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ed9050da4f61d74053c240f18110c72a</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 12:58:47</sys_created_on>
+        <sys_id>d9c050da4f61d74053c240f18110c788</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 12:58:47</sys_updated_on>
+        <value>IO:6a6eab2adb15574003a29ea3db9619db=TEST^IO:d75de32adb15574003a29ea3db961969=62e785324f451b0053c240f18110c72a^IO:692d232adb15574003a29ea3db96195f=Full Time Employee^IO:212d232adb15574003a29ea3db96196f=Grant Access^EQ</value>
+        <variable display_value="">8a682649c37e220076173b0ac3d3ae47</variable>
+    </sys_variable_value>
+</record_update>

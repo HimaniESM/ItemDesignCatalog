@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Answer the questions on the form as follows:
+Requested For = ESM ESS USER
+and Location = California
+and Internal or External = Internal
+and Locations to be connected = California
+and Request Description = Please provide access</description>
+        <display_name>Set Variable Values</display_name>
+        <inputs/>
+        <order>5</order>
+        <step_config display_value="Set Variable Values">323ca6e1c3b2220076173b0ac3d3aec1</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 06:46:39</sys_created_on>
+        <sys_id>8adafe024f6d974053c240f18110c72f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Variable Values</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sys_atf_step_8adafe024f6d974053c240f18110c72f</sys_update_name>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 06:46:39</sys_updated_on>
+        <table/>
+        <test display_value="Video conference meeting assistance_ServiceCatalog_ItemDesign">03b83ace4f2d974053c240f18110c74b</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=8adafe024f6d974053c240f18110c72f"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>8adafe024f6d974053c240f18110c72f</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 06:46:39</sys_created_on>
+        <sys_id>569bfa424f6d974053c240f18110c724</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 06:46:39</sys_updated_on>
+        <value>cc33e2badb5d17403b0936cb7c9619ce</value>
+        <variable display_value="">571e6a25c3b2220076173b0ac3d3ae46</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>8adafe024f6d974053c240f18110c72f</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 06:46:39</sys_created_on>
+        <sys_id>929bfa424f6d974053c240f18110c724</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 06:46:39</sys_updated_on>
+        <value>IO:9732a7eadbd517403b0936cb7c961941=0625f1946f11db00d69dc8c17c3ee496^IO:e313232edbd517403b0936cb7c9619af=f03dc1f037d0200044e0bfc8bcbe5d29^IO:b7836abadb5d17403b0936cb7c96196b=1^IO:2d13c774dbad13000a4f3a433a9619f2=f03dc1f037d0200044e0bfc8bcbe5d29^IO:6bc3eb2edbd517403b0936cb7c9619a6=Please provide access^EQ</value>
+        <variable display_value="">346eea25c3b2220076173b0ac3d3ae8b</variable>
+    </sys_variable_value>
+</record_update>

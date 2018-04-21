@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Answer the questions on the form as follows:
+Requested For = ESM ESS USER
+and Cost Center = Service Support</description>
+        <display_name>Set Variable Values</display_name>
+        <inputs/>
+        <order>5</order>
+        <step_config display_value="Set Variable Values">323ca6e1c3b2220076173b0ac3d3aec1</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 08:57:27</sys_created_on>
+        <sys_id>496993064fad974053c240f18110c747</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Set Variable Values</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sys_atf_step_496993064fad974053c240f18110c747</sys_update_name>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 09:08:15</sys_updated_on>
+        <table/>
+        <test display_value="Snagit(Uninstall)_ServiceCatalog_ItemDesign">20b793c24fad974053c240f18110c7d3</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=496993064fad974053c240f18110c747"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>496993064fad974053c240f18110c747</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 08:57:27</sys_created_on>
+        <sys_id>828957064fad974053c240f18110c737</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 08:57:27</sys_updated_on>
+        <value>38e7ccdbdb5957403b0936cb7c961932</value>
+        <variable display_value="">571e6a25c3b2220076173b0ac3d3ae46</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>496993064fad974053c240f18110c747</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 08:57:27</sys_created_on>
+        <sys_id>ce8957064fad974053c240f18110c736</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 09:08:15</sys_updated_on>
+        <value>IO:f1951803db9157403b0936cb7c9619f4=0625f1946f11db00d69dc8c17c3ee496^IO:4f969043db9157403b0936cb7c961962=2863f2ca4f2d974053c240f18110c7a1^EQ</value>
+        <variable display_value="">346eea25c3b2220076173b0ac3d3ae8b</variable>
+    </sys_variable_value>
+</record_update>

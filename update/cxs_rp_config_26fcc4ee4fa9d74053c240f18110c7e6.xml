@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="cxs_rp_config">
+    <cxs_rp_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <allow_expand_collapse>false</allow_expand_collapse>
+        <cxs_context_config display_value="Catalog items">53dc84ee4fa9d74053c240f18110c775</cxs_context_config>
+        <limit>10</limit>
+        <name>Can't Find Anything</name>
+        <result_action_label>This helped</result_action_label>
+        <result_action_value>This helped</result_action_value>
+        <results_header_text>Catalog Results</results_header_text>
+        <results_per_page>10</results_per_page>
+        <sc_cat_item display_value="Can't Find Anything">0a690c2e4fa9d74053c240f18110c717</sc_cat_item>
+        <search_variable display_value="Short Description">392bcc6e4fa9d74053c240f18110c718</search_variable>
+        <sys_class_name>cxs_rp_config</sys_class_name>
+        <sys_created_by>Divya_M</sys_created_by>
+        <sys_created_on>2018-04-21 07:21:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>26fcc4ee4fa9d74053c240f18110c7e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can't Find Anything</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>cxs_rp_config_26fcc4ee4fa9d74053c240f18110c7e6</sys_update_name>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-04-21 07:21:29</sys_updated_on>
+    </cxs_rp_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=26fcc4ee4fa9d74053c240f18110c7e6"/>
+</record_update>

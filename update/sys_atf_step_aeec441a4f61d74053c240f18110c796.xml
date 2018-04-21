@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Confirm that the following variables are visible: Location, Request Description, Requested For, Service
+Confirm that the following variables are mandatory: Request Description, Requested For, Location
+</description>
+        <display_name>Variable State Validation</display_name>
+        <inputs/>
+        <order>6</order>
+        <step_config display_value="Variable State Validation">33f637e8c3ba220076173b0ac3d3aee1</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 12:42:09</sys_created_on>
+        <sys_id>aeec441a4f61d74053c240f18110c796</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Variable State Validation</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sys_atf_step_aeec441a4f61d74053c240f18110c796</sys_update_name>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 12:42:09</sys_updated_on>
+        <table/>
+        <test display_value="Repair and Maintenance_ServiceCatalog_ItemDesign">a35cccd64f61d74053c240f18110c74e</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=aeec441a4f61d74053c240f18110c796"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>aeec441a4f61d74053c240f18110c796</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 12:42:09</sys_created_on>
+        <sys_id>35fc841a4f61d74053c240f18110c761</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 12:42:09</sys_updated_on>
+        <value>e531bef2db9d17403b0936cb7c9619e1</value>
+        <variable display_value="">ae58fbe8c3ba220076173b0ac3d3aeac</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>aeec441a4f61d74053c240f18110c796</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 12:42:09</sys_created_on>
+        <sys_id>39fc841a4f61d74053c240f18110c760</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 12:42:09</sys_updated_on>
+        <value>e313232edbd517403b0936cb7c9619af,6bc3eb2edbd517403b0936cb7c9619a6,9732a7eadbd517403b0936cb7c961941,b131b236db9d17403b0936cb7c96198e</value>
+        <variable display_value="">a7987fe8c3ba220076173b0ac3d3ae1d</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>aeec441a4f61d74053c240f18110c796</document_key>
+        <order>700</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 12:42:09</sys_created_on>
+        <sys_id>71fc841a4f61d74053c240f18110c761</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 12:42:09</sys_updated_on>
+        <value/>
+        <variable display_value="">ab59772cc3ba220076173b0ac3d3ae9c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>aeec441a4f61d74053c240f18110c796</document_key>
+        <order>600</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 12:42:09</sys_created_on>
+        <sys_id>b9fc841a4f61d74053c240f18110c761</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 12:42:09</sys_updated_on>
+        <value>6bc3eb2edbd517403b0936cb7c9619a6,9732a7eadbd517403b0936cb7c961941,e313232edbd517403b0936cb7c9619af</value>
+        <variable display_value="">5149372cc3ba220076173b0ac3d3ae98</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>aeec441a4f61d74053c240f18110c796</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 12:42:09</sys_created_on>
+        <sys_id>bdfc841a4f61d74053c240f18110c760</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 12:42:09</sys_updated_on>
+        <value/>
+        <variable display_value="">32e8ffe8c3ba220076173b0ac3d3ae6e</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>aeec441a4f61d74053c240f18110c796</document_key>
+        <order>500</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 12:42:09</sys_created_on>
+        <sys_id>f5fc841a4f61d74053c240f18110c761</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 12:42:09</sys_updated_on>
+        <value/>
+        <variable display_value="">e439f32cc3ba220076173b0ac3d3ae90</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>aeec441a4f61d74053c240f18110c796</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 12:42:09</sys_created_on>
+        <sys_id>f9fc841a4f61d74053c240f18110c760</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 12:42:09</sys_updated_on>
+        <value/>
+        <variable display_value="">d829b32cc3ba220076173b0ac3d3aea1</variable>
+    </sys_variable_value>
+</record_update>

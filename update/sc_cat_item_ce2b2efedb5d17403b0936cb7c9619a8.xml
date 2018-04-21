@@ -50,14 +50,14 @@
         <sys_created_by>suganya_nagarajan</sys_created_by>
         <sys_created_on>2018-04-10 03:14:35</sys_created_on>
         <sys_id>ce2b2efedb5d17403b0936cb7c9619a8</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>IP Telephony Request</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sc_cat_item_ce2b2efedb5d17403b0936cb7c9619a8</sys_update_name>
-        <sys_updated_by>divya</sys_updated_by>
-        <sys_updated_on>2018-04-13 11:24:08</sys_updated_on>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-04-20 18:49:23</sys_updated_on>
         <template/>
         <type>item</type>
         <u_order_guide_attached/>
@@ -104,4 +104,41 @@
         <table>sc_cat_item</table>
         <type>calculated</type>
     </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>picture</file_name>
+        <image_height>90</image_height>
+        <image_width>90</image_width>
+        <size_bytes>1102</size_bytes>
+        <size_compressed>1125</size_compressed>
+        <sys_created_by>Sumanth_Ravilla</sys_created_by>
+        <sys_created_on>2018-04-20 14:24:48</sys_created_on>
+        <sys_id>1d7420d66fe99740d69dc8c17c3ee482</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Sumanth_Ravilla</sys_updated_by>
+        <sys_updated_on>2018-04-20 14:24:48</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>ce2b2efedb5d17403b0936cb7c9619a8</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="1d7420d66fe99740d69dc8c17c3ee482">1d7420d66fe99740d69dc8c17c3ee482</sys_attachment>
+        <sys_created_by>Sumanth_Ravilla</sys_created_by>
+        <sys_created_on>2018-04-20 14:24:48</sys_created_on>
+        <sys_id>5d7420d66fe99740d69dc8c17c3ee482</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AU4EsfuJUE5HDQoaCgAAAA1JSERSAAAAWgAAAFoIBgAAADioQQIAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAD8ElEQVR42uycv24TQRDGz84VlC4pL6KjOqjosAsKqjgSfWKJJpXJE8R+gsR9pJgOpEiEEqWw8wLkaCjR8Qb3BjBDZp3JKuJ8f7x7Z32ftPHlEt/u/Dw7O3PWbSew9Obd+yG9vKYWB26UUftBbX59eZ7WeWGypU8vfbHHlW6oLcmWpT7ZsQZ1QS0K/OmK2ogGmVUEzE5yKpB9iUEfky3JCjQN7FAgN0E8sEFZ2AJ5Qa3XAFsysSUJaWCRfPr6j3NqXx0Nhvs/UN4Xy4e+X/J6XyzIxpbMgS3c7x61Q/U7j2e3Q6Av1B9S+QRS1x/9I7PqhZl2Ja+x8iYPtrCz3KpToy79GOoTPiCzqN+5xDWjYYnLHKjjmQ/IYgv3O1Wn9rpqmmX2SulBM3VcJlOIrZDhU7r/uGstQpueUhG1Xs7iUTVGGq9KN2xL73+2WP1H4Rp56KLCFNLp42otoOORhArXsfNPhbcPzIyn60zo5USOOf8f5b2568jAvlpwAyvLaaNO1PGhLH7+QUOOQMuU0wvtccu56Yxivk52E64BqFMT7IFMscxjClmXLROOzUUW3dBDfrkVKuosiNHbFKMhgHamvIIlsvLfwouGulas7l+cVb3nXDKfn1QpqU1ctris9YVF3mIYWcl5UU3UwPQ9Yr6PMfBcaBQVZ2AG6CK4/4JkTPbt5jmOq9ARBQ/vEfdbHgkidcx2NaYyTB/xjjZL28OenFQNHalVBZXOOWl6cagYy8B8VYbTmuDuiy3szdN11pu8yjA1cXYDZbiPIqMuW9iDR0Xeg/QOeTRAQwCNytB8yzI2mcwWVIam+JlVvh+9gcrQKN6iynDYtMowQGXoppLKUBm6qQy5mjqQgU09AaqrMhyoynCGynBzlWFa9DYC0jvk0QANATRAAzQQADRAQwAN0AANATRAQwAN0AANATRAQwAN0AANATRAQwAN0AANATRAQwAN0AANOQUdbZNhORsZuu4/ewBaHurxqT11XGb/paU6Hnq2RfefMOgrdeLCowfwAzcf1KmbEpfR7znx5dXSr34C7IZB641X+/RPC9l+3tmgqDFg/Xhccn15flXicvPg/qEknp23stWxS8jc360KxTyeM7Mj+qnlTT5Vad/nhu3uzvq3D+sOH/36+f3bs+cv2d1feR5USu1tlf3xyJaEbPkd3D3L+MSzwxyZzW531AAZ9sfg7pEu01xpKSHsqI5dHgX2Z/mVYT91aAs7ySfx5CUSWwiCKqjTpsHKVhQrtSkGhi1zjEVbHQU3lQAaoCGABmiABgKABmgIoNtbglfc/bBu2RsETpsysLyNscISxgUNBu9TE4QOxGiAhmrWXwEGAKILdU03ku0IAAAAAElFTkSuQmCCe4d6OU4EAAA=</data>
+        <length>1488</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="1d7420d66fe99740d69dc8c17c3ee482">1d7420d66fe99740d69dc8c17c3ee482</sys_attachment>
+        <sys_created_by>Sumanth_Ravilla</sys_created_by>
+        <sys_created_on>2018-04-20 14:24:48</sys_created_on>
+        <sys_id>dd7420d66fe99740d69dc8c17c3ee482</sys_id>
+    </sys_attachment_doc>
 </record_update>

@@ -50,14 +50,14 @@
         <sys_created_by>sushil</sys_created_by>
         <sys_created_on>2018-04-10 08:36:50</sys_created_on>
         <sys_id>bae4bb7adb5d574003a29ea3db96195b</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>User Access Setup</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sc_cat_item_bae4bb7adb5d574003a29ea3db96195b</sys_update_name>
-        <sys_updated_by>sushil</sys_updated_by>
-        <sys_updated_on>2018-04-10 08:36:51</sys_updated_on>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-04-20 18:49:23</sys_updated_on>
         <template/>
         <type>item</type>
         <u_order_guide_attached/>
@@ -104,4 +104,41 @@
         <table>sc_cat_item</table>
         <type>calculated</type>
     </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#455464</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>picture</file_name>
+        <image_height>90</image_height>
+        <image_width>90</image_width>
+        <size_bytes>1342</size_bytes>
+        <size_compressed>1365</size_compressed>
+        <sys_created_by>Sumanth_Ravilla</sys_created_by>
+        <sys_created_on>2018-04-20 14:29:54</sys_created_on>
+        <sys_id>04a5a09a6fe99740d69dc8c17c3ee40b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Sumanth_Ravilla</sys_updated_by>
+        <sys_updated_on>2018-04-20 14:29:54</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>bae4bb7adb5d574003a29ea3db96195b</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="04a5a09a6fe99740d69dc8c17c3ee40b">04a5a09a6fe99740d69dc8c17c3ee40b</sys_attachment>
+        <sys_created_by>Sumanth_Ravilla</sys_created_by>
+        <sys_created_on>2018-04-20 14:29:54</sys_created_on>
+        <sys_id>44a5a09a6fe99740d69dc8c17c3ee40b</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AT4FwfqJUE5HDQoaCgAAAA1JSERSAAAAWgAAAFoIBgAAADioQQIAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAE4ElEQVR42uxcQXLaQBBcU9xDXmDlBcYvAA45G6pyR1TljnkB5AW276lCvqcK+ZwD8gvsH4QnkB9kJhmRYS2ZlbSwKzRdpcKWhVlao96emZWUEggEAoFAIBAIBAKBQHACXOg7Pn/5GsBLKNRUQvTzx/dNJtFAcAdelrANhScriGGbAOHbHdFE8hq2rvBjFa+wDZDsNu1YaSQnsD3CthGuCgFldwxbn37vEreDC4hm/OWFHYzhHgln5QGchiTDKa5bmiZHQnJ1EIecxyES3WM7noQma+Bc9lraH7fCjzXscdkuoDmBR18g1n2q72gbkLzy0FvPYVzXdSLbJKJ9TGA6lL0uXGezcLIXtohOsSFv7RI95lF1/zp3NCb7RJuevSP600UO0WchHXUAXm3fhOjj6+TG9BJ2hZbYXSFaiBZ4qNHgFPoZTgHrtElaFLfwGViBvHM0PwycEg1fHhOdJSUXecdE8DKzQHjHd9vXOhLJSPDqPZIJmM2tqcMj0lEikkPN42L/7Dfbd6P+d3R2XYgKl2+iMhrN567RPBXea1DytFXrQvRRZ+G4V3EdZtEcqP3e4yRPf7O6EGLvzBGwn01cBe9CXIlGl4OJDGw151DFQq4d2bsLFxGtbBAn0lFeRiQztPz/ikoBTzKez9neWY1ozZ51DRKRy5yTJNJRcBI8lBZzS5cI0cXACRsfyCDTiN+ec7JyLHuHDdzbNGIxiclZFjBlP0cWEqXQkvwtakE0RiZ88YTJBqbkkwzfy2XlwYLDsdUFX9RFOhC8URpSvTg3muu26sibzBDtlhbVQ22SHOaclLLYqKZ1wSl6cRLsHiAmTWhW8B6UjrhsA6AOXfC2JXIDitJpTkYYZUyYqabiCcFy6ZI6Lk9AXCzS8XZSm6r8EidG2kzXYJzZ4b0fmDvZ6Tlp+oZOxr2tvmItfTRmfLTKdJ1DMkbmCEj6lBedsH8GLx/xRKi3lb7URfyCz7ltZES/cwdXQlForLV03D1uTNtDlsjg6x387QqOnTRNOpYayXGWPJSsk+A2ozbXnOk9yslTY6SD0mYuFdiqGtn2wdTmutYkZdkkjeaJRnzMO7hIVrAzvmUyMm4C0YGWNs+OPTgi+0EbQyOI3k18J0ybk0b7aFp9Lzgy0X1V01scapWweILtuREdeUpyVCeiD0oHZmSgx48eScVGVaj0ea3R1M4/i9m/dq5Dq30MC3pcJ/dzs3Jup+AVVNnO2qhHl31EEBaLRqeqPRPJL6rcUrVt1XvPWxUH31fVnsM0PWFAh6r8esD03nOnEc0zOJNlXZfK/ePeTMfas2UCbBL9bLImgq4C10SbjnVhi2i5z7AuroNfZhn1jyQjIi49+N6mY+35SHQ/5zKbexhgJx9rVelI209l8XBCciNVvj5SOeVvZ9gYY2AaDJfgQEtY8mZq9KD8CTbxKVeQogdGL6wlLOOcRIuPtWxy1dGJfmbE4I2WcVGy+dl+Z6Z2/gQbIuuejbWXR7SFsd5wl9PSiA2pAy2olsiFmoWN06ftrrUoTFT5h8CO2Yd8YxPM36UEnnFyxzJbG2MN1P5DYBXVSQapRo+0mkVf2S+LdpWjewEdjvWVuP3nOlhrP5YL3xqQy8Heg7o1fQkspsiJqk9v0eZYG7G4XiAQCAQCgUAgEAgEAg/xR4ABANtPwWeFnMUVAAAAAElFTkSuQmCCV49Xdj4FAAA=</data>
+        <length>1808</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="04a5a09a6fe99740d69dc8c17c3ee40b">04a5a09a6fe99740d69dc8c17c3ee40b</sys_attachment>
+        <sys_created_by>Sumanth_Ravilla</sys_created_by>
+        <sys_created_on>2018-04-20 14:29:54</sys_created_on>
+        <sys_id>c4a5a09a6fe99740d69dc8c17c3ee40b</sys_id>
+    </sys_attachment_doc>
 </record_update>

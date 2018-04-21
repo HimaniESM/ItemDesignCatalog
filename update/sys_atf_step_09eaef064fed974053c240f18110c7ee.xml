@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Answer the questions on the form as follows:
+Requested For = ESM ESS USER
+and Site commission date = 2018-04-19 17:00:00
+and Site Decommission date = 2018-04-26 17:00:00
+and Owner of the site = Aniesh_Myneni
+and Cost center = Service Support
+and Business Justification = NA</description>
+        <display_name>Set Variable Values</display_name>
+        <inputs/>
+        <order>5</order>
+        <step_config display_value="Set Variable Values">323ca6e1c3b2220076173b0ac3d3aec1</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 10:14:50</sys_created_on>
+        <sys_id>09eaef064fed974053c240f18110c7ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Variable Values</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sys_atf_step_09eaef064fed974053c240f18110c7ee</sys_update_name>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 10:14:50</sys_updated_on>
+        <table/>
+        <test display_value="SharePoint Request_Servicecatalog_ItemDesign">1ac967064fed974053c240f18110c741</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=09eaef064fed974053c240f18110c7ee"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>09eaef064fed974053c240f18110c7ee</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 10:14:50</sys_created_on>
+        <sys_id>273b27464fed974053c240f18110c773</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 10:14:50</sys_updated_on>
+        <value>1aa0184fdb5157403b0936cb7c961997</value>
+        <variable display_value="">571e6a25c3b2220076173b0ac3d3ae46</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>09eaef064fed974053c240f18110c7ee</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 10:14:50</sys_created_on>
+        <sys_id>633b27464fed974053c240f18110c773</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 10:14:50</sys_updated_on>
+        <value>IO:61282e7edb5d17403b0936cb7c961941=0625f1946f11db00d69dc8c17c3ee496^IO:1ea0584fdb5157403b0936cb7c961913=2018-04-20 00:00:00^IO:56a0584fdb5157403b0936cb7c961919=2018-04-27 00:00:00^IO:aa74d2b4db2d13000a4f3a433a9619ae=de002eaa6f95df00d69dc8c17c3ee4a1^IO:60f41ab4db2d13000a4f3a433a961994=2863f2ca4f2d974053c240f18110c7a1^IO:f549aebedb5d17403b0936cb7c9619bb=NA^EQ</value>
+        <variable display_value="">346eea25c3b2220076173b0ac3d3ae8b</variable>
+    </sys_variable_value>
+</record_update>

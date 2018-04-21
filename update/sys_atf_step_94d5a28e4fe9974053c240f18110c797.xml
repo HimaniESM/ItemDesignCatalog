@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Validate that the answer match the following condition:
+Business Justification STARTSWITH Test
+and Reason For Allocation = Desk Support
+and Valid From ON 2018-04-20
+and Valid To ON 2018-04-27
+and Cost Center = Customer Support</description>
+        <display_name>Validate Variable Values</display_name>
+        <inputs/>
+        <order>6</order>
+        <step_config display_value="Validate Variable Values">5a36c681c37e220076173b0ac3d3aecf</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 05:11:30</sys_created_on>
+        <sys_id>94d5a28e4fe9974053c240f18110c797</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Validate Variable Values</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sys_atf_step_94d5a28e4fe9974053c240f18110c797</sys_update_name>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 07:04:07</sys_updated_on>
+        <table/>
+        <test display_value="Apple iphone 8-service catalog _itemDesign">8cd5ee4e4fe9974053c240f18110c775</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=94d5a28e4fe9974053c240f18110c797"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>94d5a28e4fe9974053c240f18110c797</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 05:11:30</sys_created_on>
+        <sys_id>98d5a28e4fe9974053c240f18110c798</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 07:04:07</sys_updated_on>
+        <value>IO:34d5a4b6db95574003a29ea3db9619d9STARTSWITHTest^IO:b27844cddbed130004bf6f048a9619c1=Desk Support^IO:031884cddbed130004bf6f048a961934ON2018-04-20@javascript:gs.dateGenerate('2018-04-20','start')@javascript:gs.dateGenerate('2018-04-20','end')^IO:c158c4cddbed130004bf6f048a961927ON2018-04-27@javascript:gs.dateGenerate('2018-04-27','start')@javascript:gs.dateGenerate('2018-04-27','end')^IO:b285e0b6db95574003a29ea3db9619c9=9e94be034f415b0053c240f18110c7d9^EQ</value>
+        <variable display_value="">8a682649c37e220076173b0ac3d3ae47</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>94d5a28e4fe9974053c240f18110c797</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 05:11:30</sys_created_on>
+        <sys_id>d4d5a28e4fe9974053c240f18110c798</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 05:11:30</sys_updated_on>
+        <value/>
+        <variable display_value="">b46842c1c37e220076173b0ac3d3aebc</variable>
+    </sys_variable_value>
+</record_update>

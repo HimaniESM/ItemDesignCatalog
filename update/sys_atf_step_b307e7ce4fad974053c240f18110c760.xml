@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Set quantity to 1</description>
+        <display_name>Set Catalog Item Quantity</display_name>
+        <inputs/>
+        <order>4</order>
+        <step_config display_value="Set Catalog Item Quantity">d5d9e7e7c3d7220076173b0ac3d3ae0b</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 09:56:38</sys_created_on>
+        <sys_id>b307e7ce4fad974053c240f18110c760</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Catalog Item Quantity</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sys_atf_step_b307e7ce4fad974053c240f18110c760</sys_update_name>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 09:56:38</sys_updated_on>
+        <table/>
+        <test display_value="Shredding_ServiceCatalog_ItemDesign">66e4ab4e4fad974053c240f18110c7a5</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=b307e7ce4fad974053c240f18110c760"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>b307e7ce4fad974053c240f18110c760</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 09:56:38</sys_created_on>
+        <sys_id>0117e7ce4fad974053c240f18110c794</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 09:56:38</sys_updated_on>
+        <value>0826688bdb9157403b0936cb7c9619f4</value>
+        <variable display_value="">acc08ef4c350320076173b0ac3d3ae21</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>b307e7ce4fad974053c240f18110c760</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 09:56:38</sys_created_on>
+        <sys_id>4d17e7ce4fad974053c240f18110c793</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 09:56:38</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">3c267f6bc3d7220076173b0ac3d3ae56</variable>
+    </sys_variable_value>
+</record_update>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Answer the questions on the form as follows:
+Request Description = test
+and Location = California</description>
+        <display_name>Set Variable Values</display_name>
+        <inputs/>
+        <order>5</order>
+        <step_config display_value="Set Variable Values">323ca6e1c3b2220076173b0ac3d3aec1</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 05:48:55</sys_created_on>
+        <sys_id>246ee6464f2d974053c240f18110c7d0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Set Variable Values</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sys_atf_step_246ee6464f2d974053c240f18110c7d0</sys_update_name>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 05:59:37</sys_updated_on>
+        <table/>
+        <test display_value="access card-service catalog itemDesign">d46ea6464f2d974053c240f18110c7c4</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=246ee6464f2d974053c240f18110c7d0"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>246ee6464f2d974053c240f18110c7d0</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 05:48:55</sys_created_on>
+        <sys_id>646ee6464f2d974053c240f18110c7d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 05:48:55</sys_updated_on>
+        <value>9e85beb6db9d17403b0936cb7c96193d</value>
+        <variable display_value="">571e6a25c3b2220076173b0ac3d3ae46</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>246ee6464f2d974053c240f18110c7d0</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-20 05:48:55</sys_created_on>
+        <sys_id>a06ee6464f2d974053c240f18110c7d1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-20 05:59:37</sys_updated_on>
+        <value>IO:6bc3eb2edbd517403b0936cb7c9619a6=test^IO:e313232edbd517403b0936cb7c9619af=f03dc1f037d0200044e0bfc8bcbe5d29^EQ</value>
+        <variable display_value="">346eea25c3b2220076173b0ac3d3ae8b</variable>
+    </sys_variable_value>
+</record_update>

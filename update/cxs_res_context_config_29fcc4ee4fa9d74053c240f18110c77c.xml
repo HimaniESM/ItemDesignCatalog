@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="cxs_res_context_config">
+    <cxs_res_context_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cxs_context_config display_value="Catalog items">53dc84ee4fa9d74053c240f18110c775</cxs_context_config>
+        <cxs_search_res_config display_value="catalog">5cdff904eb53210070a9666cd206fe19</cxs_search_res_config>
+        <name>catalog</name>
+        <search_operator>IR_AND_OR_QUERY</search_operator>
+        <sys_class_name>cxs_res_context_config</sys_class_name>
+        <sys_created_by>Divya_M</sys_created_by>
+        <sys_created_on>2018-04-21 07:20:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>29fcc4ee4fa9d74053c240f18110c77c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>cxs_res_context_config_29fcc4ee4fa9d74053c240f18110c77c</sys_update_name>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-04-21 07:20:38</sys_updated_on>
+    </cxs_res_context_config>
+</record_update>

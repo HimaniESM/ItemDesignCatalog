@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <description>Search for 'Inspect ' in 'Service Catalog' and 'Health and Safety' category and confirm that the search returns 'Inspect Quality' item</description>
+        <display_name>Search for a Catalog Item</display_name>
+        <inputs/>
+        <order>2</order>
+        <step_config display_value="Search for a Catalog Item">96103fdfc3e0320076173b0ac3d3ae57</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-21 07:16:46</sys_created_on>
+        <sys_id>011ccc2e6fe1d740d69dc8c17c3ee474</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Search for a Catalog Item</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sys_atf_step_011ccc2e6fe1d740d69dc8c17c3ee474</sys_update_name>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-21 07:28:11</sys_updated_on>
+        <table/>
+        <test display_value="Inspect Quality -service catalog_itemDesigner">811ccc2e6fe1d740d69dc8c17c3ee46d</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=011ccc2e6fe1d740d69dc8c17c3ee474"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>011ccc2e6fe1d740d69dc8c17c3ee474</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-21 07:16:46</sys_created_on>
+        <sys_id>051ccc2e6fe1d740d69dc8c17c3ee475</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-21 07:18:14</sys_updated_on>
+        <value>Inspect </value>
+        <variable display_value="">4f32f713c324320076173b0ac3d3ae7e</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>011ccc2e6fe1d740d69dc8c17c3ee474</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-21 07:16:46</sys_created_on>
+        <sys_id>0d1c006e6fe1d740d69dc8c17c3ee461</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-21 07:18:14</sys_updated_on>
+        <value>a6d58b32dbdd17403b0936cb7c96191b</value>
+        <variable display_value="">82233f13c324320076173b0ac3d3aef7</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>011ccc2e6fe1d740d69dc8c17c3ee474</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-21 07:16:46</sys_created_on>
+        <sys_id>411ccc2e6fe1d740d69dc8c17c3ee475</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-21 07:16:46</sys_updated_on>
+        <value>e0d08b13c3330100c8b837659bba8fb4</value>
+        <variable display_value="">45623b13c324320076173b0ac3d3aefc</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>011ccc2e6fe1d740d69dc8c17c3ee474</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-21 07:16:46</sys_created_on>
+        <sys_id>8d1ccc2e6fe1d740d69dc8c17c3ee474</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-21 07:18:14</sys_updated_on>
+        <value>837cc336dbdd17403b0936cb7c9619e6</value>
+        <variable display_value="">0ddfbbd3c324320076173b0ac3d3ae07</variable>
+    </sys_variable_value>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_guide_items">
+    <sc_cat_item_guide_items action="INSERT_OR_UPDATE">
+        <condition>IO:07e7e20a6f259740d69dc8c17c3ee4de=true^IO:a768aa0a6f259740d69dc8c17c3ee4a2=e44bd4dddb69530004bf6f048a9619cb^EQ</condition>
+        <guide display_value="Onboarding">8a8422866f259740d69dc8c17c3ee493</guide>
+        <ignore_mandatory_eval>false</ignore_mandatory_eval>
+        <item display_value="Standard Laptop">e44bd4dddb69530004bf6f048a9619cb</item>
+        <order>100</order>
+        <quantity>1</quantity>
+        <requested_by/>
+        <requested_for/>
+        <show_quantity>false</show_quantity>
+        <sys_class_name>sc_cat_item_guide_items</sys_class_name>
+        <sys_created_by>Divya_M</sys_created_by>
+        <sys_created_on>2018-04-20 06:45:15</sys_created_on>
+        <sys_id>bd4b7a8a6f659740d69dc8c17c3ee40c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e44bd4dddb69530004bf6f048a9619cb</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_cat_item_guide_items_bd4b7a8a6f659740d69dc8c17c3ee40c</sys_update_name>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-04-20 06:45:15</sys_updated_on>
+        <use_sc_layout>true</use_sc_layout>
+    </sc_cat_item_guide_items>
+</record_update>
