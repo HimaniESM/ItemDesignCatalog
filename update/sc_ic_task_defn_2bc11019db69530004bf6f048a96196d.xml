@@ -8,7 +8,7 @@
         <assignment_user/>
         <description/>
         <order>100</order>
-        <sc_cat_item display_value="Space allocation in new location">d3a6e0cbdb9157403b0936cb7c961989</sc_cat_item>
+        <sc_cat_item display_value="Space Reallocation">d3a6e0cbdb9157403b0936cb7c961989</sc_cat_item>
         <sc_ic_task_assign_defn_staging/>
         <sc_ic_task_defn_staging display_value="Local Space Anchor">df96e0cbdb9157403b0936cb7c961985</sc_ic_task_defn_staging>
         <short_description>Local Space Anchor</short_description>

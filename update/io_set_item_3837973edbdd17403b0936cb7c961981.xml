@@ -2,7 +2,7 @@
 <record_update table="io_set_item">
     <io_set_item action="INSERT_OR_UPDATE">
         <order>100</order>
-        <sc_cat_item display_value="New hire desk space ">d8f6d33edbdd17403b0936cb7c961901</sc_cat_item>
+        <sc_cat_item display_value="New desk space ">d8f6d33edbdd17403b0936cb7c961901</sc_cat_item>
         <sys_class_name>io_set_item</sys_class_name>
         <sys_created_by>suganya_nagarajan</sys_created_by>
         <sys_created_on>2018-04-10 06:27:00</sys_created_on>
