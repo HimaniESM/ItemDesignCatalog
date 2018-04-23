@@ -19,7 +19,7 @@
         <sys_updated_by>suganya_nagarajan</sys_updated_by>
         <sys_updated_on>2018-04-16 04:22:44</sys_updated_on>
         <table/>
-        <ui_policy display_value="Conference Room and Location as Mandatory">f104f134dbe913000a4f3a433a9619df</ui_policy>
+        <ui_policy display_value="Conference Room and Location as Mandatory (ESM)">f104f134dbe913000a4f3a433a9619df</ui_policy>
         <variable>conference_room_00</variable>
         <variable_set/>
         <visible>ignore</visible>

@@ -19,7 +19,7 @@
         <sys_updated_by>divya</sys_updated_by>
         <sys_updated_on>2018-04-16 15:18:55</sys_updated_on>
         <table/>
-        <ui_policy display_value="to make fields mandatory on load">c24a4801db21530004bf6f048a96194f</ui_policy>
+        <ui_policy display_value="to make ESM Mobile Items fields mandatory on load (ESM)">c24a4801db21530004bf6f048a96194f</ui_policy>
         <variable>valid_to</variable>
         <variable_set display_value="Mobile Item Variable Set">34a740cddbed130004bf6f048a9619db</variable_set>
         <visible>ignore</visible>

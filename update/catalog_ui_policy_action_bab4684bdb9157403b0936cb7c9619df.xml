@@ -19,7 +19,7 @@
         <sys_updated_by>suganya_nagarajan</sys_updated_by>
         <sys_updated_on>2018-04-10 12:05:45</sys_updated_on>
         <table/>
-        <ui_policy display_value="Email Distribution List Request Mandatory Fields">8284e44bdb9157403b0936cb7c9619c9</ui_policy>
+        <ui_policy display_value="Email Distribution List Request Mandatory Fields (ESM)">8284e44bdb9157403b0936cb7c9619c9</ui_policy>
         <variable>Esm_EDLR_Admin</variable>
         <variable_set/>
         <visible>ignore</visible>

@@ -26,22 +26,22 @@
 
 }]]></script_true>
         <set_values/>
-        <short_description>Conferencing Equipment mandatory fields</short_description>
+        <short_description>Conferencing Equipment mandatory fields (ESM)</short_description>
         <sys_class_name>catalog_ui_policy</sys_class_name>
         <sys_created_by>suganya_nagarajan</sys_created_by>
         <sys_created_on>2018-04-16 06:39:35</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4e739674db2d13000a4f3a433a9619a4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Conferencing Equipment mandatory fields</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Conferencing Equipment mandatory fields (ESM)</sys_name>
         <sys_overrides/>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>catalog_ui_policy_4e739674db2d13000a4f3a433a9619a4</sys_update_name>
-        <sys_updated_by>suganya_nagarajan</sys_updated_by>
-        <sys_updated_on>2018-04-16 06:39:35</sys_updated_on>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-23 08:54:09</sys_updated_on>
         <table/>
         <ui_type>0</ui_type>
         <variable_set/>

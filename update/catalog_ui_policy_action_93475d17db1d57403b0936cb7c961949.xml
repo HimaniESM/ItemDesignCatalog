@@ -19,7 +19,7 @@
         <sys_updated_by>divya</sys_updated_by>
         <sys_updated_on>2018-04-11 10:25:10</sys_updated_on>
         <table/>
-        <ui_policy display_value="To make fields mandatory/readOnly onload">3617d917db1d57403b0936cb7c961988</ui_policy>
+        <ui_policy display_value="To make fields mandatory/readOnly onload (ESM)">3617d917db1d57403b0936cb7c961988</ui_policy>
         <variable>request_type</variable>
         <variable_set/>
         <visible>ignore</visible>

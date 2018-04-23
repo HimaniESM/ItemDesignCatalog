@@ -19,7 +19,7 @@
         <sys_updated_by>Divya_M</sys_updated_by>
         <sys_updated_on>2018-04-20 05:48:56</sys_updated_on>
         <table/>
-        <ui_policy display_value="To make fields mandatory">c04ee68e6f259740d69dc8c17c3ee449</ui_policy>
+        <ui_policy display_value="To make fields mandatory (ESM)">c04ee68e6f259740d69dc8c17c3ee449</ui_policy>
         <variable>new_hire_location</variable>
         <variable_set/>
         <visible>ignore</visible>

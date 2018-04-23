@@ -26,22 +26,22 @@
 
 }]]></script_true>
         <set_values/>
-        <short_description>to make cost center mandatory when type of software is paid</short_description>
+        <short_description>to make cost center mandatory when type of software is paid (ESM)</short_description>
         <sys_class_name>catalog_ui_policy</sys_class_name>
         <sys_created_by>divya</sys_created_by>
         <sys_created_on>2018-04-10 11:05:50</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>78e6d443db9157403b0936cb7c9619db</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>to make cost center mandatory when type of software is paid</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>to make cost center mandatory when type of software is paid (ESM)</sys_name>
         <sys_overrides/>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>catalog_ui_policy_78e6d443db9157403b0936cb7c9619db</sys_update_name>
-        <sys_updated_by>divya</sys_updated_by>
-        <sys_updated_on>2018-04-10 11:05:50</sys_updated_on>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-23 09:21:35</sys_updated_on>
         <table/>
         <ui_type>0</ui_type>
         <variable_set display_value="Software Services Set(Uninstall)">82e218cfdb5157403b0936cb7c961970</variable_set>

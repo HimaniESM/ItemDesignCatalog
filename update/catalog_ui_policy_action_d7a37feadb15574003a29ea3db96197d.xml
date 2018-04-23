@@ -19,7 +19,7 @@
         <sys_updated_by>sushil</sys_updated_by>
         <sys_updated_on>2018-04-09 13:53:13</sys_updated_on>
         <table/>
-        <ui_policy display_value="To make fields mandatory onload">86933feadb15574003a29ea3db961902</ui_policy>
+        <ui_policy display_value="To make fields mandatory onload (ESM)">86933feadb15574003a29ea3db961902</ui_policy>
         <variable>employee_type_00</variable>
         <variable_set/>
         <visible>ignore</visible>

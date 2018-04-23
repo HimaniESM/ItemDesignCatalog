@@ -19,7 +19,7 @@
         <sys_updated_by>divya</sys_updated_by>
         <sys_updated_on>2018-04-10 09:35:04</sys_updated_on>
         <table/>
-        <ui_policy display_value="Show/Hide Validity Date">7a12cc07db5157403b0936cb7c9619ea</ui_policy>
+        <ui_policy display_value="Show/Hide Validity Date (ESM)">7a12cc07db5157403b0936cb7c9619ea</ui_policy>
         <variable>validity_date</variable>
         <variable_set display_value="Software Services Variables">9af7bbbedb1157403b0936cb7c9619bf</variable_set>
         <visible>true</visible>

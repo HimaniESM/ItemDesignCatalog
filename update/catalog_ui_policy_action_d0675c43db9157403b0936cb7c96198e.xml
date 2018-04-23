@@ -19,7 +19,7 @@
         <sys_updated_by>divya</sys_updated_by>
         <sys_updated_on>2018-04-10 11:07:40</sys_updated_on>
         <table/>
-        <ui_policy display_value="To make type of sotware field read only">8d37d843db9157403b0936cb7c96195f</ui_policy>
+        <ui_policy display_value="To make type of sotware field read only (ESM)">8d37d843db9157403b0936cb7c96195f</ui_policy>
         <variable>type_of_software</variable>
         <variable_set display_value="Software Services Set(Uninstall)">82e218cfdb5157403b0936cb7c961970</variable_set>
         <visible>ignore</visible>

@@ -19,7 +19,7 @@
         <sys_updated_by>sushil</sys_updated_by>
         <sys_updated_on>2018-04-10 08:53:58</sys_updated_on>
         <table/>
-        <ui_policy display_value="Access end date is manadatory">045737fadb5d574003a29ea3db96197b</ui_policy>
+        <ui_policy display_value="Access end date is manadatory (ESM)">045737fadb5d574003a29ea3db96197b</ui_policy>
         <variable>Access_End_Date</variable>
         <variable_set/>
         <visible>true</visible>

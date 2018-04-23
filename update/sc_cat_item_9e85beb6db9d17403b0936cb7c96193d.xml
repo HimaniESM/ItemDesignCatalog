@@ -104,4 +104,41 @@
         <table>sc_cat_item</table>
         <type>calculated</type>
     </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#303a46</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>picture</file_name>
+        <image_height>90</image_height>
+        <image_width>90</image_width>
+        <size_bytes>1350</size_bytes>
+        <size_compressed>1373</size_compressed>
+        <sys_created_by>Sumanth_Ravilla</sys_created_by>
+        <sys_created_on>2018-04-21 16:34:28</sys_created_on>
+        <sys_id>66bb8e626f29d740d69dc8c17c3ee475</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Sumanth_Ravilla</sys_updated_by>
+        <sys_updated_on>2018-04-21 16:34:28</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>9e85beb6db9d17403b0936cb7c96193d</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="66bb8e626f29d740d69dc8c17c3ee475">66bb8e626f29d740d69dc8c17c3ee475</sys_attachment>
+        <sys_created_by>Sumanth_Ravilla</sys_created_by>
+        <sys_created_on>2018-04-21 16:34:28</sys_created_on>
+        <sys_id>a6bb8e626f29d740d69dc8c17c3ee475</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AUYFufqJUE5HDQoaCgAAAA1JSERSAAAAWgAAAFoIBgAAADioQQIAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAE6ElEQVR42uycu47TQBSGnbCIiiVI3EEiVIgu29LgNDRIbPIEm8ADkDRQhhUtUrIPAJs8wS4FDQ2mocUSBSVBAkRBETokQHBOOIHZs2PHt4XY+X9plJs9ST4fn8t4PI4DQRAEQRAEQRAEQRAEQdBiqmS+qF29XqGHDrV1fgk8ieRTe0Jt4L98NtkHmiC79LBDrQJWmYghNwm29we0QH4ONgeiOsMuibt4C0s+UMu+tCI+WUMeUtukIzEGp+gio63SQ49ay3h7GvfYotmaqyZkAtwGtlTAtxXscVlBZnWBKrU0w2p5X25ipCRQwvzOwrAMLP9GAA3QAA0BNEADNBAANEBDAL2wWtFvyNg0dNCgHVwAgOsAaCi26+DhPR9YMpEbBtr3Xz6rg1F6UVLxE64DPhqgIYAGaAigF6MEj526LKh4ptX9gN/POW7ioQbqtwSLhuuA6zgIeVLKf1HvH5PStAbQGfioG29uzWDqWarvqHWfXnns/c8/LZPDS7m0aILbcn7fktGIsC0PXu1SG/1v6LkBLYB5TnA1xm5s6bxfi/Zn0JtFB76SAjDD2nHUcKAh25CrzZ3w/i71NxDgE4D+C7kmeaiGNqa2xW6BgI1D9t0Qizb37wjwehFhr2QEeSJBbjhvf9rGF0vvUl9cUNwx+pr2zbA/3H7fN9zRiALYMM+gywnchYbMQe1SFMgW6Ax6TbmYKewjl4+M5Lkb0/8XomDR9yEOCVYzzakuLqauYZ+4e3Jd3NByVYZkzR0V+Bhy4puKuD/JWBw5UBp25/yjC574/eUALS6jp4JeNwVkdgXsg7fp+Vv2+wK7Kf5+pp4cgOGyWLTOENopMwPzoFVnfYsbMd2FS1ZdLcL9jlFBb5jjGGmKCynPW0H9SYCcBHx3cUHLaW4OAo1SfmdPvbb5edNVNJYCtK78kqRxqlzXAdXmFsyDWZHcvfCgzRzWy9CaJ0EBVYoaXboXHvQ147mfwprvq4O2NSegegEHeykKli8hIBtz0sM7ZnooQW9plMmlLALJd/PviNXa1Ffp4aazZIoL+liAS5ilaz2BrrMWnc4NAXq//DlBSWcNPJj/StwFa1t9HtWaaypwFgq0DeS7sM/FOtsKxmy40zY+MjdzkbOgkkUQXlTQFVljKSj6V2xBT2DXLbD7yiqjWnND9e/lCaqF4RT02BK4dE47nlcSy3ZrIda3FXTVxSIzQ9nNoQH3tXstW0rqFq8JJAsx2Sq1RlClZowtawtkax7EqB7N736SI0uuWtZTmvKLtBzb4XOH26cenDZTNJ+grkVI+WZf2I6SaUgANX/L+MPt9yPL+EieNF2OrSzr/zTDtvz28Rv/UXP4skZQ+mH7yEWBrhyUqOncnis4X19/3co5ZBav5jiJvGTmoeOHBmcennVV5tHOKidWZ8DUN5M1V5zg6Qx5sOS9S2aqaBm4COzq+mr76M1VXeUNCHaaqy0VybXNTGP86d6n0Y/P3/NozeGLwMYA07IUIb5Ytx+zL1f6qipLqMfta9FVSmiFDQGk3cxsPt3uHAtuSJroWk63wkFODFqA1QR20Fix5+yduntRLNcN2b5Z1ClhqaauinV2nL2zjZIEDZ5zN3AKrEzmCBvAN5zog/S+83eeXuGX6cx8Mra4FFdchXYrL6Sc92KU4xAEQRAEQRAELal+CTAA/VPKQeLJfhEAAAAASUVORK5CYIL7CP9pRgUAAA==</data>
+        <length>1820</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="66bb8e626f29d740d69dc8c17c3ee475">66bb8e626f29d740d69dc8c17c3ee475</sys_attachment>
+        <sys_created_by>Sumanth_Ravilla</sys_created_by>
+        <sys_created_on>2018-04-21 16:34:28</sys_created_on>
+        <sys_id>2abb8e626f29d740d69dc8c17c3ee475</sys_id>
+    </sys_attachment_doc>
 </record_update>

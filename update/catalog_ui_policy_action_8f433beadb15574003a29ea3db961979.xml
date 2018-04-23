@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="Guest Internet Access">d75e7e2edb91574003a29ea3db9619ef</catalog_item>
+        <catalog_item display_value="Internet Access">d75e7e2edb91574003a29ea3db9619ef</catalog_item>
         <catalog_variable>IO:e75efe2edb91574003a29ea3db9619c1</catalog_variable>
         <disabled>ignore</disabled>
         <field/>
@@ -19,7 +19,7 @@
         <sys_updated_by>sushil</sys_updated_by>
         <sys_updated_on>2018-04-09 13:51:22</sys_updated_on>
         <table/>
-        <ui_policy display_value="To make field mandatory onload">d12377eadb15574003a29ea3db9619e9</ui_policy>
+        <ui_policy display_value="To make field mandatory onload (ESM)">d12377eadb15574003a29ea3db9619e9</ui_policy>
         <variable>guest_last_name_00</variable>
         <variable_set/>
         <visible>ignore</visible>

@@ -19,7 +19,7 @@
         <sys_updated_by>divya</sys_updated_by>
         <sys_updated_on>2018-04-09 12:39:09</sys_updated_on>
         <table/>
-        <ui_policy display_value="To make fields mandatory/readOnly on load">7b622beadbd517403b0936cb7c96192b</ui_policy>
+        <ui_policy display_value="To make fields mandatory/readOnly on load (ESM)">7b622beadbd517403b0936cb7c96192b</ui_policy>
         <variable>primary_owner</variable>
         <variable_set/>
         <visible>ignore</visible>

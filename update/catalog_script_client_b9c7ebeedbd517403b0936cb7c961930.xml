@@ -15,14 +15,15 @@
         <field/>
         <global>true</global>
         <messages/>
-        <name>Esm_CC_onChg_LocPop</name>
+        <name>Esm_onChange_LocPop</name>
         <order/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
-	
+	if (isLoading || newValue === '') {
+      return;}
 	//To check and fetch location value based on Requested For variable.
 	if(newValue != '')
 		{
-		var ga = new GlideAjax("SRSClientFunctions");
+		var ga = new GlideAjax("Esm_FetchUserDetails");
 		ga.addParam('sysparm_name','getUserDetails');
 		ga.addParam('sysparm_userid',newValue);
 		ga.getXML(populateUserFields);
@@ -57,15 +58,15 @@ function populateUserFields(response)
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b9c7ebeedbd517403b0936cb7c961930</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Esm_CC_onChg_LocPop</sys_name>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Esm_onChange_LocPop</sys_name>
         <sys_overrides/>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>catalog_script_client_b9c7ebeedbd517403b0936cb7c961930</sys_update_name>
-        <sys_updated_by>suganya_nagarajan</sys_updated_by>
-        <sys_updated_on>2018-04-17 08:03:57</sys_updated_on>
+        <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-23 10:40:45</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>10</ui_type>

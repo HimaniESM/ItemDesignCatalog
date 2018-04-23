@@ -19,7 +19,7 @@
         <sys_updated_by>Divya_M</sys_updated_by>
         <sys_updated_on>2018-04-20 05:43:58</sys_updated_on>
         <table/>
-        <ui_policy display_value="Access fields mandatory/visible on selection">ee2d664e6f259740d69dc8c17c3ee423</ui_policy>
+        <ui_policy display_value="Access fields mandatory/visible on selection (ESM)">ee2d664e6f259740d69dc8c17c3ee423</ui_policy>
         <variable>access_required</variable>
         <variable_set/>
         <visible>true</visible>

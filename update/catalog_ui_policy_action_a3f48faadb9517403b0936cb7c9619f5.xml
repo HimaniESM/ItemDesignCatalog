@@ -19,7 +19,7 @@
         <sys_updated_by>divya</sys_updated_by>
         <sys_updated_on>2018-04-13 09:38:18</sys_updated_on>
         <table/>
-        <ui_policy display_value="Making requestor information mandatory">d2d44faadb9517403b0936cb7c96195b</ui_policy>
+        <ui_policy display_value="Making requestor information mandatory (ESM)">d2d44faadb9517403b0936cb7c96195b</ui_policy>
         <variable>requested_by</variable>
         <variable_set display_value="Infra Services Variable Set">1a82476adb9517403b0936cb7c961989</variable_set>
         <visible>false</visible>

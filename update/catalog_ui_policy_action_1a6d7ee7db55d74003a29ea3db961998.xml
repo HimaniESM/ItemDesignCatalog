@@ -19,7 +19,7 @@
         <sys_updated_by>sushil</sys_updated_by>
         <sys_updated_on>2018-04-12 12:29:51</sys_updated_on>
         <table/>
-        <ui_policy display_value="Making Additional Information Mandatory">8a3dfae7db55d74003a29ea3db96194d</ui_policy>
+        <ui_policy display_value="Making Additional Information Mandatory (ESM)">8a3dfae7db55d74003a29ea3db96194d</ui_policy>
         <variable>additional_information</variable>
         <variable_set/>
         <visible>ignore</visible>

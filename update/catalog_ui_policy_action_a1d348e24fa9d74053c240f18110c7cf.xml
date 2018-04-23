@@ -19,7 +19,7 @@
         <sys_updated_by>Divya_M</sys_updated_by>
         <sys_updated_on>2018-04-21 06:40:53</sys_updated_on>
         <table/>
-        <ui_policy display_value="Making additional fields manadatory">13a3c4e24fa9d74053c240f18110c7c7</ui_policy>
+        <ui_policy display_value="Making additional fields manadatory (ESM)">13a3c4e24fa9d74053c240f18110c7c7</ui_policy>
         <variable>additional_information</variable>
         <variable_set/>
         <visible>ignore</visible>

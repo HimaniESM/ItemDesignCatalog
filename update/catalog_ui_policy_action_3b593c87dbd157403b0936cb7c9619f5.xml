@@ -19,7 +19,7 @@
         <sys_updated_by>divya</sys_updated_by>
         <sys_updated_on>2018-04-10 13:36:06</sys_updated_on>
         <table/>
-        <ui_policy display_value="To make fields mandatory on load">9c49f887dbd157403b0936cb7c9619a1</ui_policy>
+        <ui_policy display_value="To make ESM Revoke Access item's fields mandatory on load (ESM)">9c49f887dbd157403b0936cb7c9619a1</ui_policy>
         <variable>requested_for</variable>
         <variable_set display_value="Revoke Access Set">0195b807dbd157403b0936cb7c961921</variable_set>
         <visible>ignore</visible>

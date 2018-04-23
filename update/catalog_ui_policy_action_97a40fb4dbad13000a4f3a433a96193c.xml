@@ -19,7 +19,7 @@
         <sys_updated_by>suganya_nagarajan</sys_updated_by>
         <sys_updated_on>2018-04-16 10:14:16</sys_updated_on>
         <table/>
-        <ui_policy display_value="Hide Other Location field">f5744bb4dbad13000a4f3a433a9619c1</ui_policy>
+        <ui_policy display_value="Hide Other Location field (ESM)">f5744bb4dbad13000a4f3a433a9619c1</ui_policy>
         <variable>other_locations_00</variable>
         <variable_set/>
         <visible>false</visible>

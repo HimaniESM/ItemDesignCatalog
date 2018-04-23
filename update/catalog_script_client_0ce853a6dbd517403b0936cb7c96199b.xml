@@ -4,8 +4,8 @@
         <active>true</active>
         <applies_catalog>true</applies_catalog>
         <applies_extended>false</applies_extended>
-        <applies_req_item>false</applies_req_item>
-        <applies_sc_task>false</applies_sc_task>
+        <applies_req_item>true</applies_req_item>
+        <applies_sc_task>true</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
         <cat_item display_value="Server Decommissioning">eb565fe2dbd517403b0936cb7c961940</cat_item>
@@ -15,41 +15,60 @@
         <field/>
         <global>true</global>
         <messages/>
-        <name>Populate Primary Owner</name>
+        <name>Esm_OnChange_ServerDecomposition</name>
         <order/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
 	if (isLoading || newValue == '') {
 		return;
 	}
 	
-	//Type appropriate comment here, and begin script below
-	
+	// To check and fetch value based on sever variable.
 	if(newValue != '')
 		{
-		var server = g_form.getReference('server_name', setOwner);
+		var ga = new GlideAjax("Esm_FetchUserDetails");
+		ga.addParam('sysparm_name','getServerOwner');
+		ga.addParam('sysparm_server',newValue);
+		ga.getXML(populatePrimaryOwner);
 	}
-	function setOwner(server) {
-		if (server)
-			//to populate field with the server owned by field value
-			g_form.setValue('primary_owner', server.owned_by);
+	else
+		{
+		g_form.setValue('primary_owner','');
 	}
 }
-]]></script>
+
+// To autopopulate the primary owner based on server variable value.
+function populatePrimaryOwner(response)
+{
+	try
+	{
+		var ownerData = response.responseXML.documentElement.getAttribute("answer");
+		if(ownerData != '')
+			{
+			g_form.setValue('primary_owner',ownerData);
+		}
+		
+	}
+	catch(exception)
+	{
+		jslog('exception'+exception + exception.lineNumber);
+	}
+	
+}]]></script>
         <sys_class_name>catalog_script_client</sys_class_name>
         <sys_created_by>divya</sys_created_by>
         <sys_created_on>2018-04-09 11:56:23</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0ce853a6dbd517403b0936cb7c96199b</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Populate Primary Owner</sys_name>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Esm_OnChange_ServerDecomposition</sys_name>
         <sys_overrides/>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>catalog_script_client_0ce853a6dbd517403b0936cb7c96199b</sys_update_name>
-        <sys_updated_by>divya</sys_updated_by>
-        <sys_updated_on>2018-04-17 10:28:01</sys_updated_on>
+        <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-23 10:34:45</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>10</ui_type>

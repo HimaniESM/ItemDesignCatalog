@@ -19,7 +19,7 @@
         <sys_updated_by>sushil</sys_updated_by>
         <sys_updated_on>2018-04-12 12:40:06</sys_updated_on>
         <table/>
-        <ui_policy display_value="making field mandatory onload">709f72abdb55d74003a29ea3db96198e</ui_policy>
+        <ui_policy display_value="making field mandatory onload (ESM)">709f72abdb55d74003a29ea3db96198e</ui_policy>
         <variable>sap_application</variable>
         <variable_set/>
         <visible>ignore</visible>

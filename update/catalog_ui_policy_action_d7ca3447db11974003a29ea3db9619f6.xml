@@ -19,7 +19,7 @@
         <sys_updated_by>sushil</sys_updated_by>
         <sys_updated_on>2018-04-10 13:42:15</sys_updated_on>
         <table/>
-        <ui_policy display_value="To Hide Unncessary Fields present in Variable set">e38a3047db11974003a29ea3db961990</ui_policy>
+        <ui_policy display_value="To Hide Unncessary Fields present in Variable set (ESM)">e38a3047db11974003a29ea3db961990</ui_policy>
         <variable>url</variable>
         <variable_set/>
         <visible>ignore</visible>

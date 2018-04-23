@@ -104,4 +104,41 @@
         <table>sc_cat_item</table>
         <type>calculated</type>
     </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>picture</file_name>
+        <image_height>100</image_height>
+        <image_width>100</image_width>
+        <size_bytes>1632</size_bytes>
+        <size_compressed>1655</size_compressed>
+        <sys_created_by>Sumanth_Ravilla</sys_created_by>
+        <sys_created_on>2018-04-21 18:04:55</sys_created_on>
+        <sys_id>e36066ae6f29d740d69dc8c17c3ee461</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Sumanth_Ravilla</sys_updated_by>
+        <sys_updated_on>2018-04-21 18:04:55</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>eb565fe2dbd517403b0936cb7c961940</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="e36066ae6f29d740d69dc8c17c3ee461">e36066ae6f29d740d69dc8c17c3ee461</sys_attachment>
+        <sys_created_by>Sumanth_Ravilla</sys_created_by>
+        <sys_created_on>2018-04-21 18:04:55</sys_created_on>
+        <sys_id>276066ae6f29d740d69dc8c17c3ee461</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2196</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="e36066ae6f29d740d69dc8c17c3ee461">e36066ae6f29d740d69dc8c17c3ee461</sys_attachment>
+        <sys_created_by>Sumanth_Ravilla</sys_created_by>
+        <sys_created_on>2018-04-21 18:04:55</sys_created_on>
+        <sys_id>a76066ae6f29d740d69dc8c17c3ee461</sys_id>
+    </sys_attachment_doc>
 </record_update>

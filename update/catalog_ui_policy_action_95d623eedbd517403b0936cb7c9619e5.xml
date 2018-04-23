@@ -19,7 +19,7 @@
         <sys_updated_by>suganya_nagarajan</sys_updated_by>
         <sys_updated_on>2018-04-09 12:56:57</sys_updated_on>
         <table/>
-        <ui_policy display_value="Make Request Description as Mandatory">1ab6efaedbd517403b0936cb7c9619a1</ui_policy>
+        <ui_policy display_value="Make Request Description as Mandatory (ESM)">1ab6efaedbd517403b0936cb7c9619a1</ui_policy>
         <variable>esm_reqdet_reqdesc</variable>
         <variable_set display_value="Request Details">bba36b2edbd517403b0936cb7c9619c5</variable_set>
         <visible>ignore</visible>

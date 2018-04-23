@@ -19,7 +19,7 @@
         <sys_updated_by>divya</sys_updated_by>
         <sys_updated_on>2018-04-10 09:36:14</sys_updated_on>
         <table/>
-        <ui_policy display_value="Make software type and OS field read only">3c62c047db5157403b0936cb7c961983</ui_policy>
+        <ui_policy display_value="Make software type and OS field read only (ESM)">3c62c047db5157403b0936cb7c961983</ui_policy>
         <variable>os</variable>
         <variable_set display_value="Software Services Variables">9af7bbbedb1157403b0936cb7c9619bf</variable_set>
         <visible>ignore</visible>

@@ -19,7 +19,7 @@
         <sys_updated_by>suganya_nagarajan</sys_updated_by>
         <sys_updated_on>2018-04-16 10:08:39</sys_updated_on>
         <table/>
-        <ui_policy display_value="Location to be connected as mandatory">5c538f74dbad13000a4f3a433a961903</ui_policy>
+        <ui_policy display_value="Location to be connected as mandatory (ESM)">5c538f74dbad13000a4f3a433a961903</ui_policy>
         <variable>locations_to_be_connected_00</variable>
         <variable_set/>
         <visible>ignore</visible>

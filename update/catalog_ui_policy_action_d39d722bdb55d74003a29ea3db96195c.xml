@@ -19,7 +19,7 @@
         <sys_updated_by>sushil</sys_updated_by>
         <sys_updated_on>2018-04-12 12:30:45</sys_updated_on>
         <table/>
-        <ui_policy display_value="Making Type of Access Mandatory">8a8d7ee7db55d74003a29ea3db9619ed</ui_policy>
+        <ui_policy display_value="Making Type of Access Mandatory (ESM)">8a8d7ee7db55d74003a29ea3db9619ed</ui_policy>
         <variable>type_of_access</variable>
         <variable_set/>
         <visible>ignore</visible>

@@ -104,4 +104,41 @@
         <table>sc_cat_item</table>
         <type>calculated</type>
     </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>picture</file_name>
+        <image_height>90</image_height>
+        <image_width>90</image_width>
+        <size_bytes>1842</size_bytes>
+        <size_compressed>1865</size_compressed>
+        <sys_created_by>Sumanth_Ravilla</sys_created_by>
+        <sys_created_on>2018-04-21 17:44:05</sys_created_on>
+        <sys_id>daab1eaa6f29d740d69dc8c17c3ee442</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Sumanth_Ravilla</sys_updated_by>
+        <sys_updated_on>2018-04-21 17:44:05</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>08ad0f36dbdd17403b0936cb7c9619c0</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="daab1eaa6f29d740d69dc8c17c3ee442">daab1eaa6f29d740d69dc8c17c3ee442</sys_attachment>
+        <sys_created_by>Sumanth_Ravilla</sys_created_by>
+        <sys_created_on>2018-04-21 17:44:05</sys_created_on>
+        <sys_id>1eab1eaa6f29d740d69dc8c17c3ee442</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2476</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="daab1eaa6f29d740d69dc8c17c3ee442">daab1eaa6f29d740d69dc8c17c3ee442</sys_attachment>
+        <sys_created_by>Sumanth_Ravilla</sys_created_by>
+        <sys_created_on>2018-04-21 17:44:05</sys_created_on>
+        <sys_id>9eab1eaa6f29d740d69dc8c17c3ee442</sys_id>
+    </sys_attachment_doc>
 </record_update>

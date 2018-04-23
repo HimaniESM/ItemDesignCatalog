@@ -19,7 +19,7 @@
         <sys_updated_by>divya</sys_updated_by>
         <sys_updated_on>2018-04-16 15:20:34</sys_updated_on>
         <table/>
-        <ui_policy display_value="To show/hide type of sim variable">88aa4c01db21530004bf6f048a9619b5</ui_policy>
+        <ui_policy display_value="ESM Mobile Items show/hide type of sim variable (ESM)">88aa4c01db21530004bf6f048a9619b5</ui_policy>
         <variable>type_of_sim</variable>
         <variable_set display_value="Mobile Item Variable Set">34a740cddbed130004bf6f048a9619db</variable_set>
         <visible>true</visible>

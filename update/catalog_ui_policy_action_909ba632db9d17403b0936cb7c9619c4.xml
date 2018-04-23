@@ -19,7 +19,7 @@
         <sys_updated_by>suganya_nagarajan</sys_updated_by>
         <sys_updated_on>2018-04-10 03:16:34</sys_updated_on>
         <table/>
-        <ui_policy display_value="Business Justification as Mandatory Field">e97b6632db9d17403b0936cb7c96196e</ui_policy>
+        <ui_policy display_value="Business Justification as Mandatory Field (ESM)">e97b6632db9d17403b0936cb7c96196e</ui_policy>
         <variable>Esm_CAC_BusJust</variable>
         <variable_set display_value="Request Details CAC">59f8eabedb5d17403b0936cb7c9619f2</variable_set>
         <visible>ignore</visible>

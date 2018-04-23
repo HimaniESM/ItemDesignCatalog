@@ -19,7 +19,7 @@
         <sys_updated_by>divya</sys_updated_by>
         <sys_updated_on>2018-04-10 13:40:11</sys_updated_on>
         <table/>
-        <ui_policy display_value="To Hide Unnecessary fields present in variable set">102a74c7dbd157403b0936cb7c96193a</ui_policy>
+        <ui_policy display_value="To Hide Unnecessary fields present in variable set (ESM)">102a74c7dbd157403b0936cb7c96193a</ui_policy>
         <variable>type_of_access</variable>
         <variable_set/>
         <visible>ignore</visible>

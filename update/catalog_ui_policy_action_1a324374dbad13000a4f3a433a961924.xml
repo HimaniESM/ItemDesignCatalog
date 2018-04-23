@@ -19,7 +19,7 @@
         <sys_updated_by>suganya_nagarajan</sys_updated_by>
         <sys_updated_on>2018-04-16 10:03:12</sys_updated_on>
         <table/>
-        <ui_policy display_value="Requestor's Information Mandatory fields">f2020374dbad13000a4f3a433a961928</ui_policy>
+        <ui_policy display_value="Requestor's Information Mandatory fields (ESM)">f2020374dbad13000a4f3a433a961928</ui_policy>
         <variable>Esm_CAC_ReqMgr</variable>
         <variable_set display_value="User Details C&amp;C">45b7ae7edb5d17403b0936cb7c9619ef</variable_set>
         <visible>ignore</visible>

@@ -19,7 +19,7 @@
         <sys_updated_by>suganya_nagarajan</sys_updated_by>
         <sys_updated_on>2018-04-10 03:23:04</sys_updated_on>
         <table/>
-        <ui_policy display_value="Make Request Type Mandatory">32fc6672db9d17403b0936cb7c9619a5</ui_policy>
+        <ui_policy display_value="Make Request Type Mandatory (ESM)">32fc6672db9d17403b0936cb7c9619a5</ui_policy>
         <variable>request_type_00</variable>
         <variable_set/>
         <visible>ignore</visible>

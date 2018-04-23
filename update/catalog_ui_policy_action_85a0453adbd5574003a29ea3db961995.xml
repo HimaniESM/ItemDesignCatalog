@@ -19,7 +19,7 @@
         <sys_updated_by>divya</sys_updated_by>
         <sys_updated_on>2018-04-09 19:29:24</sys_updated_on>
         <table/>
-        <ui_policy display_value="Hide Original Number">b260c13adbd5574003a29ea3db96195c</ui_policy>
+        <ui_policy display_value="Hide Original Number (ESM)">b260c13adbd5574003a29ea3db96195c</ui_policy>
         <variable>originalnumber</variable>
         <variable_set/>
         <visible>true</visible>

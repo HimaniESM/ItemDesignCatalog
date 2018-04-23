@@ -19,7 +19,7 @@
         <sys_updated_by>sushil</sys_updated_by>
         <sys_updated_on>2018-04-12 12:34:07</sys_updated_on>
         <table/>
-        <ui_policy display_value="To Hide Manager Field present in variable set">134e7e2bdb55d74003a29ea3db96192a</ui_policy>
+        <ui_policy display_value="To Hide Manager Field present in variable set (ESM)">134e7e2bdb55d74003a29ea3db96192a</ui_policy>
         <variable>requestor_manager</variable>
         <variable_set/>
         <visible>false</visible>

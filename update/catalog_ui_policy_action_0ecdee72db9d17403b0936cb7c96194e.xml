@@ -19,7 +19,7 @@
         <sys_updated_by>suganya_nagarajan</sys_updated_by>
         <sys_updated_on>2018-04-10 03:26:02</sys_updated_on>
         <table/>
-        <ui_policy display_value="Hide Allocation &amp; Deallocation date">529dae72db9d17403b0936cb7c96198a</ui_policy>
+        <ui_policy display_value="Hide Allocation &amp; Deallocation date (ESM)">529dae72db9d17403b0936cb7c96198a</ui_policy>
         <variable>deallocation_date_00</variable>
         <variable_set/>
         <visible>false</visible>

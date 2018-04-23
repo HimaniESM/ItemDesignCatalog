@@ -19,7 +19,7 @@
         <sys_updated_by>Divya_M</sys_updated_by>
         <sys_updated_on>2018-04-20 05:47:55</sys_updated_on>
         <table/>
-        <ui_policy display_value="Laptop fields mandatory/visible on selection">161e268e6f259740d69dc8c17c3ee48a</ui_policy>
+        <ui_policy display_value="Laptop fields mandatory/visible on selection (ESM)">161e268e6f259740d69dc8c17c3ee48a</ui_policy>
         <variable>select_laptop</variable>
         <variable_set/>
         <visible>true</visible>

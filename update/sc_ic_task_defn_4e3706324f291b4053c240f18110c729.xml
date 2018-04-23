@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_task_defn">
+    <sc_ic_task_defn action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assignment_details>Group: Network</assignment_details>
+        <assignment_group display_value="">287ebd7da9fe198100f92cc8d1d2154e</assignment_group>
+        <assignment_type>custom_assignment</assignment_type>
+        <assignment_user/>
+        <description/>
+        <order>100</order>
+        <sc_cat_item display_value="Internet Access">d75e7e2edb91574003a29ea3db9619ef</sc_cat_item>
+        <sc_ic_task_assign_defn_staging/>
+        <sc_ic_task_defn_staging display_value="Provide required internet access">c92e362edb91574003a29ea3db9619f2</sc_ic_task_defn_staging>
+        <short_description>Provide required internet access</short_description>
+        <sys_class_name>sc_ic_task_defn</sys_class_name>
+        <sys_created_by>Divya_M</sys_created_by>
+        <sys_created_on>2018-04-22 10:53:15</sys_created_on>
+        <sys_id>4e3706324f291b4053c240f18110c729</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Provide required internet access</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_ic_task_defn_4e3706324f291b4053c240f18110c729</sys_update_name>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-04-22 10:53:15</sys_updated_on>
+    </sc_ic_task_defn>
+    <sys_translated_text action="delete_multiple" query="documentkey=4e3706324f291b4053c240f18110c729"/>
+</record_update>
