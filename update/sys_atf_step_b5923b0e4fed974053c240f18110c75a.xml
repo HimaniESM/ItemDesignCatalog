@@ -20,7 +20,7 @@
         <sys_updated_by>Amit Kumar</sys_updated_by>
         <sys_updated_on>2018-04-20 10:46:55</sys_updated_on>
         <table/>
-        <test display_value="Conference Equipments -service catalog_itemDesigner copy">25923b0e4fed974053c240f18110c721</test>
+        <test display_value="Conference Equipments -service catalog_itemDesigner">25923b0e4fed974053c240f18110c721</test>
         <timeout/>
     </sys_atf_step>
     <sys_variable_value action="delete_multiple" query="document_key=b5923b0e4fed974053c240f18110c75a"/>

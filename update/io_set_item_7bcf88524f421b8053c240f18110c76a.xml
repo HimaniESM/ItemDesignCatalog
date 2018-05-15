@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>40</order>
+        <sc_cat_item display_value="ServiceNow Group Management">fb0fc8524f421b8053c240f18110c7d7</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>Divya_M</sys_created_by>
+        <sys_created_on>2018-05-15 09:25:59</sys_created_on>
+        <sys_id>7bcf88524f421b8053c240f18110c76a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Requestor Information(Group Management).ServiceNow Group Management</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>io_set_item_7bcf88524f421b8053c240f18110c76a</sys_update_name>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-05-15 10:11:05</sys_updated_on>
+        <variable_set display_value="Requestor Information(Group Management)">0ddd93064fced78053c240f18110c74b</variable_set>
+    </io_set_item>
+</record_update>

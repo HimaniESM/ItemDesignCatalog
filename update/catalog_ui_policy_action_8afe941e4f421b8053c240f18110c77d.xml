@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="ServiceNow Group Management">fb0fc8524f421b8053c240f18110c7d7</catalog_item>
+        <catalog_variable>IO:9659901a4f421b8053c240f18110c7aa</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>Divya_M</sys_created_by>
+        <sys_created_on>2018-05-15 10:32:26</sys_created_on>
+        <sys_id>8afe941e4f421b8053c240f18110c77d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>members_addition</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_8afe941e4f421b8053c240f18110c77d</sys_update_name>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-05-15 10:32:26</sys_updated_on>
+        <table/>
+        <ui_policy display_value="SNOW Group Management Hide/Show Members to be added">feee141e4f421b8053c240f18110c7d4</ui_policy>
+        <variable>members_addition</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
