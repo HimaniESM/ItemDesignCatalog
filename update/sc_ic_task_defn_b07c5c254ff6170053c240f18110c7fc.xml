@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_task_defn">
+    <sc_ic_task_defn action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assignment_details>Group: Network</assignment_details>
+        <assignment_group display_value="Network" name="Network">4f307ce04f925f8053c240f18110c70b</assignment_group>
+        <assignment_type>custom_assignment</assignment_type>
+        <assignment_user/>
+        <description/>
+        <order>100</order>
+        <sc_cat_item display_value="Remote Connectivity To Equipments">912defe6db15574003a29ea3db961936</sc_cat_item>
+        <sc_ic_task_assign_defn_staging/>
+        <sc_ic_task_defn_staging display_value="Please fullfill the appropiate request">4fec6fe6db15574003a29ea3db9619eb</sc_ic_task_defn_staging>
+        <short_description>Please fullfill the appropiate request</short_description>
+        <sys_class_name>sc_ic_task_defn</sys_class_name>
+        <sys_created_by>Divya_M</sys_created_by>
+        <sys_created_on>2018-06-19 09:12:51</sys_created_on>
+        <sys_id>b07c5c254ff6170053c240f18110c7fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Please fullfill the appropiate request</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_ic_task_defn_b07c5c254ff6170053c240f18110c7fc</sys_update_name>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-06-19 09:12:51</sys_updated_on>
+    </sc_ic_task_defn>
+    <sys_translated_text action="delete_multiple" query="documentkey=b07c5c254ff6170053c240f18110c7fc"/>
+</record_update>

@@ -50,17 +50,18 @@
         <sys_created_by>Divya_M</sys_created_by>
         <sys_created_on>2018-05-15 09:24:32</sys_created_on>
         <sys_id>fb0fc8524f421b8053c240f18110c7d7</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>ServiceNow Group Management</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sc_cat_item_fb0fc8524f421b8053c240f18110c7d7</sys_update_name>
         <sys_updated_by>Divya_M</sys_updated_by>
-        <sys_updated_on>2018-05-15 12:19:46</sys_updated_on>
+        <sys_updated_on>2018-05-21 12:39:05</sys_updated_on>
         <template/>
         <type>item</type>
-        <u_order_guide_attached/>
+        <u_order_guide_attached display_value="Group Management">6a74b7004f1a1f8053c240f18110c798</u_order_guide_attached>
+        <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
         <visible_bundle>true</visible_bundle>

@@ -10,10 +10,10 @@
         <name>GenericCatalogWFScripts</name>
         <script><![CDATA[var GenericCatalogWFScripts = Class.create();
 GenericCatalogWFScripts.prototype = {
-    initialize: function() {
-    },
-
-    type: 'GenericCatalogWFScripts',
+	initialize: function() {
+	},
+	
+	type: 'GenericCatalogWFScripts',
 	GroupApproval : function(level){
 		var approvers = [];
 		var gr = new GlideRecord('x_infte_esm_main_s_request_approval_generator');
@@ -25,6 +25,34 @@ GenericCatalogWFScripts.prototype = {
 			approvers.push(gr.approval_group);
 		}
 		return approvers;
+	},
+	groupManagerApproval : function(){
+		var managerApproval = [];
+		var manager = new GlideRecord('sys_user_group');
+		if(current.variables.group_name){
+			manager.addQuery('sys_id',current.variables.group_name);
+			manager.query();
+			if(manager.next()){
+				managerApproval.push(manager.manager);
+				
+			}
+		}
+		else if(current.variables.existing_group_name){
+			manager.addQuery('sys_id',current.variables.existing_group_name);
+			manager.query();
+			if(manager.next()){
+				managerApproval.push(manager.manager);
+			}
+		}
+		else if(current.variables.deactivate_group_name){
+			manager.addQuery('sys_id',current.variables.deactivate_group_name);
+			manager.query();
+			if(manager.next()){
+				managerApproval.push(manager.manager);
+				
+			}
+		}
+		return managerApproval;
 	},
 	managerApproval : function() {
 		var approver = [];
@@ -54,13 +82,13 @@ GenericCatalogWFScripts.prototype = {
         <sys_created_by>Divya_M</sys_created_by>
         <sys_created_on>2018-05-15 13:24:40</sys_created_on>
         <sys_id>2666c1da4fc21b8053c240f18110c7e1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>GenericCatalogWFScripts</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sys_script_include_2666c1da4fc21b8053c240f18110c7e1</sys_update_name>
         <sys_updated_by>Divya_M</sys_updated_by>
-        <sys_updated_on>2018-05-15 13:26:14</sys_updated_on>
+        <sys_updated_on>2018-05-22 04:36:04</sys_updated_on>
     </sys_script_include>
 </record_update>

@@ -3,7 +3,7 @@
     <sc_ic_task_defn_staging action="INSERT_OR_UPDATE">
         <active>true</active>
         <assignment_details>Group: Network</assignment_details>
-        <assignment_group display_value="">287ebd7da9fe198100f92cc8d1d2154e</assignment_group>
+        <assignment_group display_value="Network" name="Network">4f307ce04f925f8053c240f18110c70b</assignment_group>
         <assignment_type>custom_assignment</assignment_type>
         <assignment_user/>
         <description/>
@@ -15,14 +15,14 @@
         <sys_created_by>sushil</sys_created_by>
         <sys_created_on>2018-04-09 13:23:55</sys_created_on>
         <sys_id>4fec6fe6db15574003a29ea3db9619eb</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Please fullfill the appropiate request</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sc_ic_task_defn_staging_4fec6fe6db15574003a29ea3db9619eb</sys_update_name>
-        <sys_updated_by>sushil</sys_updated_by>
-        <sys_updated_on>2018-04-09 13:23:55</sys_updated_on>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-05-22 11:44:32</sys_updated_on>
     </sc_ic_task_defn_staging>
     <sys_translated_text action="delete_multiple" query="documentkey=4fec6fe6db15574003a29ea3db9619eb"/>
 </record_update>

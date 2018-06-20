@@ -66,6 +66,7 @@
         <two_step>true</two_step>
         <type>item</type>
         <u_order_guide_attached/>
+        <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <validator/>
         <vendor/>

@@ -27,19 +27,19 @@
         <sys_created_by>sushil</sys_created_by>
         <sys_created_on>2018-04-10 12:57:51</sys_created_on>
         <sys_id>dc60bc8fdbdd574003a29ea3db9619fb</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>SAP Access</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sc_ic_item_staging_dc60bc8fdbdd574003a29ea3db9619fb</sys_update_name>
         <sys_updated_by>Divya_M</sys_updated_by>
-        <sys_updated_on>2018-04-22 10:50:26</sys_updated_on>
+        <sys_updated_on>2018-05-22 11:50:08</sys_updated_on>
         <table_name/>
         <task_defn_changed>false</task_defn_changed>
         <var_defn_changed>false</var_defn_changed>
         <var_meta_changed>false</var_meta_changed>
-        <version>6.0</version>
+        <version>7.0</version>
         <workflow/>
     </sc_ic_item_staging>
     <fx_price action="delete_multiple" query="id=dc60bc8fdbdd574003a29ea3db9619fb"/>

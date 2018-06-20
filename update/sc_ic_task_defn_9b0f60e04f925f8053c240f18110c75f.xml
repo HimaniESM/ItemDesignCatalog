@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_task_defn">
+    <sc_ic_task_defn action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assignment_details>Group: Hardware</assignment_details>
+        <assignment_group display_value="Hardware" name="Hardware">d22a20204f925f8053c240f18110c7dc</assignment_group>
+        <assignment_type>custom_assignment</assignment_type>
+        <assignment_user/>
+        <description/>
+        <order>100</order>
+        <sc_cat_item display_value="Canon imageCLASS Laser Printer">13dababadb9d17403b0936cb7c961999</sc_cat_item>
+        <sc_ic_task_assign_defn_staging/>
+        <sc_ic_task_defn_staging display_value="task for allocating canon imageClass Laser Printer">debababadb9d17403b0936cb7c961952</sc_ic_task_defn_staging>
+        <short_description>task for allocating canon imageClass Laser Printer</short_description>
+        <sys_class_name>sc_ic_task_defn</sys_class_name>
+        <sys_created_by>Divya_M</sys_created_by>
+        <sys_created_on>2018-05-22 11:28:49</sys_created_on>
+        <sys_id>9b0f60e04f925f8053c240f18110c75f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>task for allocating canon imageClass Laser Printer</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_ic_task_defn_9b0f60e04f925f8053c240f18110c75f</sys_update_name>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-05-22 11:28:49</sys_updated_on>
+    </sc_ic_task_defn>
+    <sys_translated_text action="delete_multiple" query="documentkey=9b0f60e04f925f8053c240f18110c75f"/>
+</record_update>

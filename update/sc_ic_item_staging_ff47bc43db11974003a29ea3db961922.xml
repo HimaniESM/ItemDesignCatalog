@@ -27,19 +27,19 @@
         <sys_created_by>sushil</sys_created_by>
         <sys_created_on>2018-04-10 13:27:59</sys_created_on>
         <sys_id>ff47bc43db11974003a29ea3db961922</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Revoke Access from SAP</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sc_ic_item_staging_ff47bc43db11974003a29ea3db961922</sys_update_name>
-        <sys_updated_by>sushil</sys_updated_by>
-        <sys_updated_on>2018-04-10 13:28:43</sys_updated_on>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-05-22 11:45:50</sys_updated_on>
         <table_name/>
         <task_defn_changed>false</task_defn_changed>
         <var_defn_changed>false</var_defn_changed>
         <var_meta_changed>false</var_meta_changed>
-        <version>3.0</version>
+        <version>4.0</version>
         <workflow/>
     </sc_ic_item_staging>
     <fx_price action="delete_multiple" query="id=ff47bc43db11974003a29ea3db961922"/>

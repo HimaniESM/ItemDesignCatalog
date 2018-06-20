@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Apple iPhone 8">b541ebbbdb11d7403b0936cb7c9619c1</catalog_item>
+        <catalog_variable>IO:c571efbbdb11d7403b0936cb7c961904</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>Divya_M</sys_created_by>
+        <sys_created_on>2018-06-19 12:29:58</sys_created_on>
+        <sys_id>8089c1e14f7a170053c240f18110c784</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>replacement</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_8089c1e14f7a170053c240f18110c784</sys_update_name>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-06-19 12:29:58</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide Replacement or Broken Variable">0a4981e14f7a170053c240f18110c7fb</ui_policy>
+        <variable>replacement</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

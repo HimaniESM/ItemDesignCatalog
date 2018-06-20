@@ -4,8 +4,8 @@
         <active>true</active>
         <applies_catalog>true</applies_catalog>
         <applies_extended>false</applies_extended>
-        <applies_req_item>true</applies_req_item>
-        <applies_sc_task>true</applies_sc_task>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
         <cat_item display_value="Server Decommissioning">eb565fe2dbd517403b0936cb7c961940</cat_item>
@@ -60,15 +60,15 @@ function populatePrimaryOwner(response)
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0ce853a6dbd517403b0936cb7c96199b</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Esm_OnChange_ServerDecomposition</sys_name>
         <sys_overrides/>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>catalog_script_client_0ce853a6dbd517403b0936cb7c96199b</sys_update_name>
-        <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
-        <sys_updated_on>2018-04-23 10:34:45</sys_updated_on>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-05-22 11:01:17</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>10</ui_type>

@@ -42,7 +42,7 @@
         <roles/>
         <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_ic_item_staging display_value="Remote User Access">38b69ba6dbd1574003a29ea3db961942</sc_ic_item_staging>
-        <sc_ic_version>9</sc_ic_version>
+        <sc_ic_version>10</sc_ic_version>
         <short_description>Remote User Access offers employee and contractors remote connectivity across the Internet to secure customer network.</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
@@ -50,17 +50,18 @@
         <sys_created_by>sushil</sys_created_by>
         <sys_created_on>2018-04-09 12:16:09</sys_created_on>
         <sys_id>218ddf2edbd1574003a29ea3db9619f9</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Remote User Access</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sc_cat_item_218ddf2edbd1574003a29ea3db9619f9</sys_update_name>
         <sys_updated_by>Divya_M</sys_updated_by>
-        <sys_updated_on>2018-05-14 09:30:22</sys_updated_on>
+        <sys_updated_on>2018-06-19 09:06:07</sys_updated_on>
         <template/>
         <type>item</type>
         <u_order_guide_attached/>
+        <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
         <visible_bundle>true</visible_bundle>
@@ -81,9 +82,9 @@
         <sys_created_by>sushil</sys_created_by>
         <sys_created_on>2018-04-09 12:16:09</sys_created_on>
         <sys_id>ed8ddf2edbd1574003a29ea3db9619f9</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>sushil</sys_updated_by>
-        <sys_updated_on>2018-04-09 12:27:09</sys_updated_on>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-06-19 09:06:07</sys_updated_on>
         <table>sc_cat_item</table>
         <type>calculated</type>
     </fx_price>
@@ -98,47 +99,10 @@
         <sys_created_by>sushil</sys_created_by>
         <sys_created_on>2018-04-09 12:16:09</sys_created_on>
         <sys_id>698ddf2edbd1574003a29ea3db9619fa</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>sushil</sys_updated_by>
-        <sys_updated_on>2018-04-09 12:27:09</sys_updated_on>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-06-19 09:06:07</sys_updated_on>
         <table>sc_cat_item</table>
         <type>calculated</type>
     </fx_price>
-    <sys_attachment action="INSERT_OR_UPDATE">
-        <average_image_color>#455464</average_image_color>
-        <chunk_size_bytes>734003</chunk_size_bytes>
-        <compressed>true</compressed>
-        <content_type>image/png</content_type>
-        <file_name>picture</file_name>
-        <image_height>90</image_height>
-        <image_width>90</image_width>
-        <size_bytes>993</size_bytes>
-        <size_compressed>1016</size_compressed>
-        <sys_created_by>Sumanth_Ravilla</sys_created_by>
-        <sys_created_on>2018-04-21 17:56:37</sys_created_on>
-        <sys_id>318e9a2e6f29d740d69dc8c17c3ee464</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>Sumanth_Ravilla</sys_updated_by>
-        <sys_updated_on>2018-04-21 17:56:37</sys_updated_on>
-        <table_name>ZZ_YYsc_cat_item</table_name>
-        <table_sys_id>218ddf2edbd1574003a29ea3db9619f9</table_sys_id>
-    </sys_attachment>
-    <sys_attachment_doc action="INSERT_OR_UPDATE">
-        <data>H4sIAAAAAAAAAA==</data>
-        <length>16</length>
-        <position>0</position>
-        <sys_attachment display_value="picture" sys_id="318e9a2e6f29d740d69dc8c17c3ee464">318e9a2e6f29d740d69dc8c17c3ee464</sys_attachment>
-        <sys_created_by>Sumanth_Ravilla</sys_created_by>
-        <sys_created_on>2018-04-21 17:56:37</sys_created_on>
-        <sys_id>718e9a2e6f29d740d69dc8c17c3ee464</sys_id>
-    </sys_attachment_doc>
-    <sys_attachment_doc action="INSERT_OR_UPDATE">
-        <data>AeEDHvyJUE5HDQoaCgAAAA1JSERSAAAAWgAAAFoIBgAAADioQQIAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAADg0lEQVR42uydsXLTQBCGT8JF6PwIZuioHF4gdkEdMUNBF3mG3qGjMzyBSc+M7Z7CqSlsvwARDSUxHV38COziFdEoZtBJZ+nu9P8zNzcjny3582Zvb/ekKAVBEARBEARBEGSpAhMf8uLVmx513NSXz5/WwGoYNAGOqJumkEU7aktq1wR9CcQVQRPkmLrZf4al0DfcE/gdQOu7itsSb/1j6W2EXhY0W3Jc8dytgl4W9B11XYPX4T30oATkPnU3R7ymdQb6ts2gOcq4rOn6EmoLH6CXAX2bC+cUoBsGXYPb8BZ6YLHbKKqtTKYLgp74Aropt+E89MBBt+Ek9MBxt+EM9MAjt1FUjSS9goKQeRV45+GCrTboRUG75p+tg67jOkznN5yAzikBE/mXR0UHPn32/DF1g5aAPqHGf8Wvqb2j796j9vPH96+/jg6aTrLmk8kFtMWyU/F3PiEG1wpybAkuJapzCeX6QKSlRGJ2nlDnB0FLZDEDXKPQR+kCKRDIPQnfuuBjPHo55QxjRw7McpA/qH0KMgGr4hKvwFswJnKoK2yHAb3IIdsqM36ITTCVgT9gGuZi4zkgV5cwzE6GAwZ9ljmAONGcsizPwgPOGzI3Ef5VCB71CKBrUsehWXwsE3c+1l8eWonBovUhzyRUiv6xoOLjMxp3IwUKgC4BmeuUccHhvFhY2Qo7tBgypwV0i8F9ZWkB2WaLHpd83wVA61tnGfUAuiZgEqUAtMuW6SPoNUBbLhszkDaD3sKi69E3n1yOjz56A9B6fjYp6T6WAK2vheb4xNaCsu2gPyq9qs8VJsNy7mOnAS+xOSftQhxd1E9vJeNnpayssMhGFM7CRRpLcR4b0XvX6v4exB1AP4TLCftY7dOjVSxzIG1Kn8kRyJUNE2THEsC8hcp0wj794WI6B4N+2+TSPLQA8kodvyqSlrmmrQOdgVznNuFLOu/7tln0RDWzF3vSRHQSNmTNPdVsEXXSFoseq2YVtQV007dvdCVW9x70wILQvdsG0K1TU6ATgAZof5bgtBQeUTeCRUMA7Qto3Dl7pPCRQWfL8+fgY0xZlhsGnS3Px/J0A6iChGGW4zK96X6VW63NlX6pH9rrIgeZHxU0TMO7l2r/hPPUr+R/EaicdsJ2PxlKEfNUebZVtmExyydpgfjQE2gidf8EGkhfW4X/2AFBEARBEARBkEv6LcAAEAo2o6H+wFEAAAAASUVORK5CYIKxZ8Qd4QMAAA==</data>
-        <length>1344</length>
-        <position>1</position>
-        <sys_attachment display_value="picture" sys_id="318e9a2e6f29d740d69dc8c17c3ee464">318e9a2e6f29d740d69dc8c17c3ee464</sys_attachment>
-        <sys_created_by>Sumanth_Ravilla</sys_created_by>
-        <sys_created_on>2018-04-21 17:56:37</sys_created_on>
-        <sys_id>f18e9a2e6f29d740d69dc8c17c3ee464</sys_id>
-    </sys_attachment_doc>
 </record_update>

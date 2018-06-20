@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_task_defn">
+    <sc_ic_task_defn action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assignment_details>Group: Hardware</assignment_details>
+        <assignment_group display_value="Hardware" name="Hardware">d22a20204f925f8053c240f18110c7dc</assignment_group>
+        <assignment_type>custom_assignment</assignment_type>
+        <assignment_user/>
+        <description/>
+        <order>100</order>
+        <sc_cat_item display_value="Mac Book Pro Power Adapter">b18e1b7edb1d574003a29ea3db961984</sc_cat_item>
+        <sc_ic_task_assign_defn_staging/>
+        <sc_ic_task_defn_staging display_value="Please eprovie the required adapter">676e1b7edb1d574003a29ea3db9619a8</sc_ic_task_defn_staging>
+        <short_description>Please eprovie the required adapter</short_description>
+        <sys_class_name>sc_ic_task_defn</sys_class_name>
+        <sys_created_by>Divya_M</sys_created_by>
+        <sys_created_on>2018-05-22 11:39:24</sys_created_on>
+        <sys_id>de713c244f925f8053c240f18110c79f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Please eprovie the required adapter</sys_name>
+        <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
+        <sys_update_name>sc_ic_task_defn_de713c244f925f8053c240f18110c79f</sys_update_name>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-05-22 11:39:24</sys_updated_on>
+    </sc_ic_task_defn>
+    <sys_translated_text action="delete_multiple" query="documentkey=de713c244f925f8053c240f18110c79f"/>
+</record_update>

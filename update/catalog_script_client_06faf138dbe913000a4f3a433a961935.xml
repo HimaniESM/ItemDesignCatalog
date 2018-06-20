@@ -4,8 +4,8 @@
         <active>true</active>
         <applies_catalog>true</applies_catalog>
         <applies_extended>false</applies_extended>
-        <applies_req_item>true</applies_req_item>
-        <applies_sc_task>true</applies_sc_task>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
         <cat_item display_value="Access to restricted areas">4ba8727adb9d17403b0936cb7c9619f4</cat_item>
@@ -18,8 +18,8 @@
         <name>ESM_OnChange_ReqMgrPopulate</name>
         <order/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
-	if (isLoading || newValue === '') {
-      return;}
+// 	if (isLoading || newValue === '') {
+//       return;}
 	// To check and fetch value based on Requested For variable.
 	if(newValue != '')
 		{
@@ -58,7 +58,7 @@ function populateUserFields(response)
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>06faf138dbe913000a4f3a433a961935</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_name>ESM_OnChange_ReqMgrPopulate</sys_name>
         <sys_overrides/>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
@@ -66,7 +66,7 @@ function populateUserFields(response)
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>catalog_script_client_06faf138dbe913000a4f3a433a961935</sys_update_name>
         <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
-        <sys_updated_on>2018-04-23 10:34:15</sys_updated_on>
+        <sys_updated_on>2018-06-18 12:50:32</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>10</ui_type>
