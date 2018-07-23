@@ -3,14 +3,14 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Onboarding">8a8422866f259740d69dc8c17c3ee493</cat_item>
+        <cat_item/>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
         <choice_table/>
         <create_roles/>
         <default_html_value/>
-        <default_value/>
+        <default_value>javascript:gs.getUserID();</default_value>
         <delete_roles/>
         <delivery_plan/>
         <description/>
@@ -37,17 +37,17 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>access_selected</name>
-        <order>2250</order>
+        <name>requested_for</name>
+        <order>200</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>Access Selected</question_text>
+        <question_text>Requested For</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
         <record_producer_table/>
-        <reference/>
+        <reference>sys_user</reference>
         <reference_qual/>
         <reference_qual_condition/>
         <scale_max>5</scale_max>
@@ -58,24 +58,24 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>Divya_M</sys_created_by>
-        <sys_created_on>2018-04-20 09:35:12</sys_created_on>
-        <sys_id>0812e70a6fe59740d69dc8c17c3ee447</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Access Selected</sys_name>
+        <sys_created_on>2018-06-20 05:26:33</sys_created_on>
+        <sys_id>ef32f87d4f32570053c240f18110c7c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested For</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
-        <sys_update_name>item_option_new_0812e70a6fe59740d69dc8c17c3ee447</sys_update_name>
-        <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
-        <sys_updated_on>2018-06-20 04:33:52</sys_updated_on>
+        <sys_update_name>item_option_new_ef32f87d4f32570053c240f18110c7c4</sys_update_name>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-06-20 05:26:33</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>6</type>
+        <type>8</type>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <variable_name/>
-        <variable_set/>
+        <variable_set display_value="Onboarding Item Variable set">3fa1387d4f32570053c240f18110c72d</variable_set>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>
@@ -84,22 +84,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=0812e70a6fe59740d69dc8c17c3ee447"/>
-    <fx_price action="delete_multiple" query="id=0812e70a6fe59740d69dc8c17c3ee447"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=ef32f87d4f32570053c240f18110c7c4"/>
+    <fx_price action="delete_multiple" query="id=ef32f87d4f32570053c240f18110c7c4"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>0812e70a6fe59740d69dc8c17c3ee447</id>
+        <id>ef32f87d4f32570053c240f18110c7c4</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>Divya_M</sys_created_by>
-        <sys_created_on>2018-04-20 09:35:12</sys_created_on>
-        <sys_id>1722af0a6fe59740d69dc8c17c3ee473</sys_id>
+        <sys_created_on>2018-06-20 05:26:33</sys_created_on>
+        <sys_id>6b32f87d4f32570053c240f18110c7c6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>Divya_M</sys_updated_by>
-        <sys_updated_on>2018-04-20 09:35:12</sys_updated_on>
+        <sys_updated_on>2018-06-20 05:26:33</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -107,16 +107,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>0812e70a6fe59740d69dc8c17c3ee447</id>
+        <id>ef32f87d4f32570053c240f18110c7c4</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>Divya_M</sys_created_by>
-        <sys_created_on>2018-04-20 09:35:12</sys_created_on>
-        <sys_id>5722af0a6fe59740d69dc8c17c3ee472</sys_id>
+        <sys_created_on>2018-06-20 05:26:33</sys_created_on>
+        <sys_id>2332f87d4f32570053c240f18110c7c6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>Divya_M</sys_updated_by>
-        <sys_updated_on>2018-04-20 09:35:12</sys_updated_on>
+        <sys_updated_on>2018-06-20 05:26:33</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>

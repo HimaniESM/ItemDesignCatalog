@@ -6,89 +6,89 @@
         <display_name>Open an Existing Record</display_name>
         <inputs/>
         <inputs/>
-        <order>17</order>
+        <order>11</order>
         <step_config display_value="Open an Existing Record">5f2e0e535332120028bc29cac2dc34d3</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>Amit Kumar</sys_created_by>
-        <sys_created_on>2018-04-20 10:38:15</sys_created_on>
-        <sys_id>ee80f78a4fed974053c240f18110c738</sys_id>
+        <sys_created_on>2018-07-20 08:50:09</sys_created_on>
+        <sys_id>08808caf6f9b1b40d69dc8c17c3ee4d9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Open an Existing Record</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
-        <sys_update_name>sys_atf_step_ee80f78a4fed974053c240f18110c738</sys_update_name>
+        <sys_update_name>sys_atf_step_08808caf6f9b1b40d69dc8c17c3ee4d9</sys_update_name>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 10:38:15</sys_updated_on>
+        <sys_updated_on>2018-07-20 08:50:09</sys_updated_on>
         <table>sc_req_item</table>
-        <test display_value="Cleaning -service catalog_itemDesigner">b021e78a4fad974053c240f18110c72d</test>
+        <test display_value="Conferencing Service Request -service catalog_itemDesigner">3435f7ce4fed974053c240f18110c77a</test>
         <timeout/>
     </sys_atf_step>
-    <sys_variable_value action="delete_multiple" query="document_key=ee80f78a4fed974053c240f18110c738"/>
+    <sys_variable_value action="delete_multiple" query="document_key=08808caf6f9b1b40d69dc8c17c3ee4d9"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
-        <document_key>ee80f78a4fed974053c240f18110c738</document_key>
+        <document_key>08808caf6f9b1b40d69dc8c17c3ee4d9</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>Amit Kumar</sys_created_by>
-        <sys_created_on>2018-04-20 10:38:15</sys_created_on>
-        <sys_id>3a907b8a4fed974053c240f18110c710</sys_id>
+        <sys_created_on>2018-07-20 08:50:09</sys_created_on>
+        <sys_id>6280ccaf6f9b1b40d69dc8c17c3ee486</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 10:38:15</sys_updated_on>
+        <sys_updated_on>2018-07-20 08:50:09</sys_updated_on>
         <value>sc_req_item</value>
         <variable display_value="">b124164e53a0220002c6435723dc34c5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
-        <document_key>ee80f78a4fed974053c240f18110c738</document_key>
+        <document_key>08808caf6f9b1b40d69dc8c17c3ee4d9</document_key>
         <order>300</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>Amit Kumar</sys_created_by>
-        <sys_created_on>2018-04-20 10:38:15</sys_created_on>
-        <sys_id>76907b8a4fed974053c240f18110c710</sys_id>
+        <sys_created_on>2018-07-20 08:50:09</sys_created_on>
+        <sys_id>ae80ccaf6f9b1b40d69dc8c17c3ee485</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 10:38:15</sys_updated_on>
+        <sys_updated_on>2018-07-20 08:50:09</sys_updated_on>
         <value/>
         <variable display_value="">6e55da4e53a0220002c6435723dc34a0</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
-        <document_key>ee80f78a4fed974053c240f18110c738</document_key>
+        <document_key>08808caf6f9b1b40d69dc8c17c3ee4d9</document_key>
         <order>200</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>Amit Kumar</sys_created_by>
-        <sys_created_on>2018-04-20 10:38:15</sys_created_on>
-        <sys_id>b2907b8a4fed974053c240f18110c710</sys_id>
+        <sys_created_on>2018-07-20 08:50:09</sys_created_on>
+        <sys_id>ea80ccaf6f9b1b40d69dc8c17c3ee485</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 10:38:15</sys_updated_on>
+        <sys_updated_on>2018-07-20 08:50:09</sys_updated_on>
         <value/>
         <variable display_value="">ad351a4e53a0220002c6435723dc34f0</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=ee80f78a4fed974053c240f18110c738"/>
+    <sys_element_mapping action="delete_multiple" query="id=08808caf6f9b1b40d69dc8c17c3ee4d9"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>record_id</field>
-        <id>ee80f78a4fed974053c240f18110c738</id>
+        <id>08808caf6f9b1b40d69dc8c17c3ee4d9</id>
         <sys_created_by>Amit Kumar</sys_created_by>
-        <sys_created_on>2018-04-20 10:38:15</sys_created_on>
-        <sys_id>7e907b8a4fed974053c240f18110c70f</sys_id>
+        <sys_created_on>2018-07-20 08:50:09</sys_created_on>
+        <sys_id>a680ccaf6f9b1b40d69dc8c17c3ee485</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 10:38:15</sys_updated_on>
+        <sys_updated_on>2018-07-20 08:50:09</sys_updated_on>
         <table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table>
-        <value>{{step['c463e70e4fad974053c240f18110c727'].first_record}}</value>
+        <value>{{step['dc2088af6f9b1b40d69dc8c17c3ee441'].first_record}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>view</field>
-        <id>ee80f78a4fed974053c240f18110c738</id>
+        <id>08808caf6f9b1b40d69dc8c17c3ee4d9</id>
         <sys_created_by>Amit Kumar</sys_created_by>
-        <sys_created_on>2018-04-20 10:38:15</sys_created_on>
-        <sys_id>32907b8a4fed974053c240f18110c710</sys_id>
+        <sys_created_on>2018-07-20 08:50:09</sys_created_on>
+        <sys_id>6a80ccaf6f9b1b40d69dc8c17c3ee485</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 10:38:15</sys_updated_on>
+        <sys_updated_on>2018-07-20 08:50:09</sys_updated_on>
         <table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table>
         <value/>
     </sys_element_mapping>
