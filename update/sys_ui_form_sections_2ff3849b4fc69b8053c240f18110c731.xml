@@ -11,7 +11,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sc_cat_item_producer" name="sc_cat_item_producer" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">2ff3849b4fc69b8053c240f18110c731</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="sc_cat_item_producer" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">a7f3849b4fc69b8053c240f18110c733</sys_ui_section>
+            <sys_ui_section display_value="">a7f3849b4fc69b8053c240f18110c733</sys_ui_section>
             <sys_updated_by>Divya_M</sys_updated_by>
             <sys_updated_on>2018-05-18 11:08:16</sys_updated_on>
         </sys_ui_form_section>
@@ -25,7 +25,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sc_cat_item_producer" name="sc_cat_item_producer" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">2ff3849b4fc69b8053c240f18110c731</sys_ui_form>
-            <sys_ui_section caption="Details" display_value="Details" name="sc_cat_item_producer" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">27f3849b4fc69b8053c240f18110c737</sys_ui_section>
+            <sys_ui_section display_value="">27f3849b4fc69b8053c240f18110c737</sys_ui_section>
             <sys_updated_by>Divya_M</sys_updated_by>
             <sys_updated_on>2018-05-18 11:08:16</sys_updated_on>
         </sys_ui_form_section>
@@ -39,7 +39,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sc_cat_item_producer" name="sc_cat_item_producer" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">2ff3849b4fc69b8053c240f18110c731</sys_ui_form>
-            <sys_ui_section caption="Costs" display_value="Costs" name="sc_cat_item_producer" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">a3f3849b4fc69b8053c240f18110c739</sys_ui_section>
+            <sys_ui_section display_value="">a3f3849b4fc69b8053c240f18110c739</sys_ui_section>
             <sys_updated_by>Divya_M</sys_updated_by>
             <sys_updated_on>2018-05-18 11:08:16</sys_updated_on>
         </sys_ui_form_section>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <description>Search for 'Brother Network-ready' in 'Service Catalog' and 'Printers' category and confirm that the search returns 'Brother Network-Ready Color Laser Printer' item</description>
         <display_name>Search for a Catalog Item</display_name>
         <inputs/>
@@ -11,14 +11,14 @@
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-04-20 09:19:59</sys_created_on>
         <sys_id>18be534a4fad974053c240f18110c757</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Search for a Catalog Item</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sys_atf_step_18be534a4fad974053c240f18110c757</sys_update_name>
-        <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 09:26:21</sys_updated_on>
+        <sys_updated_by>Manjeet</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:58:11</sys_updated_on>
         <table/>
         <test display_value="Brother Network-ready Color Laser Printer -service catalog copy">54be134a4fad974053c240f18110c7ed</test>
         <timeout/>

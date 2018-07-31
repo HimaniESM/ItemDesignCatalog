@@ -3,7 +3,8 @@
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
         <description>Answer the questions on the form as follows:
-Request Description = Test</description>
+Request Description = Test
+and Location = 1050 Sunnyview Road Northeast, Salem,OR</description>
         <display_name>Set Variable Values</display_name>
         <inputs/>
         <order>5</order>
@@ -12,14 +13,14 @@ Request Description = Test</description>
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-04-20 05:32:26</sys_created_on>
         <sys_id>c79a66424f2d974053c240f18110c72a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Set Variable Values</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sys_atf_step_c79a66424f2d974053c240f18110c72a</sys_update_name>
-        <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 05:32:26</sys_updated_on>
+        <sys_updated_by>Manjeet</sys_updated_by>
+        <sys_updated_on>2018-07-24 10:21:13</sys_updated_on>
         <table/>
         <test display_value="Video conference meeting assistance -Service Catalog _itemDesign">439a26424f2d974053c240f18110c7f3</test>
         <timeout/>
@@ -33,10 +34,10 @@ Request Description = Test</description>
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-04-20 05:32:26</sys_created_on>
         <sys_id>4f9a66424f2d974053c240f18110c72b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 05:32:26</sys_updated_on>
-        <value>13ad671b6fc55b00d69dc8c17c3ee4b9</value>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Manjeet</sys_updated_by>
+        <sys_updated_on>2018-07-24 10:07:46</sys_updated_on>
+        <value>cc33e2badb5d17403b0936cb7c9619ce</value>
         <variable display_value="">571e6a25c3b2220076173b0ac3d3ae46</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -47,10 +48,10 @@ Request Description = Test</description>
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-04-20 05:32:26</sys_created_on>
         <sys_id>8b9a66424f2d974053c240f18110c72b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 05:32:26</sys_updated_on>
-        <value>IO:0a52558f6f491b00d69dc8c17c3ee4fa=Test^EQ</value>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Manjeet</sys_updated_by>
+        <sys_updated_on>2018-07-24 10:21:13</sys_updated_on>
+        <value>IO:6bc3eb2edbd517403b0936cb7c9619a6=Test^IO:e313232edbd517403b0936cb7c9619af=108486c7c611227500b093211aa88dcc^EQ</value>
         <variable display_value="">346eea25c3b2220076173b0ac3d3ae8b</variable>
     </sys_variable_value>
 </record_update>

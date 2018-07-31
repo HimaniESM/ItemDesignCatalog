@@ -3,7 +3,7 @@
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
         <description>Answer the questions on the form as follows:
-Allocation Date = 2018-04-24 17:00:00
+Allocation Date = 2018-07-25 17:00:00
 and Do you need recording feature enabled? = Yes
 and Business Justification = test</description>
         <display_name>Set Variable Values</display_name>
@@ -14,14 +14,14 @@ and Business Justification = test</description>
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-04-20 10:58:20</sys_created_on>
         <sys_id>c1353bce4fed974053c240f18110c784</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Set Variable Values</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sys_atf_step_c1353bce4fed974053c240f18110c784</sys_update_name>
-        <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 11:01:44</sys_updated_on>
+        <sys_updated_by>Manjeet</sys_updated_by>
+        <sys_updated_on>2018-07-24 10:43:07</sys_updated_on>
         <table/>
         <test display_value="Conferencing Service Request -service catalog_itemDesigner">3435f7ce4fed974053c240f18110c77a</test>
         <timeout/>
@@ -49,10 +49,10 @@ and Business Justification = test</description>
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-04-20 10:58:20</sys_created_on>
         <sys_id>8d353bce4fed974053c240f18110c784</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 11:01:44</sys_updated_on>
-        <value>IO:840a97bedbdd17403b0936cb7c9619c0=2018-04-25 00:00:00^IO:400a97bedbdd17403b0936cb7c9619c6=Yes^IO:f549aebedb5d17403b0936cb7c9619bb=test^EQ</value>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Manjeet</sys_updated_by>
+        <sys_updated_on>2018-07-24 10:43:07</sys_updated_on>
+        <value>IO:840a97bedbdd17403b0936cb7c9619c0=2018-07-26 00:00:00^IO:400a97bedbdd17403b0936cb7c9619c6=Yes^IO:f549aebedb5d17403b0936cb7c9619bb=test^EQ</value>
         <variable display_value="">346eea25c3b2220076173b0ac3d3ae8b</variable>
     </sys_variable_value>
 </record_update>

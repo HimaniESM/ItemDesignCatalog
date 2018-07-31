@@ -11,7 +11,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sc_cat_item_guide" name="sc_cat_item_guide" sys_domain="global" view="Default view">f9ec23426f299740d69dc8c17c3ee4b9</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="sc_cat_item_guide" sys_domain="global" view="Default view">06ec23426f299740d69dc8c17c3ee4bb</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sc_cat_item_guide" sys_domain="global" view="Default view">32cfb15f7f00000101ee64eb990b33ba</sys_ui_section>
             <sys_updated_by>Divya_M</sys_updated_by>
             <sys_updated_on>2018-04-20 10:22:05</sys_updated_on>
         </sys_ui_form_section>
@@ -25,7 +25,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sc_cat_item_guide" name="sc_cat_item_guide" sys_domain="global" view="Default view">f9ec23426f299740d69dc8c17c3ee4b9</sys_ui_form>
-            <sys_ui_section caption="Mobile" display_value="Mobile" name="sc_cat_item_guide" sys_domain="global" view="Default view">c2ec23426f299740d69dc8c17c3ee4bf</sys_ui_section>
+            <sys_ui_section display_value="">c2ec23426f299740d69dc8c17c3ee4bf</sys_ui_section>
             <sys_updated_by>Divya_M</sys_updated_by>
             <sys_updated_on>2018-04-20 10:22:05</sys_updated_on>
         </sys_ui_form_section>

@@ -51,14 +51,14 @@
         <sys_created_by>suganya_nagarajan</sys_created_by>
         <sys_created_on>2018-04-10 04:45:41</sys_created_on>
         <sys_id>3c0047fadb9d17403b0936cb7c9619e3</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Raise any Security Concerns </sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sc_cat_item_3c0047fadb9d17403b0936cb7c9619e3</sys_update_name>
-        <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
-        <sys_updated_on>2018-04-21 14:23:20</sys_updated_on>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:49:00</sys_updated_on>
         <template/>
         <type>item</type>
         <u_order_guide_attached/>
@@ -71,6 +71,46 @@
         <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=3c0047fadb9d17403b0936cb7c9619e3"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>3c0047fadb9d17403b0936cb7c9619e3</documentkey>
+        <fieldname>description</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:48:48</sys_created_on>
+        <sys_id>f5962038db63d7409e19323b7c961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:48:48</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>&lt;div&gt;Any suspecious or any doubts abour your and your colleagues safety, please reach out to facilities.&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>3c0047fadb9d17403b0936cb7c9619e3</documentkey>
+        <fieldname>name</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:48:48</sys_created_on>
+        <sys_id>7d962038db63d7409e19323b7c96194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:48:48</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>Raise any Security Concerns </value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>3c0047fadb9d17403b0936cb7c9619e3</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:48:48</sys_created_on>
+        <sys_id>35962038db63d7409e19323b7c96194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:48:48</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>Raise any Security Concerns </value>
+    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=3c0047fadb9d17403b0936cb7c9619e3"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>

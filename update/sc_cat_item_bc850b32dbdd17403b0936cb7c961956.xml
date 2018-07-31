@@ -50,14 +50,14 @@
         <sys_created_by>suganya_nagarajan</sys_created_by>
         <sys_created_on>2018-04-10 05:09:43</sys_created_on>
         <sys_id>bc850b32dbdd17403b0936cb7c961956</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Pest controls</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sc_cat_item_bc850b32dbdd17403b0936cb7c961956</sys_update_name>
-        <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
-        <sys_updated_on>2018-04-21 14:21:13</sys_updated_on>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:48:10</sys_updated_on>
         <template/>
         <type>item</type>
         <u_order_guide_attached/>
@@ -70,6 +70,45 @@
         <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=bc850b32dbdd17403b0936cb7c961956"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>bc850b32dbdd17403b0936cb7c961956</documentkey>
+        <fieldname>description</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:48:00</sys_created_on>
+        <sys_id>f5666cf4db63d7409e19323b7c9619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:48:00</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>&lt;p&gt; Any suspicious or any doubts about your and your colleagues safety, please reach out to facilities.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>bc850b32dbdd17403b0936cb7c961956</documentkey>
+        <fieldname>name</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:47:59</sys_created_on>
+        <sys_id>7d666cf4db63d7409e19323b7c9619b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:47:59</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>Pest controls</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>bc850b32dbdd17403b0936cb7c961956</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:47:59</sys_created_on>
+        <sys_id>35666cf4db63d7409e19323b7c9619b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:47:59</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>House keeping - Pest controls</value>
+    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=bc850b32dbdd17403b0936cb7c961956"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>

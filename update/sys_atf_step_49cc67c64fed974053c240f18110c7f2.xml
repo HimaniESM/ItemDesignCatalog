@@ -5,20 +5,20 @@
         <description>Open 'SharePoint Access' catalog item</description>
         <display_name>Open a Catalog Item</display_name>
         <inputs/>
-        <order>3</order>
+        <order>2</order>
         <step_config display_value="Open a Catalog Item">2516c0e1c332220076173b0ac3d3ae39</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>Sushil Kumar</sys_created_by>
         <sys_created_on>2018-04-20 10:21:43</sys_created_on>
         <sys_id>49cc67c64fed974053c240f18110c7f2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Open a Catalog Item</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sys_atf_step_49cc67c64fed974053c240f18110c7f2</sys_update_name>
-        <sys_updated_by>Sushil Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 10:21:43</sys_updated_on>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:52:12</sys_updated_on>
         <table/>
         <test display_value="SharePoint Access_ServiceCatalog_ItemDesign">b84c23864fed974053c240f18110c733</test>
         <timeout/>

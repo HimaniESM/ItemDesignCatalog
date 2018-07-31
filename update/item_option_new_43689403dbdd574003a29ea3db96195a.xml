@@ -49,7 +49,7 @@
         <record_producer_table/>
         <reference>sc_cat_item</reference>
         <reference_qual>u_order_guide_attached=a0d6d4cfdb9d574003a29ea3db9619bf^EQ</reference_qual>
-        <reference_qual_condition table="sc_cat_item">u_order_guide_attached=a0d6d4cfdb9d574003a29ea3db9619bf^EQ<item display_table="sc_cat_item_guide" display_value="Request/Modify Access" endquery="false" field="u_order_guide_attached" goto="false" newquery="false" operator="=" or="false" value="a0d6d4cfdb9d574003a29ea3db9619bf"/>
+        <reference_qual_condition table="sc_cat_item">u_order_guide_attached=a0d6d4cfdb9d574003a29ea3db9619bf^EQ<item endquery="false" field="u_order_guide_attached" goto="false" newquery="false" operator="=" or="false" value="a0d6d4cfdb9d574003a29ea3db9619bf"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </reference_qual_condition>
         <scale_max>5</scale_max>

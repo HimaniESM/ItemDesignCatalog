@@ -56,14 +56,14 @@
         <sys_created_by>suganya_nagarajan</sys_created_by>
         <sys_created_on>2018-04-17 10:55:53</sys_created_on>
         <sys_id>fbd71cd9db69530004bf6f048a96191f</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Development Laptop (PC)</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sc_cat_item_fbd71cd9db69530004bf6f048a96191f</sys_update_name>
-        <sys_updated_by>Divya_M</sys_updated_by>
-        <sys_updated_on>2018-05-22 11:29:54</sys_updated_on>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:54:36</sys_updated_on>
         <template/>
         <type>item</type>
         <u_order_guide_attached/>
@@ -76,6 +76,51 @@
         <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=fbd71cd9db69530004bf6f048a96191f"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>fbd71cd9db69530004bf6f048a96191f</documentkey>
+        <fieldname>description</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:54:28</sys_created_on>
+        <sys_id>f8e7e0b8db63d7409e19323b7c961916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:54:28</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>&lt;div&gt;Dell XPS 13&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;The corporate standard laptop for developers. High performance processing and storage.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Specifications:&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;3.1 GHz Intel Core i7 processor&lt;/li&gt;&lt;li&gt;250 GB or 500GB Solid State Drive&lt;/li&gt;&lt;li&gt;8 GB RAM&lt;/li&gt;&lt;li&gt;Microsoft Windows 8 or Ubuntu&lt;/li&gt;&lt;li&gt;Tomcat, Eclipse, Firefox, Chrome&lt;/li&gt;&lt;/ul&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>fbd71cd9db69530004bf6f048a96191f</documentkey>
+        <fieldname>name</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:54:27</sys_created_on>
+        <sys_id>60e7e0b8db63d7409e19323b7c961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:54:27</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>Development Laptop (PC)</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>fbd71cd9db69530004bf6f048a96191f</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:54:28</sys_created_on>
+        <sys_id>28e7e0b8db63d7409e19323b7c961913</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:54:28</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>Development Laptop (PC)</value>
+    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=fbd71cd9db69530004bf6f048a96191f"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>

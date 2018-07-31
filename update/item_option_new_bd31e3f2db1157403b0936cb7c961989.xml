@@ -49,7 +49,7 @@
         <record_producer_table/>
         <reference>sc_cat_item</reference>
         <reference_qual>u_order_guide_attached=82f063f2db1157403b0936cb7c96191c^EQ</reference_qual>
-        <reference_qual_condition table="sc_cat_item">u_order_guide_attached=82f063f2db1157403b0936cb7c96191c^EQ<item display_table="sc_cat_item_guide" display_value="Request For Software" endquery="false" field="u_order_guide_attached" goto="false" newquery="false" operator="=" or="false" value="82f063f2db1157403b0936cb7c96191c"/>
+        <reference_qual_condition table="sc_cat_item">u_order_guide_attached=82f063f2db1157403b0936cb7c96191c^EQ<item endquery="false" field="u_order_guide_attached" goto="false" newquery="false" operator="=" or="false" value="82f063f2db1157403b0936cb7c96191c"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </reference_qual_condition>
         <scale_max>5</scale_max>

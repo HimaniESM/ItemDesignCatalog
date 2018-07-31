@@ -49,7 +49,7 @@
         <record_producer_table/>
         <reference>sc_cat_item</reference>
         <reference_qual>u_order_guide_attached=6a74b7004f1a1f8053c240f18110c798^EQ</reference_qual>
-        <reference_qual_condition table="sc_cat_item">u_order_guide_attached=6a74b7004f1a1f8053c240f18110c798^EQ<item display_table="sc_cat_item_guide" display_value="Group Management" endquery="false" field="u_order_guide_attached" goto="false" newquery="false" operator="=" or="false" value="6a74b7004f1a1f8053c240f18110c798"/>
+        <reference_qual_condition table="sc_cat_item">u_order_guide_attached=6a74b7004f1a1f8053c240f18110c798^EQ<item endquery="false" field="u_order_guide_attached" goto="false" newquery="false" operator="=" or="false" value="6a74b7004f1a1f8053c240f18110c798"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </reference_qual_condition>
         <scale_max>5</scale_max>

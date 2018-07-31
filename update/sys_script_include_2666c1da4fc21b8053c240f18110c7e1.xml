@@ -4,16 +4,22 @@
         <access>package_private</access>
         <active>true</active>
         <api_name>x_infte_esm_itemde.GenericCatalogWFScripts</api_name>
-        <caller_access/>
         <client_callable>true</client_callable>
         <description/>
         <name>GenericCatalogWFScripts</name>
         <script><![CDATA[var GenericCatalogWFScripts = Class.create();
+
+//*********************************************************************
+//This Script Include is used for the Generic Catalog WF Scripts for Item Designer
+//This script include will generate approvals
+//*********************************************************************
+
 GenericCatalogWFScripts.prototype = {
 	initialize: function() {
 	},
 	
 	type: 'GenericCatalogWFScripts',
+	//GroupApproval function fetches approvers from x_infte_esm_main_s_request_approval_generator table
 	GroupApproval : function(level){
 		var approvers = [];
 		var gr = new GlideRecord('x_infte_esm_main_s_request_approval_generator');
@@ -26,6 +32,8 @@ GenericCatalogWFScripts.prototype = {
 		}
 		return approvers;
 	},
+	
+//groupManagerApproval function fetches Group Manager approver from sys_user_group table
 	groupManagerApproval : function(){
 		var managerApproval = [];
 		var manager = new GlideRecord('sys_user_group');
@@ -54,24 +62,26 @@ GenericCatalogWFScripts.prototype = {
 		}
 		return managerApproval;
 	},
+	
+	//managerApproval function fetches Requestor's Manager approver
 	managerApproval : function() {
 		var approver = [];
 		approver.push(current.variables.requestor_manager);
 		return approver;
 	},
-	
+	//costCenterManagerApproval function fetches Cost Center's Manager approver
 	costCenterManagerApproval : function(){
 		var costApprover = [];
 		costApprover.push(current.variables.cost_center.manager);
 		return costApprover;
 	},
-	
+	//serverPrimaryOwnerApproval function fetches Server CI's Primary Owner approver from the variable
 	serverPrimaryOwnerApproval : function(){
 		var serverApprover = [];
 		serverApprover.push(current.variables.server_name.owned_by);
 		return serverApprover;
 	},
-	
+	//databasePrimaryOwnerApproval function fetches Database CI's Primary Owner approver from the variable
 	databasePrimaryOwnerApproval : function(){
 		var databaseApprover = [];
 		databaseApprover.push(current.variables.database_name.owned_by);
@@ -82,13 +92,13 @@ GenericCatalogWFScripts.prototype = {
         <sys_created_by>Divya_M</sys_created_by>
         <sys_created_on>2018-05-15 13:24:40</sys_created_on>
         <sys_id>2666c1da4fc21b8053c240f18110c7e1</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>GenericCatalogWFScripts</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sys_script_include_2666c1da4fc21b8053c240f18110c7e1</sys_update_name>
-        <sys_updated_by>Divya_M</sys_updated_by>
-        <sys_updated_on>2018-05-22 04:36:04</sys_updated_on>
+        <sys_updated_by>Manjeet</sys_updated_by>
+        <sys_updated_on>2018-07-24 15:03:14</sys_updated_on>
     </sys_script_include>
 </record_update>

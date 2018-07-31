@@ -34,30 +34,4 @@
         <title>Access Management</title>
     </sc_category>
     <sys_translated_text action="delete_multiple" query="documentkey=368614cfdb9d574003a29ea3db9619de"/>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>368614cfdb9d574003a29ea3db9619de</documentkey>
-        <fieldname>description</fieldname>
-        <language>fr</language>
-        <sys_created_by>Divya_M</sys_created_by>
-        <sys_created_on>2018-07-12 13:34:01</sys_created_on>
-        <sys_id>bac4fb386fd3d340d69dc8c17c3ee4eb</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya_M</sys_updated_by>
-        <sys_updated_on>2018-07-12 13:34:01</sys_updated_on>
-        <tablename>sc_category</tablename>
-        <value/>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>368614cfdb9d574003a29ea3db9619de</documentkey>
-        <fieldname>title</fieldname>
-        <language>fr</language>
-        <sys_created_by>Divya_M</sys_created_by>
-        <sys_created_on>2018-07-12 13:34:01</sys_created_on>
-        <sys_id>b2c4fb386fd3d340d69dc8c17c3ee4ee</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya_M</sys_updated_by>
-        <sys_updated_on>2018-07-12 13:34:01</sys_updated_on>
-        <tablename>sc_category</tablename>
-        <value>Gestion des accès</value>
-    </sys_translated_text>
 </record_update>

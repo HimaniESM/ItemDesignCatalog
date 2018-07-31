@@ -10,7 +10,7 @@
         <result_action_value>This helped</result_action_value>
         <results_header_text>Catalog Results</results_header_text>
         <results_per_page>10</results_per_page>
-        <sc_cat_item display_value="Can't Find Anything">0a690c2e4fa9d74053c240f18110c717</sc_cat_item>
+        <sc_cat_item display_value="">0a690c2e4fa9d74053c240f18110c717</sc_cat_item>
         <search_variable display_value="Short Description">392bcc6e4fa9d74053c240f18110c718</search_variable>
         <sys_class_name>cxs_rp_config</sys_class_name>
         <sys_created_by>Divya_M</sys_created_by>

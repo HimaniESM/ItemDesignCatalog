@@ -3,8 +3,7 @@
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
         <description>Validate that the answer match the following condition:
-Reason For Allocation STARTSWITH Testing
-and Validity Date ON 2018-04-27</description>
+Reason For Allocation = Testing</description>
         <display_name>Validate Variable Values</display_name>
         <inputs/>
         <order>6</order>
@@ -13,14 +12,14 @@ and Validity Date ON 2018-04-27</description>
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-04-20 06:40:44</sys_created_on>
         <sys_id>6b3a3a024f6d974053c240f18110c71a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Validate Variable Values</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sys_atf_step_6b3a3a024f6d974053c240f18110c71a</sys_update_name>
-        <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 06:45:44</sys_updated_on>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-24 10:41:07</sys_updated_on>
         <table/>
         <test display_value="Adobe Acrobat pro-service catalog _itemDesigner ">5f3af6024f6d974053c240f18110c7c0</test>
         <timeout/>
@@ -34,10 +33,10 @@ and Validity Date ON 2018-04-27</description>
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-04-20 06:40:44</sys_created_on>
         <sys_id>ab3a3a024f6d974053c240f18110c71b</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 06:45:44</sys_updated_on>
-        <value>IO:ec96c48ddbed130004bf6f048a961970STARTSWITHTesting^IO:ca1cf372db5157403b0936cb7c9619a5ON2018-04-27@javascript:gs.dateGenerate('2018-04-27','start')@javascript:gs.dateGenerate('2018-04-27','end')^EQ</value>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-24 10:41:07</sys_updated_on>
+        <value>IO:ec96c48ddbed130004bf6f048a961970=Testing^EQ</value>
         <variable display_value="">8a682649c37e220076173b0ac3d3ae47</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">

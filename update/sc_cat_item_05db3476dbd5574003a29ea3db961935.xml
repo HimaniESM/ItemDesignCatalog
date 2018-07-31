@@ -50,14 +50,14 @@
         <sys_created_by>divya</sys_created_by>
         <sys_created_on>2018-04-09 19:08:10</sys_created_on>
         <sys_id>05db3476dbd5574003a29ea3db961935</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Office Printer</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sc_cat_item_05db3476dbd5574003a29ea3db961935</sys_update_name>
-        <sys_updated_by>Divya_M</sys_updated_by>
-        <sys_updated_on>2018-05-22 11:42:12</sys_updated_on>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:45:02</sys_updated_on>
         <template/>
         <type>item</type>
         <u_order_guide_attached/>
@@ -70,6 +70,45 @@
         <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=05db3476dbd5574003a29ea3db961935"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>05db3476dbd5574003a29ea3db961935</documentkey>
+        <fieldname>description</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:44:41</sys_created_on>
+        <sys_id>61a52cb4db63d7409e19323b7c9619d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:44:41</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>&lt;p&gt;&lt;span style="color: #808080; font-family: SourceSansPro, &amp;#39;Helvetica Neue&amp;#39;, Arial; font-size: 13.3333px;"&gt;Base model plus 16 MB additional RAM (64 MB RAM total), HP Jetdirect Fast Ethernet Embedded Print Server&lt;/span&gt;&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>05db3476dbd5574003a29ea3db961935</documentkey>
+        <fieldname>name</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:44:41</sys_created_on>
+        <sys_id>e1a52cb4db63d7409e19323b7c9619d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:44:41</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>Office Printer</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>05db3476dbd5574003a29ea3db961935</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:44:41</sys_created_on>
+        <sys_id>ada52cb4db63d7409e19323b7c9619d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:44:41</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>HP Laserjet 4240n</value>
+    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=05db3476dbd5574003a29ea3db961935"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>

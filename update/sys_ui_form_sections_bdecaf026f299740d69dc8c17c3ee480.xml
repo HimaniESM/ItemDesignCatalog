@@ -11,7 +11,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sc_cat_item_guide" name="sc_cat_item_guide" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">bdecaf026f299740d69dc8c17c3ee480</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="sc_cat_item_guide" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">b1ec23426f299740d69dc8c17c3ee4b2</sys_ui_section>
+            <sys_ui_section display_value="">b1ec23426f299740d69dc8c17c3ee4b2</sys_ui_section>
             <sys_updated_by>Divya_M</sys_updated_by>
             <sys_updated_on>2018-04-20 10:22:05</sys_updated_on>
         </sys_ui_form_section>
@@ -25,7 +25,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sc_cat_item_guide" name="sc_cat_item_guide" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">bdecaf026f299740d69dc8c17c3ee480</sys_ui_form>
-            <sys_ui_section caption="Details" display_value="Details" name="sc_cat_item_guide" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">31ec23426f299740d69dc8c17c3ee4b6</sys_ui_section>
+            <sys_ui_section display_value="">31ec23426f299740d69dc8c17c3ee4b6</sys_ui_section>
             <sys_updated_by>Divya_M</sys_updated_by>
             <sys_updated_on>2018-04-20 10:22:05</sys_updated_on>
         </sys_ui_form_section>
@@ -39,7 +39,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sc_cat_item_guide" name="sc_cat_item_guide" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">bdecaf026f299740d69dc8c17c3ee480</sys_ui_form>
-            <sys_ui_section caption="Costs" display_value="Costs" name="sc_cat_item_guide" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">fdec23426f299740d69dc8c17c3ee4b7</sys_ui_section>
+            <sys_ui_section display_value="">fdec23426f299740d69dc8c17c3ee4b7</sys_ui_section>
             <sys_updated_by>Divya_M</sys_updated_by>
             <sys_updated_on>2018-04-20 10:22:05</sys_updated_on>
         </sys_ui_form_section>

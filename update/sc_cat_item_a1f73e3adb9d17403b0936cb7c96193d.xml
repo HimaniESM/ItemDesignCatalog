@@ -52,14 +52,14 @@
         <sys_created_by>divya</sys_created_by>
         <sys_created_on>2018-04-10 04:10:31</sys_created_on>
         <sys_id>a1f73e3adb9d17403b0936cb7c96193d</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Apple iPad 5</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sc_cat_item_a1f73e3adb9d17403b0936cb7c96193d</sys_update_name>
-        <sys_updated_by>Divya_M</sys_updated_by>
-        <sys_updated_on>2018-05-22 11:26:52</sys_updated_on>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:43:23</sys_updated_on>
         <template/>
         <type>item</type>
         <u_order_guide_attached/>
@@ -72,6 +72,47 @@
         <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=a1f73e3adb9d17403b0936cb7c96193d"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>a1f73e3adb9d17403b0936cb7c96193d</documentkey>
+        <fieldname>description</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:43:08</sys_created_on>
+        <sys_id>3a452834db63d7409e19323b7c96197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:43:08</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>&lt;p style="box-sizing: border-box; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &amp;#39;Helvetica Neue&amp;#39;, Arial; font-size: 13px;"&gt;&lt;span style="box-sizing: border-box; font-size: 12pt;"&gt;&lt;span style="box-sizing: border-box; color: gray;"&gt;iPad with Retina display Wi-Fi 32GB - Gold&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &amp;#39;Helvetica Neue&amp;#39;, Arial; font-size: 13px;"&gt;&lt;span style="box-sizing: border-box; color: gray;"&gt;Key Features:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="box-sizing: border-box; padding: 0px; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &amp;#39;Helvetica Neue&amp;#39;, Arial; font-size: 13px; list-style-position: inside;"&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;Retina display (2048x1536 resolution)&lt;/li&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;32GB storage&lt;/li&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;Wi-Fi enabled&lt;/li&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;Built-in speaker, microphone and camera&lt;/li&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;Up to 10 hours battery life&lt;/li&gt;&lt;/ul&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>a1f73e3adb9d17403b0936cb7c96193d</documentkey>
+        <fieldname>name</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:43:08</sys_created_on>
+        <sys_id>32452834db63d7409e19323b7c96195c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:43:08</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>Apple iPad 5</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>a1f73e3adb9d17403b0936cb7c96193d</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:43:08</sys_created_on>
+        <sys_id>76452834db63d7409e19323b7c961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:43:08</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>Apple iPad 5</value>
+    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=a1f73e3adb9d17403b0936cb7c96193d"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>555.55</amount>

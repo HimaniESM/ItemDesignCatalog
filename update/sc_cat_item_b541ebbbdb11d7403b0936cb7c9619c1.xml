@@ -53,14 +53,14 @@
         <sys_created_by>divya</sys_created_by>
         <sys_created_on>2018-04-13 09:44:57</sys_created_on>
         <sys_id>b541ebbbdb11d7403b0936cb7c9619c1</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Apple iPhone 8</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sc_cat_item_b541ebbbdb11d7403b0936cb7c9619c1</sys_update_name>
-        <sys_updated_by>Divya_M</sys_updated_by>
-        <sys_updated_on>2018-05-22 11:27:22</sys_updated_on>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:44:23</sys_updated_on>
         <template/>
         <type>item</type>
         <u_order_guide_attached/>
@@ -73,6 +73,48 @@
         <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=b541ebbbdb11d7403b0936cb7c9619c1"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>b541ebbbdb11d7403b0936cb7c9619c1</documentkey>
+        <fieldname>description</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:43:41</sys_created_on>
+        <sys_id>be65a834db63d7409e19323b7c9619a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:43:41</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>&lt;p style="box-sizing: border-box; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &amp;#39;Helvetica Neue&amp;#39;, Arial; font-size: 13px;"&gt;&lt;span style="box-sizing: border-box; font-size: 10pt; color: gray;"&gt;Apple&amp;#39;s iPhone 8 isn&amp;#39;t just bigger—it&amp;#39;s better in every way. A 4.7-inch Retina HD display. An A11 Bionic chip with 64-bit architecture.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &amp;#39;Helvetica Neue&amp;#39;, Arial; font-size: 13px;"&gt;&lt;span style="box-sizing: border-box; font-size: 10pt; color: gray;"&gt;Key Features:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="box-sizing: border-box; padding: 0px; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &amp;#39;Helvetica Neue&amp;#39;, Arial; font-size: 13px; list-style-position: inside;"&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;4.7-inch (diagonal) widescreen LCD Multi‑Touch display with IPS technology&lt;/li&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;1334x750-pixel resolution at 326 ppi&lt;/li&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;1400:1 contrast ratio (typical)&lt;/li&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;625 cd/m² max brightness (typical)&lt;/li&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;Dual-domain pixels for wide viewing angles&lt;/li&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;Fingerprint-resistant oleophobic coating&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>b541ebbbdb11d7403b0936cb7c9619c1</documentkey>
+        <fieldname>name</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:43:41</sys_created_on>
+        <sys_id>3665a834db63d7409e19323b7c9619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:43:41</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>Apple iPhone 8</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>b541ebbbdb11d7403b0936cb7c9619c1</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:43:41</sys_created_on>
+        <sys_id>fa65a834db63d7409e19323b7c9619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:43:41</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>Apple iPhone 8</value>
+    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=b541ebbbdb11d7403b0936cb7c9619c1"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>799</amount>

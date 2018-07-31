@@ -16,6 +16,6 @@
         <sys_updated_by>Amit Kumar</sys_updated_by>
         <sys_updated_on>2018-07-20 06:52:17</sys_updated_on>
         <test display_value="toPopulatePrimaryOwner">5539210f4fed1b4053c240f18110c795</test>
-        <test_suite display_value="Script Include">2c25ef1f6f5b1b40d69dc8c17c3ee416</test_suite>
+        <test_suite display_value="Script Includes">2c25ef1f6f5b1b40d69dc8c17c3ee416</test_suite>
     </sys_atf_test_suite_test>
 </record_update>

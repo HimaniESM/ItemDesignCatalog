@@ -11,7 +11,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="atf_input_variable" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ba922dc74fed1b4053c240f18110c719</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">b292210b4fed1b4053c240f18110c7cb</sys_ui_section>
+            <sys_ui_section display_value="">b292210b4fed1b4053c240f18110c7cb</sys_ui_section>
             <sys_updated_by>Kevin_Domadia</sys_updated_by>
             <sys_updated_on>2018-04-23 02:51:46</sys_updated_on>
         </sys_ui_form_section>
@@ -25,7 +25,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="atf_input_variable" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ba922dc74fed1b4053c240f18110c719</sys_ui_form>
-            <sys_ui_section caption="Reference Specification" display_value="Reference Specification" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">b692210b4fed1b4053c240f18110c7ce</sys_ui_section>
+            <sys_ui_section display_value="">b692210b4fed1b4053c240f18110c7ce</sys_ui_section>
             <sys_updated_by>Kevin_Domadia</sys_updated_by>
             <sys_updated_on>2018-04-23 02:51:46</sys_updated_on>
         </sys_ui_form_section>
@@ -39,7 +39,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="atf_input_variable" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ba922dc74fed1b4053c240f18110c719</sys_ui_form>
-            <sys_ui_section caption="Choice List Specification" display_value="Choice List Specification" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fe922dc74fed1b4053c240f18110c71b</sys_ui_section>
+            <sys_ui_section display_value="">fe922dc74fed1b4053c240f18110c71b</sys_ui_section>
             <sys_updated_by>Kevin_Domadia</sys_updated_by>
             <sys_updated_on>2018-04-23 02:51:46</sys_updated_on>
         </sys_ui_form_section>
@@ -53,7 +53,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="atf_input_variable" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ba922dc74fed1b4053c240f18110c719</sys_ui_form>
-            <sys_ui_section caption="Dependent Field" display_value="Dependent Field" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">b6922dc74fed1b4053c240f18110c71e</sys_ui_section>
+            <sys_ui_section display_value="">b6922dc74fed1b4053c240f18110c71e</sys_ui_section>
             <sys_updated_by>Kevin_Domadia</sys_updated_by>
             <sys_updated_on>2018-04-23 02:51:46</sys_updated_on>
         </sys_ui_form_section>
@@ -67,7 +67,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="atf_input_variable" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ba922dc74fed1b4053c240f18110c719</sys_ui_form>
-            <sys_ui_section caption="Calculated Value" display_value="Calculated Value" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">7e92210b4fed1b4053c240f18110c7c9</sys_ui_section>
+            <sys_ui_section display_value="">7e92210b4fed1b4053c240f18110c7c9</sys_ui_section>
             <sys_updated_by>Kevin_Domadia</sys_updated_by>
             <sys_updated_on>2018-04-23 02:51:46</sys_updated_on>
         </sys_ui_form_section>
@@ -81,7 +81,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="atf_input_variable" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ba922dc74fed1b4053c240f18110c719</sys_ui_form>
-            <sys_ui_section caption="Default Value" display_value="Default Value" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">f292210b4fed1b4053c240f18110c7d1</sys_ui_section>
+            <sys_ui_section display_value="">f292210b4fed1b4053c240f18110c7d1</sys_ui_section>
             <sys_updated_by>Kevin_Domadia</sys_updated_by>
             <sys_updated_on>2018-04-23 02:51:46</sys_updated_on>
         </sys_ui_form_section>

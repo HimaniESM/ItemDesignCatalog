@@ -3,7 +3,7 @@
     <sc_ic_task_defn action="INSERT_OR_UPDATE">
         <active>true</active>
         <assignment_details>Group: Service Desk</assignment_details>
-        <assignment_group display_value="Service Desk" name="Service Desk">f8363f3f6ff89300d69dc8c17c3ee4cd</assignment_group>
+        <assignment_group display_value="Service Desk" name="Service Desk">d625dccec0a8016700a222a0f7900d06</assignment_group>
         <assignment_type>custom_assignment</assignment_type>
         <assignment_user/>
         <description/>

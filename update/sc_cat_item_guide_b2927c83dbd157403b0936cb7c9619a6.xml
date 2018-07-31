@@ -8,7 +8,7 @@
         <category display_value="Application Access">5cb6d84fdb9d574003a29ea3db96194b</category>
         <cost>0</cost>
         <custom_cart/>
-        <delivery_plan display_value="">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
         <description><![CDATA[<p><strong><span style="font-size: 14.0pt; color: black;">You can use this form to revoke access or change your permissions for the following: </span></strong></p>
@@ -58,14 +58,14 @@
         <sys_created_by>divya</sys_created_by>
         <sys_created_on>2018-04-10 13:07:14</sys_created_on>
         <sys_id>b2927c83dbd157403b0936cb7c9619a6</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Revoke  Access</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sc_cat_item_guide_b2927c83dbd157403b0936cb7c9619a6</sys_update_name>
-        <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
-        <sys_updated_on>2018-06-18 05:47:32</sys_updated_on>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:59:52</sys_updated_on>
         <template/>
         <two_step>true</two_step>
         <type>item</type>
@@ -80,6 +80,49 @@
         <workflow/>
     </sc_cat_item_guide>
     <sys_translated_text action="delete_multiple" query="documentkey=b2927c83dbd157403b0936cb7c9619a6"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>b2927c83dbd157403b0936cb7c9619a6</documentkey>
+        <fieldname>description</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:59:26</sys_created_on>
+        <sys_id>a9092cf8db63d7409e19323b7c96198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:59:26</sys_updated_on>
+        <tablename>sc_cat_item_guide</tablename>
+        <value>&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: 14.0pt; color: black;"&gt;You can use this form to revoke access or change your permissions for the following: &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li style="color: black;"&gt;&lt;span style="font-size: 14.0pt;"&gt;ServiceNow&lt;/span&gt;&lt;/li&gt;&lt;li style="color: black;"&gt;&lt;span style="font-size: 14.0pt;"&gt;SharePoint&lt;/span&gt;&lt;/li&gt;&lt;li style="color: black;"&gt;&lt;span style="font-size: 14.0pt;"&gt;SAP&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: 14.0pt; color: black;"&gt;To ensure your request is efficiently processed, please ensure you select the right item from the drop down and provide as much detail as possible in the description of the request.&lt;/span&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14.0pt; font-style: italic; color: black;"&gt;Do not use this form to revoke access to applications not listed in the drop down. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>b2927c83dbd157403b0936cb7c9619a6</documentkey>
+        <fieldname>name</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:59:26</sys_created_on>
+        <sys_id>69092cf8db63d7409e19323b7c961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:59:26</sys_updated_on>
+        <tablename>sc_cat_item_guide</tablename>
+        <value>Revoke  Access</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>b2927c83dbd157403b0936cb7c9619a6</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:59:26</sys_created_on>
+        <sys_id>29092cf8db63d7409e19323b7c961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:59:26</sys_updated_on>
+        <tablename>sc_cat_item_guide</tablename>
+        <value>Create a request to revoke access from applications provided in the list.</value>
+    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=b2927c83dbd157403b0936cb7c9619a6"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>

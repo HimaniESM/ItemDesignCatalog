@@ -3,7 +3,7 @@
     <sc_ic_task_defn_staging action="INSERT_OR_UPDATE">
         <active>true</active>
         <assignment_details>Group: Software</assignment_details>
-        <assignment_group display_value="Software" name="Software">f1caa4204f925f8053c240f18110c779</assignment_group>
+        <assignment_group display_value="Software" name="Software">8a4dde73c6112278017a6a4baf547aa7</assignment_group>
         <assignment_type>custom_assignment</assignment_type>
         <assignment_user/>
         <description/>

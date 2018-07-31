@@ -52,14 +52,14 @@
         <sys_created_by>divya</sys_created_by>
         <sys_created_on>2018-04-10 04:23:12</sys_created_on>
         <sys_id>13dababadb9d17403b0936cb7c961999</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Canon imageCLASS Laser Printer</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sc_cat_item_13dababadb9d17403b0936cb7c961999</sys_update_name>
-        <sys_updated_by>Divya_M</sys_updated_by>
-        <sys_updated_on>2018-05-22 11:28:49</sys_updated_on>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:45:02</sys_updated_on>
         <template/>
         <type>item</type>
         <u_order_guide_attached/>
@@ -72,6 +72,47 @@
         <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=13dababadb9d17403b0936cb7c961999"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>13dababadb9d17403b0936cb7c961999</documentkey>
+        <fieldname>description</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:44:42</sys_created_on>
+        <sys_id>a9a52cb4db63d7409e19323b7c9619f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:44:42</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>&lt;p style="box-sizing: border-box; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &amp;#39;Helvetica Neue&amp;#39;, Arial; font-size: 13px;"&gt;&lt;span style="box-sizing: border-box; font-size: 12pt;"&gt;&lt;span style="box-sizing: border-box; color: gray;"&gt;Efficient and High-quality Black and White Laser Output&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &amp;#39;Helvetica Neue&amp;#39;, Arial; font-size: 13px;"&gt;&lt;span style="box-sizing: border-box; color: gray;"&gt;Smart Paper Handling&lt;br style="box-sizing: border-box;" /&gt;The LBP6650dn boast print speeds of up to 35 pages-per-minute (ppm) for letter-sized output, and delivers Quick First Prints in approximately 6 seconds. The unit also offers a large paper handling of up to 250 pages in a front-loading cassette and provides duplex output for printing professional-quality documents.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &amp;#39;Helvetica Neue&amp;#39;, Arial; font-size: 13px;"&gt;&lt;span style="box-sizing: border-box; color: gray;"&gt;Networkable&lt;br style="box-sizing: border-box;" /&gt;The imageCLASS LBP6650dn delivers large-office network capabilities in an affordable compact package. It is networkable over an Ethernet, so everyone can easily share printing capabilities directly from their PC.&lt;/span&gt;&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>13dababadb9d17403b0936cb7c961999</documentkey>
+        <fieldname>name</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:44:42</sys_created_on>
+        <sys_id>21a52cb4db63d7409e19323b7c9619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:44:42</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>Canon imageCLASS Laser Printer</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>13dababadb9d17403b0936cb7c961999</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>und</language>
+        <sys_created_by>Divya.M</sys_created_by>
+        <sys_created_on>2018-07-24 08:44:42</sys_created_on>
+        <sys_id>e5a52cb4db63d7409e19323b7c9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya.M</sys_updated_by>
+        <sys_updated_on>2018-07-24 08:44:42</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>Canon - imageCLASS LBP-6650DN Laser Printer - Monochrome - 2400 x 600dpi Print - Plain Paper Print </value>
+    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=13dababadb9d17403b0936cb7c961999"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>499.99</amount>

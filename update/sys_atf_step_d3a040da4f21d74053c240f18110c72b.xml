@@ -3,9 +3,7 @@
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
         <description>Validate that the answer match the following condition:
-Requested For = ESM ESS USER
-and Cost Center = Service Support
-and Business Justification = TEST
+Additional Information = TEST
 and SAP Application = HANA</description>
         <display_name>Validate Variable Values</display_name>
         <inputs/>
@@ -15,14 +13,14 @@ and SAP Application = HANA</description>
         <sys_created_by>Sushil Kumar</sys_created_by>
         <sys_created_on>2018-04-20 11:49:14</sys_created_on>
         <sys_id>d3a040da4f21d74053c240f18110c72b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Validate Variable Values</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sys_atf_step_d3a040da4f21d74053c240f18110c72b</sys_update_name>
-        <sys_updated_by>Sushil Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 11:49:14</sys_updated_on>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-24 11:06:05</sys_updated_on>
         <table/>
         <test display_value="SAP Access_ServiceCatalog_ItemDesign">1a20c89a4f21d74053c240f18110c72d</test>
         <timeout/>
@@ -36,10 +34,10 @@ and SAP Application = HANA</description>
         <sys_created_by>Sushil Kumar</sys_created_by>
         <sys_created_on>2018-04-20 11:49:14</sys_created_on>
         <sys_id>22d040da4f21d74053c240f18110c7ff</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Sushil Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-20 11:49:14</sys_updated_on>
-        <value>IO:6a67802bdb9497407b9b9ea3db9619c7=0625f1946f11db00d69dc8c17c3ee496^IO:9c584c2bdb9497407b9b9ea3db961900=2863f2ca4f2d974053c240f18110c7a1^IO:8b98cc2bdb9497407b9b9ea3db96192c=TEST^IO:dd123003db11974003a29ea3db9619a9=HANA^EQ</value>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-24 11:06:05</sys_updated_on>
+        <value>IO:f7c23803db11974003a29ea3db96190a=TEST^IO:dd123003db11974003a29ea3db9619a9=HANA^EQ</value>
         <variable display_value="">8a682649c37e220076173b0ac3d3ae47</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">

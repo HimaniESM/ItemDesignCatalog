@@ -17,7 +17,7 @@
         <sys_updated_by>Divya_M</sys_updated_by>
         <sys_updated_on>2018-05-15 13:27:31</sys_updated_on>
         <target_name>x_infte_esm_main_s_request_approval_generator</target_name>
-        <target_scope display_value="esm_main_service_catalog">f84678dddb5853407b9b9ea3db961940</target_scope>
+        <target_scope display_value="">f84678dddb5853407b9b9ea3db961940</target_scope>
         <target_type>sys_db_object</target_type>
     </sys_scope_privilege>
 </record_update>
