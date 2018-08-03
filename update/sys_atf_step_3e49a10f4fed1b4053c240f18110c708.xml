@@ -11,14 +11,14 @@
         <sys_created_by>Kevin_Domadia</sys_created_by>
         <sys_created_on>2018-04-23 03:23:23</sys_created_on>
         <sys_id>3e49a10f4fed1b4053c240f18110c708</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Run Server Side Script</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sys_atf_step_3e49a10f4fed1b4053c240f18110c708</sys_update_name>
-        <sys_updated_by>Amit.Kumar</sys_updated_by>
-        <sys_updated_on>2018-07-24 16:36:43</sys_updated_on>
+        <sys_updated_by>Kevin.Domadia</sys_updated_by>
+        <sys_updated_on>2018-08-02 10:31:12</sys_updated_on>
         <table/>
         <test display_value="toPopulatePrimaryOwner">5539210f4fed1b4053c240f18110c795</test>
         <timeout/>
@@ -32,12 +32,12 @@
         <sys_created_by>Kevin_Domadia</sys_created_by>
         <sys_created_on>2018-04-23 03:23:23</sys_created_on>
         <sys_id>bdd9610f4fed1b4053c240f18110c70c</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_updated_by>Amit.Kumar</sys_updated_by>
-        <sys_updated_on>2018-07-24 16:36:43</sys_updated_on>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>Kevin.Domadia</sys_updated_by>
+        <sys_updated_on>2018-08-02 10:31:12</sys_updated_on>
         <value>(function(outputs, steps, stepResult, assertEqual) {&#13;
-   var ga= x_infte_esm_itemde.toPopulatePrimaryOwner().getOwner("00b785324f451b0053c240f18110c730");&#13;
-	if (ga=="Test")&#13;
+   var ga= x_infte_esm_itemde.toPopulatePrimaryOwner().getOwner("b0ccabf1c0a80009001f14fd151d8df0");&#13;
+	if (ga=="Lucius Bagnoli")&#13;
 		return true;&#13;
 	else&#13;
 		return false;&#13;
