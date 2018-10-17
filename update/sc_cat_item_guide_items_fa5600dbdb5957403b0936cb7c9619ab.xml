@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_guide_items">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items">
     <sc_cat_item_guide_items action="INSERT_OR_UPDATE">
         <condition>IO:bd31e3f2db1157403b0936cb7c961989=5615449bdb5957403b0936cb7c9619ea^EQ</condition>
         <guide display_value="Request For Software">82f063f2db1157403b0936cb7c96191c</guide>

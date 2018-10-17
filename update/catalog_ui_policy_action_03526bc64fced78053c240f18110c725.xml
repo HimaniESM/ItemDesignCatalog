@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="catalog_ui_policy_action">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item/>
         <catalog_variable>IO:36af93464fced78053c240f18110c7e2</catalog_variable>
+        <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
         <mandatory>true</mandatory>
+        <order/>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>Divya_M</sys_created_by>
         <sys_created_on>2018-05-15 06:07:49</sys_created_on>

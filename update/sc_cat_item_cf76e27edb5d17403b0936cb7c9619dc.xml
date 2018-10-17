@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_both</availability>
@@ -60,7 +59,6 @@
         <sys_updated_on>2018-07-24 08:54:05</sys_updated_on>
         <template/>
         <type>item</type>
-        <u_order_guide_attached/>
         <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
@@ -70,45 +68,6 @@
         <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=cf76e27edb5d17403b0936cb7c9619dc"/>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>cf76e27edb5d17403b0936cb7c9619dc</documentkey>
-        <fieldname>description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:53:55</sys_created_on>
-        <sys_id>ecc760b8db63d7409e19323b7c961907</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:53:55</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>&lt;p&gt;&lt;span style="color: #343d47; font-family: SourceSansPro, &amp;#39;Helvetica Neue&amp;#39;, Arial; font-size: 13px;"&gt; Request for booking a Conference Room.&lt;/span&gt;&lt;/p&gt;</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>cf76e27edb5d17403b0936cb7c9619dc</documentkey>
-        <fieldname>name</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:53:55</sys_created_on>
-        <sys_id>a4c760b8db63d7409e19323b7c961902</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:53:55</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>Conference Room Booking</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>cf76e27edb5d17403b0936cb7c9619dc</documentkey>
-        <fieldname>short_description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:53:55</sys_created_on>
-        <sys_id>24c760b8db63d7409e19323b7c961905</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:53:55</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>Conference Booking</value>
-    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=cf76e27edb5d17403b0936cb7c9619dc"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>

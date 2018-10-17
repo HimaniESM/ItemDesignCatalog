@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_both</availability>
@@ -61,7 +60,6 @@
         <sys_updated_on>2018-07-24 08:55:53</sys_updated_on>
         <template/>
         <type>item</type>
-        <u_order_guide_attached/>
         <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
@@ -71,46 +69,6 @@
         <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=eee9b2badb9d17403b0936cb7c9619ef"/>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>eee9b2badb9d17403b0936cb7c9619ef</documentkey>
-        <fieldname>description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:55:41</sys_created_on>
-        <sys_id>ae2828b8db63d7409e19323b7c96190c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:55:41</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>&lt;p style="box-sizing: border-box; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &amp;#39;Helvetica Neue&amp;#39;, Arial; font-size: 13px;"&gt;&lt;span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif; font-size: 12pt;"&gt;Dell OptiPlex GX280 - the standard desktop for corporate employee&lt;/span&gt;&lt;/p&gt;
-&lt;ul style="box-sizing: border-box; padding: 0px; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &amp;#39;Helvetica Neue&amp;#39;, Arial; font-size: 13px; list-style-position: inside;"&gt;&lt;li style="box-sizing: border-box; font-family: arial, helvetica, sans-serif; font-size: 10pt;"&gt;Intel i7 processor&lt;/li&gt;&lt;li style="box-sizing: border-box; font-family: arial, helvetica, sans-serif; font-size: 10pt;"&gt;Microsoft Windows 7&lt;/li&gt;&lt;li style="box-sizing: border-box; font-family: arial, helvetica, sans-serif; font-size: 10pt;"&gt;500 GB solid state hard drive&lt;/li&gt;&lt;li style="box-sizing: border-box; font-family: arial, helvetica, sans-serif; font-size: 10pt;"&gt;8GB of 533MHz&lt;/li&gt;&lt;/ul&gt;</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>eee9b2badb9d17403b0936cb7c9619ef</documentkey>
-        <fieldname>name</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:55:41</sys_created_on>
-        <sys_id>262828b8db63d7409e19323b7c961906</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:55:41</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>Office Desktop</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>eee9b2badb9d17403b0936cb7c9619ef</documentkey>
-        <fieldname>short_description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:55:41</sys_created_on>
-        <sys_id>ea2828b8db63d7409e19323b7c961909</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:55:41</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>Dell Desktop</value>
-    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=eee9b2badb9d17403b0936cb7c9619ef"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>1200</amount>
@@ -156,6 +114,7 @@
         <image_width>20</image_width>
         <size_bytes>763</size_bytes>
         <size_compressed>770</size_compressed>
+        <state/>
         <sys_created_by>divya</sys_created_by>
         <sys_created_on>2018-04-10 12:15:57</sys_created_on>
         <sys_id>901768cbdb9157403b0936cb7c9619b6</sys_id>

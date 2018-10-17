@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_ic_question_choice">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_question_choice">
     <sc_ic_question_choice action="INSERT_OR_UPDATE">
         <cost>0</cost>
         <order>400</order>

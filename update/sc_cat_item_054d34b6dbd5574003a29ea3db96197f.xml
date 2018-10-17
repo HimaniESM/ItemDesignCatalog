@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_both</availability>
@@ -62,7 +61,6 @@
         <sys_updated_on>2018-07-24 08:44:22</sys_updated_on>
         <template/>
         <type>item</type>
-        <u_order_guide_attached/>
         <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
@@ -72,47 +70,6 @@
         <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=054d34b6dbd5574003a29ea3db96197f"/>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>054d34b6dbd5574003a29ea3db96197f</documentkey>
-        <fieldname>description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:40:23</sys_created_on>
-        <sys_id>a6a42034db63d7409e19323b7c96196e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:40:23</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>&lt;p style="box-sizing: border-box; margin: 0px 0px 9px;"&gt;&lt;span style="box-sizing: border-box; font-size: 10pt; color: gray;"&gt;Apple&amp;#39;s iPhone X isn&amp;#39;t just bigger—it&amp;#39;s better in every way. A 5.8-inch Retina HD display. An A11 Bionic chip with 64-bit architecture.&lt;/span&gt;&lt;/p&gt;
-&lt;p style="box-sizing: border-box; margin: 0px 0px 9px;"&gt;&lt;span style="box-sizing: border-box; font-size: 10pt; color: gray;"&gt;Key Features:&lt;/span&gt;&lt;/p&gt;
-&lt;ul style="box-sizing: border-box; padding: 0px; margin: 0px 0px 9px; list-style-position: inside;"&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;5.8-inch (diagonal) all-screen OLED Multi-Touch display&lt;/li&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;2436x1125-pixel resolution at 458 ppi&lt;/li&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;1,000,000:1 contrast ratio (typical)&lt;/li&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;625 cd/m² max brightness (typical)&lt;/li&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;Support for display of multiple languages and characters simultaneously&lt;/li&gt;&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;Fingerprint-resistant oleophobic coating&lt;/li&gt;&lt;/ul&gt;</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>054d34b6dbd5574003a29ea3db96197f</documentkey>
-        <fieldname>name</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:40:23</sys_created_on>
-        <sys_id>e6a42034db63d7409e19323b7c961967</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:40:23</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>Apple iPhone X</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>054d34b6dbd5574003a29ea3db96197f</documentkey>
-        <fieldname>short_description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:40:23</sys_created_on>
-        <sys_id>e2a42034db63d7409e19323b7c96196b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:40:23</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>Apple iPhone X</value>
-    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=054d34b6dbd5574003a29ea3db96197f"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
@@ -158,6 +115,7 @@
         <image_width>39</image_width>
         <size_bytes>980</size_bytes>
         <size_compressed>1003</size_compressed>
+        <state/>
         <sys_created_by>divya</sys_created_by>
         <sys_created_on>2018-04-10 12:17:24</sys_created_on>
         <sys_id>2d67accbdb9157403b0936cb7c961997</sys_id>

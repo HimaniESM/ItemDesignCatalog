@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_both</availability>
@@ -60,7 +59,6 @@
         <sys_updated_on>2018-07-24 08:51:33</sys_updated_on>
         <template/>
         <type>item</type>
-        <u_order_guide_attached/>
         <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
@@ -70,45 +68,6 @@
         <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=8c5b9fbadb1d574003a29ea3db96195f"/>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>8c5b9fbadb1d574003a29ea3db96195f</documentkey>
-        <fieldname>description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:51:17</sys_created_on>
-        <sys_id>8627ec38db63d7409e19323b7c96195b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:51:17</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value/>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>8c5b9fbadb1d574003a29ea3db96195f</documentkey>
-        <fieldname>name</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:51:17</sys_created_on>
-        <sys_id>0e27ec38db63d7409e19323b7c961954</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:51:17</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>Microsoft Wired Keyboard</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>8c5b9fbadb1d574003a29ea3db96195f</documentkey>
-        <fieldname>short_description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:51:17</sys_created_on>
-        <sys_id>c227ec38db63d7409e19323b7c961958</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:51:17</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>PC / Mac Compatible</value>
-    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=8c5b9fbadb1d574003a29ea3db96195f"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>11.92</amount>
@@ -154,6 +113,7 @@
         <image_width>20</image_width>
         <size_bytes>704</size_bytes>
         <size_compressed>573</size_compressed>
+        <state/>
         <sys_created_by>divya</sys_created_by>
         <sys_created_on>2018-04-10 12:45:44</sys_created_on>
         <sys_id>2cede003dbd157403b0936cb7c961920</sys_id>

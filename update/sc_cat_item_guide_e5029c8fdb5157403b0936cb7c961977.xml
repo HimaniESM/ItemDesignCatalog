@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_guide">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide">
     <sc_cat_item_guide action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_desktop</availability>
@@ -69,7 +68,6 @@
         <template/>
         <two_step>true</two_step>
         <type>item</type>
-        <u_order_guide_attached/>
         <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <validator/>
@@ -80,49 +78,6 @@
         <workflow/>
     </sc_cat_item_guide>
     <sys_translated_text action="delete_multiple" query="documentkey=e5029c8fdb5157403b0936cb7c961977"/>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>e5029c8fdb5157403b0936cb7c961977</documentkey>
-        <fieldname>description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 09:00:39</sys_created_on>
-        <sys_id>9f49e03cdb63d7409e19323b7c961992</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 09:00:39</sys_updated_on>
-        <tablename>sc_cat_item_guide</tablename>
-        <value>&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: 14.0pt; color: black;"&gt;You can use this form to uninstall the following softwares: &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style="list-style-position: inside;"&gt;&lt;li style="color: black;"&gt;&lt;span style="font-size: 14.0pt;"&gt;Snagit(Uninstall)&lt;/span&gt;&lt;/li&gt;&lt;li style="color: black;"&gt;&lt;span style="font-size: 14.0pt;"&gt;Acrobat&lt;span style="font-size: 18.6667px;"&gt;(Uninstall)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style="color: black;"&gt;&lt;span style="font-size: 14.0pt;"&gt;Dreamweaver&lt;span style="font-size: 18.6667px;"&gt;(Uninstall)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style="color: black;"&gt;&lt;span style="font-size: 14.0pt;"&gt;VMware Fusion&lt;span style="font-size: 18.6667px;"&gt;(Uninstall)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style="color: black;"&gt;&lt;span style="font-size: 14.0pt;"&gt;Adobe Acrobat Pro&lt;span style="font-size: 18.6667px;"&gt;(Uninstall)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style="color: black;"&gt;&lt;span style="font-size: 14.0pt;"&gt;Microsoft Visio Professional&lt;span style="font-size: 18.6667px;"&gt;(Uninstall)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;span style="font-size: 14.0pt; color: black;"&gt;To ensure your request is efficiently processed, please ensure you select the right item from the drop down and provide as many details as possible.&lt;/span&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;span style="font-size: 14.0pt; font-style: italic; color: black;"&gt;Do not use this form to uninstall software not listed in drop down.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>e5029c8fdb5157403b0936cb7c961977</documentkey>
-        <fieldname>name</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 09:00:38</sys_created_on>
-        <sys_id>5f49e03cdb63d7409e19323b7c96198c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 09:00:38</sys_updated_on>
-        <tablename>sc_cat_item_guide</tablename>
-        <value>Uninstall Software</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>e5029c8fdb5157403b0936cb7c961977</documentkey>
-        <fieldname>short_description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 09:00:39</sys_created_on>
-        <sys_id>1f49e03cdb63d7409e19323b7c96198f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 09:00:39</sys_updated_on>
-        <tablename>sc_cat_item_guide</tablename>
-        <value>The Request is used to uninstall either Standard or Paid Applications  from the workstations</value>
-    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=e5029c8fdb5157403b0936cb7c961977"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
@@ -168,6 +123,7 @@
         <image_width>225</image_width>
         <size_bytes>3927</size_bytes>
         <size_compressed>3950</size_compressed>
+        <state/>
         <sys_created_by>divya</sys_created_by>
         <sys_created_on>2018-04-10 12:38:04</sys_created_on>
         <sys_id>542c20cfdb9157403b0936cb7c9619ef</sys_id>

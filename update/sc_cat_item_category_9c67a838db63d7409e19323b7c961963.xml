@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Conferencing Service Request">77f917bedbdd17403b0936cb7c961994</sc_cat_item>
         <sc_category display_value="Communication">33ada72adb15574003a29ea3db9619c9</sc_category>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="wf_workflow_version">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="wf_workflow_version">
     <wf_workflow_version action="INSERT_OR_UPDATE">
         <active>true</active>
         <activity_stages>{"subflows":[],"stages":{"3a12f3d56f165f80d69dc8c17c3ee43a":{"stageId":"3a12f3d56f165f80d69dc8c17c3ee43a","order":100,"duration":"1 Day","name":"Waiting for Approval","value":"waiting_for_approval"},"b612f3d56f165f80d69dc8c17c3ee43a":{"stageId":"b612f3d56f165f80d69dc8c17c3ee43a","order":1000,"duration":"","name":"Request Cancelled","value":"Request Cancelled"},"b212f3d56f165f80d69dc8c17c3ee43a":{"stageId":"b212f3d56f165f80d69dc8c17c3ee43a","order":90,"duration":"","name":"Request Approved","value":"request_approved"}},"ends":["f212f3d56f165f80d69dc8c17c3ee459"],"activities":{"3212f3d56f165f80d69dc8c17c3ee450":"3a12f3d56f165f80d69dc8c17c3ee43a","b612f3d56f165f80d69dc8c17c3ee453":"b212f3d56f165f80d69dc8c17c3ee43a","ba12f3d56f165f80d69dc8c17c3ee451":"b612f3d56f165f80d69dc8c17c3ee43a"}}</activity_stages>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Email Distribution List Request">7c90d44fdb5157403b0936cb7c961953</sc_cat_item>
         <sc_category display_value="Collaboration">2f1b9fbedbdd17403b0936cb7c9619fb</sc_category>

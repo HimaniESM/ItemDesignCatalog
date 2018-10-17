@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Request For Software">82f063f2db1157403b0936cb7c96191c</sc_cat_item>
         <sc_category display_value="Software Services">b0d0efb2db1157403b0936cb7c961964</sc_category>

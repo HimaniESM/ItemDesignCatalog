@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_ic_item_staging">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_item_staging">
     <sc_ic_item_staging action="INSERT_OR_UPDATE">
         <active>true</active>
         <aprvl_defn_changed>true</aprvl_defn_changed>

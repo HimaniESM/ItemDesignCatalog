@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Server Commissioning">074e0feedb9517403b0936cb7c961977</sc_cat_item>
         <sc_category display_value="Server">08f54beadb9517403b0936cb7c9619a1</sc_category>

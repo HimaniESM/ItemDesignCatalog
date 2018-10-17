@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Executive Desktop">c9e33832dbd5574003a29ea3db9619b0</sc_cat_item>
         <sc_category display_value="Desktops">828658bedb55574003a29ea3db96194f</sc_category>

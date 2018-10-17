@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="catalog_ui_policy_action">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="ServiceNow Group Management">fb0fc8524f421b8053c240f18110c7d7</catalog_item>
         <catalog_variable>IO:bcd0d8924f421b8053c240f18110c74c</catalog_variable>
+        <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
         <mandatory>true</mandatory>
+        <order/>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>Divya_M</sys_created_by>
         <sys_created_on>2018-05-15 10:20:59</sys_created_on>

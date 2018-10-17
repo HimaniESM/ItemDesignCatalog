@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="User Access Setup">bae4bb7adb5d574003a29ea3db96195b</sc_cat_item>
         <sc_category display_value="ESMcafe Management">bb64777adb5d574003a29ea3db96194e</sc_category>

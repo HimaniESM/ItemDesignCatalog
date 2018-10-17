@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="catalog_ui_policy_action">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="Video conference meeting assistance">cc33e2badb5d17403b0936cb7c9619ce</catalog_item>
         <catalog_variable>IO:2d13c774dbad13000a4f3a433a9619f2</catalog_variable>
+        <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
         <mandatory>true</mandatory>
+        <order/>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>suganya_nagarajan</sys_created_by>
         <sys_created_on>2018-04-16 10:08:39</sys_created_on>

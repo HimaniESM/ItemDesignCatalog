@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_both</availability>
@@ -23,8 +22,8 @@
 </div>
 </div>
 </div>
-<div class="form_action_button_container" style="box-sizing: border-box; color: #343d47; font-family: SourceSansPro, &#39;Helvetica Neue&#39;, Arial; font-size: 13px;"><button id="368d20f0c0a8010a00aa4c7caeb13143" class="form_action_button  action_context btn btn-default" style="vertical-align: middle; color: #343d47; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: 13px; line-height: 1.42857; font-family: inherit; margin: 1px 4px; overflow: visible; cursor: pointer; background-image: none; white-space: nowrap; padding: 6px 9px; border-radius: 3px; user-select: none; background-color: rgba(255, 255, 255, 0.45); border: 1px solid #bdc0c4;" name="not_important" type="submit" value="368d20f0c0a8010a00aa4c7caeb13143">Copy</button></div>
-<p><button class="form_action_button  action_context btn btn-default" style="vertical-align: middle; color: #343d47; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: 13px; line-height: 1.42857; font-family: inherit; margin: 1px 4px; overflow: visible; cursor: pointer; background-image: none; white-space: nowrap; padding: 6px 9px; border-radius: 3px; user-select: none; background-color: rgba(255, 255, 255, 0.45); border: 1px solid #bdc0c4;" name="not_important" type="submit" value="368d20f0c0a8010a00aa4c7caeb13143"> </button></p>
+<div class="form_action_button_container" style="box-sizing: border-box; color: #343d47; font-family: SourceSansPro, &#39;Helvetica Neue&#39;, Arial; font-size: 13px;"><button id="368d20f0c0a8010a00aa4c7caeb13143" class="form_action_button  action_context btn btn-default" style="vertical-align: middle; color: #343d47; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: 13px; line-height: 1.42857; font-family: inherit; margin: 1px 4px; overflow: visible; cursor: pointer; background-image: none; white-space: nowrap; padding: 6px 9px; border-radius: 3px; user-select: none; background-color: rgba(255, 255, 255, 0.45); border: 1px solid #bdc0c4;" type="submit">Copy</button></div>
+<p><button class="form_action_button  action_context btn btn-default" style="vertical-align: middle; color: #343d47; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: 13px; line-height: 1.42857; font-family: inherit; margin: 1px 4px; overflow: visible; cursor: pointer; background-image: none; white-space: nowrap; padding: 6px 9px; border-radius: 3px; user-select: none; background-color: rgba(255, 255, 255, 0.45); border: 1px solid #bdc0c4;" type="submit"> </button></p>
 <p> </p>
 <p> </p>]]></description>
         <entitlement_script/>
@@ -76,7 +75,6 @@
         <sys_updated_on>2018-06-19 15:50:12</sys_updated_on>
         <template/>
         <type>item</type>
-        <u_order_guide_attached>e5029c8fdb5157403b0936cb7c961977</u_order_guide_attached>
         <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>

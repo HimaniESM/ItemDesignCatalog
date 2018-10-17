@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_desktop</availability>
@@ -61,7 +60,6 @@
         <sys_updated_on>2018-07-24 08:49:00</sys_updated_on>
         <template/>
         <type>item</type>
-        <u_order_guide_attached/>
         <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
@@ -71,46 +69,6 @@
         <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=3c0047fadb9d17403b0936cb7c9619e3"/>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>3c0047fadb9d17403b0936cb7c9619e3</documentkey>
-        <fieldname>description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:48:48</sys_created_on>
-        <sys_id>f5962038db63d7409e19323b7c961951</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:48:48</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>&lt;div&gt;Any suspecious or any doubts abour your and your colleagues safety, please reach out to facilities.&lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>3c0047fadb9d17403b0936cb7c9619e3</documentkey>
-        <fieldname>name</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:48:48</sys_created_on>
-        <sys_id>7d962038db63d7409e19323b7c96194a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:48:48</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>Raise any Security Concerns </value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>3c0047fadb9d17403b0936cb7c9619e3</documentkey>
-        <fieldname>short_description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:48:48</sys_created_on>
-        <sys_id>35962038db63d7409e19323b7c96194e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:48:48</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>Raise any Security Concerns </value>
-    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=3c0047fadb9d17403b0936cb7c9619e3"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
@@ -156,6 +114,7 @@
         <image_width>90</image_width>
         <size_bytes>2476</size_bytes>
         <size_compressed>2499</size_compressed>
+        <state/>
         <sys_created_by>Sumanth_Ravilla</sys_created_by>
         <sys_created_on>2018-04-21 17:46:18</sys_created_on>
         <sys_id>b62cdeaa6f29d740d69dc8c17c3ee451</sys_id>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Google Nexus 10">00493e7adb9d17403b0936cb7c961945</sc_cat_item>
         <sc_category display_value="Tablets">dfc754fedb55574003a29ea3db961940</sc_category>

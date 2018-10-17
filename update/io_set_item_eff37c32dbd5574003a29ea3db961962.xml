@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="io_set_item">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
     <io_set_item action="INSERT_OR_UPDATE">
         <order>50</order>
         <sc_cat_item display_value="Executive Desktop">c9e33832dbd5574003a29ea3db9619b0</sc_cat_item>

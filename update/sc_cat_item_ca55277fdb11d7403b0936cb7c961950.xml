@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_both</availability>
@@ -65,7 +64,6 @@
         <sys_updated_on>2018-07-24 08:44:23</sys_updated_on>
         <template/>
         <type>item</type>
-        <u_order_guide_attached/>
         <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
@@ -75,50 +73,6 @@
         <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=ca55277fdb11d7403b0936cb7c961950"/>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>ca55277fdb11d7403b0936cb7c961950</documentkey>
-        <fieldname>description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:43:42</sys_created_on>
-        <sys_id>8765a834db63d7409e19323b7c9619e5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:43:42</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>&lt;p style="box-sizing: border-box; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &amp;#39;Helvetica Neue&amp;#39;, Arial; font-size: 13px;"&gt;&lt;span style="box-sizing: border-box; color: #808080; font-size: small;"&gt;&lt;span style="box-sizing: border-box; font-size: medium;"&gt;The Galaxy S8 offers a multitude of features packaged within cutting edge design.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style="box-sizing: border-box; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &amp;#39;Helvetica Neue&amp;#39;, Arial; font-size: 13px;"&gt;&lt;span style="box-sizing: border-box; color: #808080; font-size: small;"&gt;This phone will be part of the corporate mobile contract, and you will not be billed for its use. The phone has the following technical specifications:&lt;/span&gt;&lt;/p&gt;
-&lt;ul style="box-sizing: border-box; padding: 0px; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, &amp;#39;Helvetica Neue&amp;#39;, Arial; font-size: 13px; list-style-position: inside;"&gt;&lt;li style="box-sizing: border-box; color: #808080; font-size: small;"&gt;Android OS&lt;/li&gt;&lt;li style="box-sizing: border-box; color: #808080; font-size: small;"&gt;Face detection&lt;/li&gt;&lt;li style="box-sizing: border-box; color: #808080; font-size: small;"&gt;4GB RAM (LPDDR4)&lt;/li&gt;&lt;li style="box-sizing: border-box; color: #808080; font-size: small;"&gt;8MP AF Camera Resolution Front&lt;/li&gt;&lt;li style="box-sizing: border-box; color: #808080; font-size: small;"&gt;Dual Pixel 12MP AF Camera Resolution Back&lt;/li&gt;&lt;li style="box-sizing: border-box; color: #808080; font-size: small;"&gt;Continuous autofocus video&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>ca55277fdb11d7403b0936cb7c961950</documentkey>
-        <fieldname>name</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:43:41</sys_created_on>
-        <sys_id>7665a834db63d7409e19323b7c9619d2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:43:41</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>Samsung Galaxy S8</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>ca55277fdb11d7403b0936cb7c961950</documentkey>
-        <fieldname>short_description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:43:42</sys_created_on>
-        <sys_id>0f65a834db63d7409e19323b7c9619d5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:43:42</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>Samsung Galaxy S8</value>
-    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=ca55277fdb11d7403b0936cb7c961950"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>724</amount>
@@ -164,6 +118,7 @@
         <image_width>39</image_width>
         <size_bytes>980</size_bytes>
         <size_compressed>1003</size_compressed>
+        <state/>
         <sys_created_by>divya</sys_created_by>
         <sys_created_on>2018-04-13 10:03:14</sys_created_on>
         <sys_id>2975a77fdb11d7403b0936cb7c961904</sys_id>

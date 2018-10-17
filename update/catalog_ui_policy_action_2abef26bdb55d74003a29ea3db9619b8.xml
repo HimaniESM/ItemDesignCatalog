@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="catalog_ui_policy_action">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="SharePoint Access">5a4e684fdbdd574003a29ea3db961916</catalog_item>
         <catalog_variable>IO:dadeac4fdbdd574003a29ea3db961930</catalog_variable>
+        <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
         <mandatory>true</mandatory>
+        <order/>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>sushil</sys_created_by>
         <sys_created_on>2018-04-12 12:35:37</sys_created_on>

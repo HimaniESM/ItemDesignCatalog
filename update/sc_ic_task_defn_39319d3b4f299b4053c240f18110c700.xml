@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_ic_task_defn">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_task_defn">
     <sc_ic_task_defn action="INSERT_OR_UPDATE">
         <active>true</active>
         <assignment_details>Group: IT Support Engineering Team</assignment_details>

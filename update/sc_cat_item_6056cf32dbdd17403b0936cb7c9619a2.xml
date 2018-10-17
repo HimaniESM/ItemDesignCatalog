@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_desktop</availability>
@@ -60,7 +59,6 @@
         <sys_updated_on>2018-07-24 08:47:37</sys_updated_on>
         <template/>
         <type>item</type>
-        <u_order_guide_attached/>
         <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
@@ -70,45 +68,6 @@
         <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=6056cf32dbdd17403b0936cb7c9619a2"/>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>6056cf32dbdd17403b0936cb7c9619a2</documentkey>
-        <fieldname>description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:47:20</sys_created_on>
-        <sys_id>5c46a8f4db63d7409e19323b7c9619d9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:47:20</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>&lt;p&gt;Request for new Ergonomic Equipment and return of any equipment that is no longer required.&lt;/p&gt;</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>6056cf32dbdd17403b0936cb7c9619a2</documentkey>
-        <fieldname>name</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:47:20</sys_created_on>
-        <sys_id>d046a8f4db63d7409e19323b7c9619d3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:47:20</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>Ergonomic Equipment request</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>6056cf32dbdd17403b0936cb7c9619a2</documentkey>
-        <fieldname>short_description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:47:20</sys_created_on>
-        <sys_id>9846a8f4db63d7409e19323b7c9619d6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:47:20</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>Health and Safety - Ergonomic Equipment request</value>
-    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=6056cf32dbdd17403b0936cb7c9619a2"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
@@ -154,6 +113,7 @@
         <image_width>90</image_width>
         <size_bytes>881</size_bytes>
         <size_compressed>904</size_compressed>
+        <state/>
         <sys_created_by>Sumanth_Ravilla</sys_created_by>
         <sys_created_on>2018-04-21 16:44:16</sys_created_on>
         <sys_id>cafd0ee26f29d740d69dc8c17c3ee4bd</sys_id>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_desktop</availability>
@@ -60,7 +59,6 @@
         <sys_updated_on>2018-07-24 08:48:10</sys_updated_on>
         <template/>
         <type>item</type>
-        <u_order_guide_attached/>
         <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
@@ -70,45 +68,6 @@
         <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=cab40332dbdd17403b0936cb7c96198d"/>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>cab40332dbdd17403b0936cb7c96198d</documentkey>
-        <fieldname>description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:48:00</sys_created_on>
-        <sys_id>46666cf4db63d7409e19323b7c9619de</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:48:00</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>&lt;p&gt;Any suspicious or any doubts about your and your colleagues safety, please reach out to facilities.&lt;/p&gt;</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>cab40332dbdd17403b0936cb7c96198d</documentkey>
-        <fieldname>name</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:48:00</sys_created_on>
-        <sys_id>ca666cf4db63d7409e19323b7c9619d7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:48:00</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>Cleaning</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>cab40332dbdd17403b0936cb7c96198d</documentkey>
-        <fieldname>short_description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:48:00</sys_created_on>
-        <sys_id>82666cf4db63d7409e19323b7c9619db</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:48:00</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>House Keeping - Cleaning</value>
-    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=cab40332dbdd17403b0936cb7c96198d"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
@@ -154,6 +113,7 @@
         <image_width>90</image_width>
         <size_bytes>2560</size_bytes>
         <size_compressed>2583</size_compressed>
+        <state/>
         <sys_created_by>Sumanth_Ravilla</sys_created_by>
         <sys_created_on>2018-04-21 16:42:24</sys_created_on>
         <sys_id>328d8ae26f29d740d69dc8c17c3ee466</sys_id>

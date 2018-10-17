@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_atf_step">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
         <description>Search for 'Apple iphone 8' in 'Service Catalog' and 'Mobiles' category and confirm that the search returns 'Apple iPhone 8' item</description>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
     <sc_category action="INSERT_OR_UPDATE">
         <active>true</active>
         <description>End user peripherals such as mobile phone cases, dongles, and cables</description>
@@ -44,6 +43,7 @@
         <image_width>54</image_width>
         <size_bytes>1035</size_bytes>
         <size_compressed>1008</size_compressed>
+        <state/>
         <sys_created_by>sushil</sys_created_by>
         <sys_created_on>2018-04-10 10:35:42</sys_created_on>
         <sys_id>8820d0cbdb9d574003a29ea3db961953</sys_id>
@@ -81,6 +81,7 @@
         <image_width>54</image_width>
         <size_bytes>1035</size_bytes>
         <size_compressed>1008</size_compressed>
+        <state/>
         <sys_created_by>sushil</sys_created_by>
         <sys_created_on>2018-04-10 10:35:55</sys_created_on>
         <sys_id>972014cbdb9d574003a29ea3db961904</sys_id>

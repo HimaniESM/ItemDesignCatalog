@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Microsoft Wired Keyboard">8c5b9fbadb1d574003a29ea3db96195f</sc_cat_item>
         <sc_category display_value="Peripherals and Accessories">42f25b36db1d574003a29ea3db96197d</sc_category>

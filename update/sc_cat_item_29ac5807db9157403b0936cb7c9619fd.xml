@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_both</availability>
@@ -62,7 +61,6 @@
         <sys_updated_on>2018-06-19 15:50:12</sys_updated_on>
         <template/>
         <type>item</type>
-        <u_order_guide_attached>e5029c8fdb5157403b0936cb7c961977</u_order_guide_attached>
         <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
@@ -117,6 +115,7 @@
         <image_width>39</image_width>
         <size_bytes>2215</size_bytes>
         <size_compressed>2238</size_compressed>
+        <state/>
         <sys_created_by>divya</sys_created_by>
         <sys_created_on>2018-04-10 12:27:36</sys_created_on>
         <sys_id>47b9684fdb9157403b0936cb7c9619a1</sys_id>

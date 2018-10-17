@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_guide">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide">
     <sc_cat_item_guide action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_desktop</availability>
@@ -68,7 +67,6 @@
         <template/>
         <two_step>true</two_step>
         <type>item</type>
-        <u_order_guide_attached/>
         <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <validator/>
@@ -79,48 +77,6 @@
         <workflow/>
     </sc_cat_item_guide>
     <sys_translated_text action="delete_multiple" query="documentkey=a0d6d4cfdb9d574003a29ea3db9619bf"/>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>a0d6d4cfdb9d574003a29ea3db9619bf</documentkey>
-        <fieldname>description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:59:26</sys_created_on>
-        <sys_id>69092cf8db63d7409e19323b7c961973</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:59:26</sys_updated_on>
-        <tablename>sc_cat_item_guide</tablename>
-        <value>&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: 14.0pt; color: black;"&gt;You can use this form to request access or change your permissions for the following: &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style="list-style-position: inside;"&gt;&lt;li style="color: black;"&gt;ServiceNow&lt;/li&gt;&lt;li style="color: black;"&gt;SharePoint&lt;/li&gt;&lt;li style="color: black;"&gt;SAP&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;span style="font-size: 14.0pt; color: black;"&gt;To ensure your request is efficiently processed, please ensure you select the right item from the drop down and provide as much detail as possible in the description of the request and the business justification.&lt;/span&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;span style="font-size: 14.0pt; font-style: italic; color: black;"&gt;Do not use this form to request access to applications not listed in drop down.&lt;/span&gt;&lt;/p&gt;</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>a0d6d4cfdb9d574003a29ea3db9619bf</documentkey>
-        <fieldname>name</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:59:26</sys_created_on>
-        <sys_id>950928f8db63d7409e19323b7c9619a3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:59:26</sys_updated_on>
-        <tablename>sc_cat_item_guide</tablename>
-        <value>Request/Modify Access</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>a0d6d4cfdb9d574003a29ea3db9619bf</documentkey>
-        <fieldname>short_description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:59:26</sys_created_on>
-        <sys_id>d5092cf8db63d7409e19323b7c961970</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:59:26</sys_updated_on>
-        <tablename>sc_cat_item_guide</tablename>
-        <value>Request for access to new users or modify existing levels of access for different applications from the list</value>
-    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=a0d6d4cfdb9d574003a29ea3db9619bf"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
@@ -166,6 +122,7 @@
         <image_width>241</image_width>
         <size_bytes>12553</size_bytes>
         <size_compressed>11975</size_compressed>
+        <state/>
         <sys_created_by>sushil</sys_created_by>
         <sys_created_on>2018-04-10 11:10:43</sys_created_on>
         <sys_id>0d289003dbdd574003a29ea3db961990</sys_id>

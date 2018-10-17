@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update sys_domain="global" table="cxs_rp_config">
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_rp_config">
     <cxs_rp_config action="INSERT_OR_UPDATE">
         <active>true</active>
         <allow_expand_collapse>false</allow_expand_collapse>
         <cxs_context_config display_value="Catalog items">53dc84ee4fa9d74053c240f18110c775</cxs_context_config>
         <limit>10</limit>
         <name>Can't Find Anything</name>
-        <result_action_label>This helped</result_action_label>
-        <result_action_value>This helped</result_action_value>
         <results_header_text>Catalog Results</results_header_text>
         <results_per_page>10</results_per_page>
         <sc_cat_item display_value="">0a690c2e4fa9d74053c240f18110c717</sc_cat_item>

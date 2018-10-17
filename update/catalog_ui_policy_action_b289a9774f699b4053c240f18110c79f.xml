@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="catalog_ui_policy_action">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="Projector Accessories">ed315d3b4f299b4053c240f18110c7a2</catalog_item>
         <catalog_variable>IO:8f03dd7b4f299b4053c240f18110c7b7</catalog_variable>
+        <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
         <mandatory>true</mandatory>
+        <order/>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>Suganya_Nagarajan</sys_created_by>
         <sys_created_on>2018-04-25 11:17:31</sys_created_on>

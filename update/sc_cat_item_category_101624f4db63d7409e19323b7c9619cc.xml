@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Internet Access">d75e7e2edb91574003a29ea3db9619ef</sc_cat_item>
         <sc_category display_value="General Service Request">3c46722adb91574003a29ea3db961996</sc_category>

@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new_set">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
     <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
         <description>Variable set used in request for Access under Application Access Category</description>
         <display_title>false</display_title>
+        <internal_name>u_request_access_set</internal_name>
         <layout>normal</layout>
         <name>Request Access Set</name>
         <order>100</order>
+        <read_roles/>
         <sys_class_name>item_option_new_set</sys_class_name>
         <sys_created_by>divya</sys_created_by>
         <sys_created_on>2018-04-09 17:18:37</sys_created_on>
@@ -18,6 +20,8 @@
         <sys_update_name>item_option_new_set_dcb2a836db95574003a29ea3db96195a</sys_update_name>
         <sys_updated_by>divya</sys_updated_by>
         <sys_updated_on>2018-04-09 17:19:26</sys_updated_on>
-        <title/>
+        <title>Request Access Set</title>
+        <type>one_to_one</type>
+        <write_roles/>
     </item_option_new_set>
 </record_update>

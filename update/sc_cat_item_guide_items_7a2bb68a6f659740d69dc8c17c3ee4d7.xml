@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_guide_items">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items">
     <sc_cat_item_guide_items action="INSERT_OR_UPDATE">
         <condition>IO:07e7e20a6f259740d69dc8c17c3ee4de=true^IO:a768aa0a6f259740d69dc8c17c3ee4a2=8a799c1ddb69530004bf6f048a96197d^EQ</condition>
         <guide display_value="Onboarding">8a8422866f259740d69dc8c17c3ee493</guide>

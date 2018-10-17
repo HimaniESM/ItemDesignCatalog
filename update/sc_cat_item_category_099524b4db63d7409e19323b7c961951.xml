@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Apple iPhone 8">b541ebbbdb11d7403b0936cb7c9619c1</sc_cat_item>
         <sc_category display_value="Mobiles">a1a714fedb55574003a29ea3db961931</sc_category>

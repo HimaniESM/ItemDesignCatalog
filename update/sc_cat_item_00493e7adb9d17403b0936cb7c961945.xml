@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_both</availability>
@@ -62,7 +61,6 @@
         <sys_updated_on>2018-08-02 10:52:43</sys_updated_on>
         <template/>
         <type>item</type>
-        <u_order_guide_attached/>
         <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
@@ -72,52 +70,6 @@
         <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=00493e7adb9d17403b0936cb7c961945"/>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>00493e7adb9d17403b0936cb7c961945</documentkey>
-        <fieldname>description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:43:08</sys_created_on>
-        <sys_id>ea452834db63d7409e19323b7c961949</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>Kevin.Domadia</sys_updated_by>
-        <sys_updated_on>2018-08-02 10:52:43</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>&lt;p style="box-sizing: border-box; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, 'Helvetica Neue', Arial; font-size: 13px;"&gt;&lt;span style="box-sizing: border-box; font-size: 12pt;"&gt;&lt;span style="box-sizing: border-box; color: gray;"&gt;Google Nexus 10 Black Wi-Fi 16GB Tablet, Model NEXUS10ASUS1B16&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
-&lt;p style="box-sizing: border-box; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, 'Helvetica Neue', Arial; font-size: 13px;"&gt;&lt;span style="box-sizing: border-box; color: gray;"&gt;Key Features:&lt;/span&gt;&lt;/p&gt;&#13;
-&lt;ul style="box-sizing: border-box; padding: 0px; margin: 0px 0px 9px; color: #343d47; font-family: SourceSansPro, 'Helvetica Neue', Arial; font-size: 13px; list-style-position: inside;"&gt;&#13;
-&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;The world's 1st&amp;nbsp;Android 4.2 (Jelly Bean), upgradable to 5.1 (Lollipop)&amp;nbsp;tablet&lt;/li&gt;&#13;
-&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;Dual-core 1.7 GHz Cortex-A15&amp;nbsp;tablet delivers an advanced multimedia experience with up to 9.5* hours of battery life&lt;/li&gt;&#13;
-&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;Best NFC experience on a tablet with a textured tactile design for enhanced comfort measuring just 10.45mm thin and 340g light&lt;/li&gt;&#13;
-&lt;li style="box-sizing: border-box; font-size: 10pt;"&gt;Super PLS TFT capacitive touchscreen, 16M colors&lt;/li&gt;&#13;
-&lt;/ul&gt;</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>00493e7adb9d17403b0936cb7c961945</documentkey>
-        <fieldname>name</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:43:07</sys_created_on>
-        <sys_id>6e45a434db63d7409e19323b7c96191f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:43:07</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>Google Nexus 10</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>00493e7adb9d17403b0936cb7c961945</documentkey>
-        <fieldname>short_description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 08:43:08</sys_created_on>
-        <sys_id>2a452834db63d7409e19323b7c961946</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 08:43:08</sys_updated_on>
-        <tablename>sc_cat_item</tablename>
-        <value>Google Nexus 10</value>
-    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=00493e7adb9d17403b0936cb7c961945"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>299.99</amount>
@@ -163,6 +115,7 @@
         <image_width>39</image_width>
         <size_bytes>980</size_bytes>
         <size_compressed>1003</size_compressed>
+        <state/>
         <sys_created_by>divya</sys_created_by>
         <sys_created_on>2018-04-10 12:20:47</sys_created_on>
         <sys_id>d728e40fdb9157403b0936cb7c961937</sys_id>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_guide_items">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items">
     <sc_cat_item_guide_items action="INSERT_OR_UPDATE">
         <condition>IO:10f270c3dbd157403b0936cb7c961956=af04f8c3dbd157403b0936cb7c9619d4^EQ</condition>
         <guide display_value="Revoke  Access">b2927c83dbd157403b0936cb7c9619a6</guide>

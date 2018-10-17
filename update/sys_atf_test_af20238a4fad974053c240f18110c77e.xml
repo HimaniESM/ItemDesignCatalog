@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_atf_test">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
     <sys_atf_test action="INSERT_OR_UPDATE">
         <active>true</active>
         <description>Canon - imageCLASS LBP-6650DN Laser Printer - Monochrome - 2400 x 600dpi Print - Plain Paper Print &#13;

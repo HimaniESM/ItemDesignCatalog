@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Standard Laptop">e44bd4dddb69530004bf6f048a9619cb</sc_cat_item>
         <sc_category display_value="Laptops">1556f2066f659740d69dc8c17c3ee487</sc_category>

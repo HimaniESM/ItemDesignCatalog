@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_both</availability>
@@ -60,7 +59,6 @@
         <sys_updated_on>2018-06-19 15:47:08</sys_updated_on>
         <template/>
         <type>item</type>
-        <u_order_guide_attached>a0d6d4cfdb9d574003a29ea3db9619bf</u_order_guide_attached>
         <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>

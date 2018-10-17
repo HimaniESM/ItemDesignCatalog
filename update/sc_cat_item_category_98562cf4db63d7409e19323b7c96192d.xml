@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Ergonomic Equipment request">6056cf32dbdd17403b0936cb7c9619a2</sc_cat_item>
         <sc_category display_value="Health and Safety">a6d58b32dbdd17403b0936cb7c96191b</sc_category>

@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_atf_step">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
         <description>Answer the questions on the form as follows:
 Requested For = ESM ESS USER
-and Validity Date = 2018-08-22
+and Validity Date = 2019-05-24
 and Reason For Allocation = Work related</description>
         <display_name>Set Variable Values</display_name>
         <inputs/>
@@ -14,14 +13,14 @@ and Reason For Allocation = Work related</description>
         <sys_created_by>Sushil Kumar</sys_created_by>
         <sys_created_on>2018-04-20 06:25:29</sys_created_on>
         <sys_id>ac86fa4e4f2d974053c240f18110c768</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Set Variable Values</sys_name>
         <sys_package display_value="Esm_ItemDesign_ServiceCatalog" source="x_infte_esm_itemde">67fe52e6db5517403b0936cb7c96199e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Esm_ItemDesign_ServiceCatalog">67fe52e6db5517403b0936cb7c96199e</sys_scope>
         <sys_update_name>sys_atf_step_ac86fa4e4f2d974053c240f18110c768</sys_update_name>
-        <sys_updated_by>Amit.Kumar</sys_updated_by>
-        <sys_updated_on>2018-07-24 09:45:54</sys_updated_on>
+        <sys_updated_by>ESM Admin</sys_updated_by>
+        <sys_updated_on>2018-10-15 06:49:43</sys_updated_on>
         <table/>
         <test display_value="VMware Fusion_ServiceCatalog_ItemDesign">ecd43a0e4f2d974053c240f18110c7bd</test>
         <timeout/>
@@ -49,10 +48,10 @@ and Reason For Allocation = Work related</description>
         <sys_created_by>Sushil Kumar</sys_created_by>
         <sys_created_on>2018-04-20 06:25:29</sys_created_on>
         <sys_id>c0c6fe4e4f2d974053c240f18110c7a4</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>Amit.Kumar</sys_updated_by>
-        <sys_updated_on>2018-07-24 09:45:54</sys_updated_on>
-        <value>IO:27a93ffedb1157403b0936cb7c961946=0625f1946f11db00d69dc8c17c3ee496^IO:ca1cf372db5157403b0936cb7c9619a5=2018-08-22^IO:ec96c48ddbed130004bf6f048a961970=Work related^EQ</value>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>ESM Admin</sys_updated_by>
+        <sys_updated_on>2018-10-15 06:49:43</sys_updated_on>
+        <value>IO:27a93ffedb1157403b0936cb7c961946=0625f1946f11db00d69dc8c17c3ee496^IO:ca1cf372db5157403b0936cb7c9619a5=2019-05-24^IO:ec96c48ddbed130004bf6f048a961970=Work related^EQ</value>
         <variable display_value="">346eea25c3b2220076173b0ac3d3ae8b</variable>
     </sys_variable_value>
 </record_update>

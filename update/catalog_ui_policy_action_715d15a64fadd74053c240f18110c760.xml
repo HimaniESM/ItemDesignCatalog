@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="catalog_ui_policy_action">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="New hire desk space ">d8f6d33edbdd17403b0936cb7c961901</catalog_item>
         <catalog_variable>IO:50f6173edbdd17403b0936cb7c96194e</catalog_variable>
+        <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
         <mandatory>true</mandatory>
+        <order/>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>Suganya_Nagarajan</sys_created_by>
         <sys_created_on>2018-04-21 13:12:02</sys_created_on>

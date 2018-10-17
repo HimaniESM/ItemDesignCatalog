@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="io_set_item">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
     <io_set_item action="INSERT_OR_UPDATE">
         <order>-1</order>
         <sc_cat_item display_value="Remote User Access">218ddf2edbd1574003a29ea3db9619f9</sc_cat_item>

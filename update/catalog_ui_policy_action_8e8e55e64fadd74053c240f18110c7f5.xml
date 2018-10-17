@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="catalog_ui_policy_action">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="Access to restricted areas">4ba8727adb9d17403b0936cb7c9619f4</catalog_item>
         <catalog_variable>IO:dfa8767adb9d17403b0936cb7c9619a1</catalog_variable>
+        <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
         <mandatory>true</mandatory>
+        <order/>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>Suganya_Nagarajan</sys_created_by>
         <sys_created_on>2018-04-21 13:17:01</sys_created_on>

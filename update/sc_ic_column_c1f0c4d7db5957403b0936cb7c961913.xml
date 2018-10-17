@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_ic_column">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_column">
     <sc_ic_column action="INSERT_OR_UPDATE">
         <index>0</index>
         <name>Left column</name>

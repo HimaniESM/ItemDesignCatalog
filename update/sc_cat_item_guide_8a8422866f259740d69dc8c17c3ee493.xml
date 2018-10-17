@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_guide">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide">
     <sc_cat_item_guide action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_desktop</availability>
@@ -65,7 +64,6 @@
         <template/>
         <two_step>true</two_step>
         <type>item</type>
-        <u_order_guide_attached/>
         <u_schedule/>
         <use_sc_layout>true</use_sc_layout>
         <validator/>
@@ -76,45 +74,6 @@
         <workflow/>
     </sc_cat_item_guide>
     <sys_translated_text action="delete_multiple" query="documentkey=8a8422866f259740d69dc8c17c3ee493"/>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>8a8422866f259740d69dc8c17c3ee493</documentkey>
-        <fieldname>description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 09:00:08</sys_created_on>
-        <sys_id>af29acf8db63d7409e19323b7c9619da</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 09:00:08</sys_updated_on>
-        <tablename>sc_cat_item_guide</tablename>
-        <value/>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>8a8422866f259740d69dc8c17c3ee493</documentkey>
-        <fieldname>name</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 09:00:07</sys_created_on>
-        <sys_id>6f29acf8db63d7409e19323b7c9619d5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 09:00:07</sys_updated_on>
-        <tablename>sc_cat_item_guide</tablename>
-        <value>Onboarding</value>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>8a8422866f259740d69dc8c17c3ee493</documentkey>
-        <fieldname>short_description</fieldname>
-        <language>und</language>
-        <sys_created_by>Divya.M</sys_created_by>
-        <sys_created_on>2018-07-24 09:00:07</sys_created_on>
-        <sys_id>2729acf8db63d7409e19323b7c9619d8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Divya.M</sys_updated_by>
-        <sys_updated_on>2018-07-24 09:00:07</sys_updated_on>
-        <tablename>sc_cat_item_guide</tablename>
-        <value>Onboarding request will enable HR and Managers to raise request for onboarding New Hires - Employees, Interns, Contractors, Vendors onto the company system</value>
-    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=8a8422866f259740d69dc8c17c3ee493"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>

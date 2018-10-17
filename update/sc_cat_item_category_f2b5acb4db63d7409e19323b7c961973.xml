@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Brother Network-Ready Color Laser Printer">d72f6c03dbd157403b0936cb7c961946</sc_cat_item>
         <sc_category display_value="Printers">c56750fedb55574003a29ea3db9619fb</sc_category>

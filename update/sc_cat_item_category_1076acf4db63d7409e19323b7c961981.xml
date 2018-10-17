@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Shifting">376383fedb9d17403b0936cb7c9619df</sc_cat_item>
         <sc_category display_value="House keeping">66428bbedb9d17403b0936cb7c961942</sc_category>

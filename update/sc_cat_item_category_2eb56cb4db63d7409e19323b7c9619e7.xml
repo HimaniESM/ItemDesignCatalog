@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Office Printer">05db3476dbd5574003a29ea3db961935</sc_cat_item>
         <sc_category display_value="Printers">c56750fedb55574003a29ea3db9619fb</sc_category>

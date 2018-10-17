@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_form_sections form_id="2ff3849b4fc69b8053c240f18110c731" sys_domain="global" table="sc_cat_item_producer" version="3">
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>0</position>

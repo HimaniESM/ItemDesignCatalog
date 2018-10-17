@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_ic_aprvl_defn_staging">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_aprvl_defn_staging">
     <sc_ic_aprvl_defn_staging action="INSERT_OR_UPDATE">
         <active>true</active>
         <detail>Manager approval for temporary user</detail>

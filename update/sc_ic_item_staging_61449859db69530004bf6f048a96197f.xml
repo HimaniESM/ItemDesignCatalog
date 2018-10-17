@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_ic_item_staging">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_item_staging">
     <sc_ic_item_staging action="INSERT_OR_UPDATE">
         <active>true</active>
         <aprvl_defn_changed>false</aprvl_defn_changed>
@@ -94,6 +93,7 @@
         <image_width>210</image_width>
         <size_bytes>34843</size_bytes>
         <size_compressed>34667</size_compressed>
+        <state/>
         <sys_created_by>Divya_M</sys_created_by>
         <sys_created_on>2018-05-21 12:27:07</sys_created_on>
         <sys_id>b7c2f3cc4fd61f8053c240f18110c72c</sys_id>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_form_sections form_id="1127b27e6f111340d69dc8c17c3ee475" sys_domain="global" table="pc_hardware_cat_item" version="3">
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>0</position>

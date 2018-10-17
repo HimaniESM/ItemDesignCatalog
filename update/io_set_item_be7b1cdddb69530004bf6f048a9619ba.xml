@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="io_set_item">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
     <io_set_item action="INSERT_OR_UPDATE">
         <order>50</order>
         <sc_cat_item display_value="Development Laptop (PC)">fbd71cd9db69530004bf6f048a96191f</sc_cat_item>
